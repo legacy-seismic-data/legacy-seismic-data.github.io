@@ -1,0 +1,38 @@
+- title: home
+  url: "/"
+  side: left
+
+- title: station map
+  url: "/station-map/"
+  side: left
+
+- title: event map
+  url: "/event-map/"
+  side: left
+
+- title: organizations
+  url: "/organizations/"
+  side: left
+
+- title: references
+  url: "/references/"
+  side: left
+
+- title: index
+  url: "/listing/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
