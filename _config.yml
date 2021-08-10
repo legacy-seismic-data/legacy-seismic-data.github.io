@@ -43,7 +43,7 @@ urlimg: 'https://ljhwang.github.io/Legacy-Seismic-Data/images/'
 
 # Logo size is 600x80 pixels
 # Do not use logo for now
-# logo: "logo.png"
+ logo: "logo.png"
 
 # Plugins
 plugins:
