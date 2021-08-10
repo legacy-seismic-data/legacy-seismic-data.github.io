@@ -6,21 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: logo.png
+#  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header.jpg
 widget1:
   title: "Map"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/station-map'
-  image: organizations.jpg
+  image: organizations_resampled.jpg
   text: 'Map to find stations'
 widget2:
   title: "Index"
-  image: index.jpg
+  image: index_resize.jpg
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/listing'
   text: 'List of stations'
 widget3:
   title: "References"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/references'
-  image: references.jpg
+  image: organizations2.jpg
   text: 'Find reference materials for projects referred to here.'
 #
 # Use the call for action to show a button on the frontpage
