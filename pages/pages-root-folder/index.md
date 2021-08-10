@@ -12,7 +12,7 @@ widget1:
   title: "Organizations"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/organizations'
   image: organizations_resampled.jpg
-  text: 'Discover organizations that maintin legacy data'
+  text: 'Discover organizations that maintain legacy data'
 widget2:
   title: "Index"
   image: scrabble_resize.jpg
