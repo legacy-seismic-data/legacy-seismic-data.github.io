@@ -7,7 +7,7 @@
 layout: frontpage
 header:
 #  image_fullwidth: header_unsplash_12.jpg
-  image_fullwidth: header.jpg
+  image_fullwidth: background16-9offset.jpg
 widget1:
   title: "Map"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/station-map'
@@ -15,7 +15,7 @@ widget1:
   text: 'Map to find stations'
 widget2:
   title: "Index"
-  image: index_resize.jpg
+  image: scrabble_resize.jpg
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/listing'
   text: 'List of stations'
 widget3:
