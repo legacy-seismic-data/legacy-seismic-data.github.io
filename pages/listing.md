@@ -5,7 +5,7 @@ title               : "Index"
 subheadline         : "FIND"
 teaser              : "This is the stations list"
 header:
-   image_fullwidth  : "index.jpg"
+   image_fullwidth  : "scrabble.jpg"
 permalink           : "/listing/"
 ---
 

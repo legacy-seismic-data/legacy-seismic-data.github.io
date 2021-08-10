@@ -5,7 +5,7 @@ title               : "Organizations"
 subheadline         : "FIND"
 teaser              : "Find more information about legacy holdings"
 header:
-   image_fullwidth  : "references.jpg"
+   image_fullwidth  : "organizations_resampled.jpg"
 permalink           : "/organizations/"
 ---
 

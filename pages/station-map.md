@@ -5,7 +5,7 @@ title               : "Station Map"
 subheadline         : "FIND"
 teaser              : "Search for stations with legacy data."
 header:
-   image_fullwidth  : "organizations.jpg"
+   image_fullwidth  : "world2.jpg"
 permalink           : "/station-map/"
 ---
 

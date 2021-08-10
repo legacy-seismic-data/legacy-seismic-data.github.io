@@ -5,7 +5,7 @@ title               : "References"
 subheadline         : "FIND"
 teaser              : "A list of all references used here and more!"
 header:
-   image_fullwidth  : "references.jpg"
+   image_fullwidth  : "organizations2.jpg"
 permalink           : "/references/"
 ---
 
