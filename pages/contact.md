@@ -1,7 +1,7 @@
 ---
 layout              : page
 title               : "Contact"
-meta_title          : "Contact and use our contact form"
+meta_title          : "Contact"
 subheadline         : "Feedback"
 teaser              : "Have a suggestion? Have a question?"
 permalink           : "/contact/"
