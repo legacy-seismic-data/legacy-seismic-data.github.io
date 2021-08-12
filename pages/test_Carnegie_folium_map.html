@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_dadaaab94bd147a2942704ebe16b312e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_dadaaab94bd147a2942704ebe16b312e" ></div>
+        
+</body>
+<script>    
+    
+            var map_dadaaab94bd147a2942704ebe16b312e = L.map(
+                "map_dadaaab94bd147a2942704ebe16b312e",
+                {
+                    center: [20.0, -40.0],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 3,
+                    zoomControl: true,
+                    preferCanvas: false,
+                    worldCopyJump: true,
+                    noWrap: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ca0ca9c9a0724531af243e8c166f2473 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var marker_0f54206944214508a69fc5108db1c773 = L.marker(
+                [38.5449, -121.7405],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_3cd19f6d9dc5407bae8d64d6818dc7e7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_0f54206944214508a69fc5108db1c773.setIcon(icon_3cd19f6d9dc5407bae8d64d6818dc7e7);
+        
+    
+        var popup_eed9dcdfd38645a888c6ee3661a3b4ff = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bd4aafd287e845ac916e14ea5b64a0e9 = $(`<div id="html_bd4aafd287e845ac916e14ea5b64a0e9" style="width: 100.0%; height: 100.0%;"><i>Davis, CA</i></div>`)[0];
+            popup_eed9dcdfd38645a888c6ee3661a3b4ff.setContent(html_bd4aafd287e845ac916e14ea5b64a0e9);
+        
+
+        marker_0f54206944214508a69fc5108db1c773.bindPopup(popup_eed9dcdfd38645a888c6ee3661a3b4ff)
+        ;
+
+        
+    
+    
+            marker_0f54206944214508a69fc5108db1c773.bindTooltip(
+                `<div>
+                      CIG Headquarters
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb5f7fb2c61f4b93933a5e64fc87f9dc = L.marker(
+                [39.7392, -104.9903],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_222f6d1259dd439ca4bd913dcd61b989 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_bb5f7fb2c61f4b93933a5e64fc87f9dc.setIcon(icon_222f6d1259dd439ca4bd913dcd61b989);
+        
+    
+        var popup_023b40630ccb438699fd1ef5d3a023d8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5dc6ecb998004fe7bcd92e24b94f1da1 = $(`<div id="html_5dc6ecb998004fe7bcd92e24b94f1da1" style="width: 100.0%; height: 100.0%;">Org 2</div>`)[0];
+            popup_023b40630ccb438699fd1ef5d3a023d8.setContent(html_5dc6ecb998004fe7bcd92e24b94f1da1);
+        
+
+        marker_bb5f7fb2c61f4b93933a5e64fc87f9dc.bindPopup(popup_023b40630ccb438699fd1ef5d3a023d8)
+        ;
+
+        
+    
+    
+            marker_bb5f7fb2c61f4b93933a5e64fc87f9dc.bindTooltip(
+                `<div>
+                     Org 2
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e8abff7d3f5144309b693b575260b360 = L.marker(
+                [38.5449, -121.7405],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_9dd16b6fb1e94c5cbeecb7be7d2b2e66 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_e8abff7d3f5144309b693b575260b360.setIcon(icon_9dd16b6fb1e94c5cbeecb7be7d2b2e66);
+        
+    
+        var popup_274f270c0c634cca907f225c61608ca0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_b6aa80963fce4907ac671405b8bf3ab7 = $(`<div id="html_b6aa80963fce4907ac671405b8bf3ab7" style="width: 100.0%; height: 100.0%;">Org 3</div>`)[0];
+            popup_274f270c0c634cca907f225c61608ca0.setContent(html_b6aa80963fce4907ac671405b8bf3ab7);
+        
+
+        marker_e8abff7d3f5144309b693b575260b360.bindPopup(popup_274f270c0c634cca907f225c61608ca0)
+        ;
+
+        
+    
+    
+            marker_e8abff7d3f5144309b693b575260b360.bindTooltip(
+                `<div>
+                     Org 3
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_920f8817f0144fa5a60cd18f57d96c08 = L.marker(
+                [51.5074, -0.1278],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_34f26e5fe12d49589522089e3e6a5cb8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_920f8817f0144fa5a60cd18f57d96c08.setIcon(icon_34f26e5fe12d49589522089e3e6a5cb8);
+        
+    
+        var popup_2c70b690f9ac41bd85825f7cf90459bd = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4e4ec552f5ef47cf8a5da881d77082c9 = $(`<div id="html_4e4ec552f5ef47cf8a5da881d77082c9" style="width: 100.0%; height: 100.0%;">Org 4</div>`)[0];
+            popup_2c70b690f9ac41bd85825f7cf90459bd.setContent(html_4e4ec552f5ef47cf8a5da881d77082c9);
+        
+
+        marker_920f8817f0144fa5a60cd18f57d96c08.bindPopup(popup_2c70b690f9ac41bd85825f7cf90459bd)
+        ;
+
+        
+    
+    
+            marker_920f8817f0144fa5a60cd18f57d96c08.bindTooltip(
+                `<div>
+                     Org 4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c791e73d9a0b46a799385e32f9205933 = L.marker(
+                [48.8566, -2.3522],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_f96a0a7aa8154403be2284d6f2b049cd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_c791e73d9a0b46a799385e32f9205933.setIcon(icon_f96a0a7aa8154403be2284d6f2b049cd);
+        
+    
+        var popup_206b7171b23f4177b261030c49ae6e3b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_43dc0c9d0a7c46438e2236b5038e621b = $(`<div id="html_43dc0c9d0a7c46438e2236b5038e621b" style="width: 100.0%; height: 100.0%;">Org 5</div>`)[0];
+            popup_206b7171b23f4177b261030c49ae6e3b.setContent(html_43dc0c9d0a7c46438e2236b5038e621b);
+        
+
+        marker_c791e73d9a0b46a799385e32f9205933.bindPopup(popup_206b7171b23f4177b261030c49ae6e3b)
+        ;
+
+        
+    
+    
+            marker_c791e73d9a0b46a799385e32f9205933.bindTooltip(
+                `<div>
+                     Org 5
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ad0ff31e692749e0ae598216afe78930 = L.marker(
+                [-33.8688, 151.2093],
+                {}
+            ).addTo(map_dadaaab94bd147a2942704ebe16b312e);
+        
+    
+            var icon_cc70cc111a5d4cecae19112df2561ca1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ok-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_ad0ff31e692749e0ae598216afe78930.setIcon(icon_cc70cc111a5d4cecae19112df2561ca1);
+        
+    
+        var popup_fad3daddb48b46ae8fb62c26c1ad8e35 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_bc66a34582df4638b667d2a265eba06f = $(`<div id="html_bc66a34582df4638b667d2a265eba06f" style="width: 100.0%; height: 100.0%;">Org 6</div>`)[0];
+            popup_fad3daddb48b46ae8fb62c26c1ad8e35.setContent(html_bc66a34582df4638b667d2a265eba06f);
+        
+
+        marker_ad0ff31e692749e0ae598216afe78930.bindPopup(popup_fad3daddb48b46ae8fb62c26c1ad8e35)
+        ;
+
+        
+    
+    
+            marker_ad0ff31e692749e0ae598216afe78930.bindTooltip(
+                `<div>
+                     Org 6
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
