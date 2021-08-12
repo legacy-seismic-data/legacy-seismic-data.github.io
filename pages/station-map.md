@@ -9,8 +9,7 @@ header:
 permalink           : "/station-map/"
 ---
 
-Insert the map here.
+Test station map
 
-<!--
-<iframe src="test_Carnegie_folium_map.html" width="75%"></iframe>
--->
+
+<iframe src="https://ljhwang.github.io/Legacy-Seismic-Data/pages/maps/Carnegie.html" width="750px" height="500px"></iframe>
