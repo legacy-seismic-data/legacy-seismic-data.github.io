@@ -3,10 +3,23 @@ layout              : page
 show_meta           : false
 title               : "Organizations"
 subheadline         : "FIND"
-teaser              : "Find more information about legacy holdings"
+teaser              : "Find more information about legacy holdings."
 header:
    image_fullwidth  : "organizations_resampled.jpg"
 permalink           : "/organizations/"
 ---
 
 Station information listed by the organization that holds them.
+
+---
+## Organizations
+
+<br>
+[Carnegie Institution DTM](/Legacy-Seismic-Data/organizations/carnegie) *(now Carnegie EPL)*
+
+<br>
+<br>
+
+---
+
+For additions, corrections, and edits, please submit an issue or pull request in the github repo.
