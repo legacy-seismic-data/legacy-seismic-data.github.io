@@ -13,6 +13,10 @@
 - title: organizations
   url: "/organizations/"
   side: left
+- title: "Carnegie DTM"
+  url: "/organizations/carnegie"
+- title: "WWSSN"
+  url: "/organizations/wwssn"
 
 - title: references
   url: "/references/"
