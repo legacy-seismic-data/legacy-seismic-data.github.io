@@ -76,8 +76,8 @@ The table below shows stations (3 components) installed before 1936 which data m
 **Region** | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** | **Components**
 | :--- | :--- | :---: | :---: | :---: | :---: | :---:
 California | Barrett Dam | BAR | 32.68005 | -116.67215 | 1932-2001 |WA (N), 1-90 (NE,Z)
-|Haiwee | HAI | 36.13664 | -117.94753  | 1932- 1974 |
 | Goldstone | GSC | 35.30177 | -116.80574 | 1961-2002| LP NZE (WWSSN)
+|Haiwee | HAI | 36.13664 | -117.94753  | 1932- 1974 |
 |La Jolla | LJC | 32.86340 | -117.25414   | 1932-1952 |
 |Mount Wilson Observatory | MWC | 34.22362 | -118.05832 | 1932-2008 |
 | Pasadena | PAS | 34.14844 |-118.17117   |1932-2001| WA (2), 1-90, 30-90 (3)
