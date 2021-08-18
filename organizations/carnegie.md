@@ -7,6 +7,7 @@ teaser              : "More information about data in this collection"
 header:
    image_fullwidth  : "organizations_resampled.jpg"
 permalink           : "/organizations/carnegie"
+breadcrumb          : true
 ---
 
 Between 1965 and 2003, the Carnegie Institution of Washington’s Department of Terrestrial Magnetism operated a continuous network of nine broadband seismographs with a cluster in South America and Japan, and stations in Iceland, Papua New Guinea, and Washington, D.C. The Carnegie seismographs designed in the 1960s by Selwyn Sacks were among the earliest broadband instruments and designed to record ground motion from  30 s and ∼ 30 Hz with high dynamic range and low distortion.

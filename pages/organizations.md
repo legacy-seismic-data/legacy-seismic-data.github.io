@@ -17,6 +17,8 @@ permalink           : "/organizations/"
 <br>
 [Carnegie Institution DTM](/Legacy-Seismic-Data/organizations/carnegie) *(now Carnegie EPL)*
 
+[Southern California Seismic Network](/Legacy-Seismic-Data/organizations/scsn)
+
 [World-Wide Standardized Seismographic Network (WWSSN)](/Legacy-Seismic-Data/organizations/wwssn)
 
 <br>

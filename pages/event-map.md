@@ -9,4 +9,11 @@ header:
 permalink           : "/event-map/"
 ---
 
-Insert the map here.
+<iframe src="../pages/maps/events.html" width="750px" height="500px"></iframe>
+
+### Layer Key
+[**SCSN:**](../organizations/scsn) M> 3.5 earthquakes recorded by the Southern California Seismographic Network between 1963-1992
+<br>
+[**Seismo Archives:**](https://ds.iris.edu/seismo-archives/quakes/) Earthquakes as part of the International Digital Earthquake Archives
+<br>
+[**WWSSN:**](../organizations/wwssn) M&ge;6 earthquakes recorded by the Worldwide Standardized Seismographic Network

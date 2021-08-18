@@ -7,6 +7,7 @@ teaser              : "More information about this network"
 header:
    image_fullwidth  : "organizations_resampled.jpg"
 permalink           : "/organizations/wwssn"
+breadcrumb          : true
 ---
 
 The World-Wide Standardized Seismographic Network (WWSSN) provided continuous data from approximately 100 stations around the world beginning in 1961 with station ASL. High quality, continuous data were recorded on standardized instrumentation with accurate clocks. Deployment and operation of the WWSSN was initially done by the U.S. Coast and Geodectic Survey (C&GS) and later transferred from the National Oceanic and Atmospheric Administration (successor to the administrative agency for C&GS) to the U.S. Geological Survey. Network support was terminated in 1996. Some of the stations remain closed while others have been upgraded with new digital recording equipment.
@@ -32,12 +33,12 @@ See Petersen and Hutt (2014).
 300 x 900 mm paper seismograms photographed to:
 *	film chip (70 by 120 mm)
 *	Microfiche (24 per sheet)
-*	film rolls (35mm)
+*	film rolls (156, 35mm)
 
 ## Data Availability
 Several organizations hold partial or (mostly) complete sets of photographed data:
 * Albuquerque Seismological Laboratory: Microfiche through June 1979, film chips: 1962 through June 1978 (complete)
-* Lamont–Doherty Earth Observatory: film chips (complete)
+* Lamont–Doherty Earth Observatory: film chips (complete) *includes California Institute of Technology collection merged in 2010*
 * Northwestern University: film chips (partial)
 * British Geological Survey: film chips (unknown), microfiche from 1978-1990 (complete)
 
@@ -58,10 +59,14 @@ It has been estimated that over 400 events were capture on these scans with:
 * 156 nuclear events
 
 
-A total of 189,180 scans have been sent to IRC DMC. These contain approximately:
-*	26,824 records scanned at 3200 ppi equivalent to 394 dpi (full size 300x900mm seismogram)
-*	~11,000 records, one-bit bitonal scanned at 400ppi
-*	~150,000 records, 8-bit grayscale scanned at 3200 ppi
+A total of 189,180 scans have been sent to IRC DMC. Table below shows approximate number of scans available and format.
+For a 300 x 900 mm seismogram, 3200 ppi is approximatly 394 dpi.
+
+**no. available** | **format** | **dpi** | **color**
+| :---: | :---: | :---: | :---:
+26,824 | tiff | 3200 ppi  | grayscale
+~1,000 | tiff |  400 | bitonal
+~ 150,000 | tiff | 3200 ppi | grayscale
 
 
 
