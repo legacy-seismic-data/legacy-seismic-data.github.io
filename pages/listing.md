@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : "Index"
 subheadline         : "FIND"
-teaser              : "List of Stations with images or timeseries available"
+teaser              : "List of Stations with images or timeseries available."
 header:
    image_fullwidth  : "scrabble.jpg"
 permalink           : "/listing/"
@@ -36,6 +36,7 @@ permalink           : "/listing/"
 [TIN](../organizations/scsn)<br>
 [TRU](../organizations/carnegie)<br>
 [TUC](../organizations/wwssn)<br>
+[WES](../organizations/weston)*<br>
 
 
 *Is also a WWSSN station

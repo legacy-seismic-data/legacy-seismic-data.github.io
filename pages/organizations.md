@@ -15,11 +15,13 @@ permalink           : "/organizations/"
 ## Organizations or Networks
 
 <br>
-[Carnegie Institution DTM](/Legacy-Seismic-Data/organizations/carnegie) *(now Carnegie EPL)*
+[Carnegie Institution DTM](../organizations/carnegie) *(now Carnegie EPL)*
 
-[Southern California Seismic Network](/Legacy-Seismic-Data/organizations/scsn)
+[Southern California Seismic Network](../organizations/scsn)
 
-[World-Wide Standardized Seismographic Network (WWSSN)](/Legacy-Seismic-Data/organizations/wwssn)
+[Weston Observatory](../organizations/weston)
+
+[World-Wide Standardized Seismographic Network (WWSSN)](../organizations/wwssn)
 
 <br>
 <br>

@@ -23,6 +23,7 @@ Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
 
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [WES](../organizations/weston)
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
