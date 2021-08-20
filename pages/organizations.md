@@ -15,6 +15,8 @@ permalink           : "/organizations/"
 ## Organizations or Networks
 
 <br>
+[Canadian National Seismographic Network](../organizations/canada)
+
 [Carnegie Institution DTM](../organizations/carnegie) *(now Carnegie EPL)*
 
 [Southern California Seismic Network](../organizations/scsn)

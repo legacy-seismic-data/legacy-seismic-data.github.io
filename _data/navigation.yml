@@ -13,6 +13,8 @@
 - title: organizations
   url: "/organizations/"
   side: left
+- title: "CNSN"
+  url: "/organizations/Canada"
 - title: "Carnegie DTM"
   url: "/organizations/carnegie"
 - title: "weston"

@@ -41,4 +41,4 @@ permalink           : "/listing/"
 
 *Is also a WWSSN station
 
-*Note: only the five high-quality WWSSN reference stations are listed below*
+*Note: only the five high-quality WWSSN reference stations are listed above unless it is also include as part of another organization*
