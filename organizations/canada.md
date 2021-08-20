@@ -49,9 +49,11 @@ Canada|ALE |  Alert |   | 	  |  |  6
 
 
 ## Data Availability
-35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records. See [WWSSN](../organizations/wwssn).
+35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records (see [WWSSN](../organizations/wwssn)).
 
 Paper records have been maintained for this colleciton.
+
+Scans will be made avaialble through IRIS DMC.
 
 ## Contact
 For more information about this collection, please contact: \< *blank* \>
