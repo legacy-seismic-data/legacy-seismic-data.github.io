@@ -1,6 +1,11 @@
 - title: home
   url: "/"
   side: left
+  dropdown:
+  - title: "about"
+    url: "/about/"
+  - title: "faq"
+    url: "/faq/"
 
 - title: station map
   url: "/station-map/"

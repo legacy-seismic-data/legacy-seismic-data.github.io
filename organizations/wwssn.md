@@ -10,7 +10,7 @@ permalink           : "/organizations/wwssn"
 breadcrumb          : true
 ---
 
-The World-Wide Standardized Seismographic Network (WWSSN) provided continuous data from approximately 100 stations around the world beginning in 1961 with station ASL. High quality, continuous data were recorded on standardized instrumentation with accurate clocks. Deployment and operation of the WWSSN was initially done by the U.S. Coast and Geodectic Survey (C&GS) and later transferred from the National Oceanic and Atmospheric Administration (successor to the administrative agency for C&GS) to the U.S. Geological Survey. Network support was terminated in 1996. Some of the stations remain closed while others have been upgraded with new digital recording equipment.
+The World-Wide Standardized Seismographic Network (WWSSN) provided continuous data from approximately 100 stations around the world beginning in 1961 with station ASL. High quality, continuous data were recorded on standardized instrumentation with accurate clocks. Deployment and operation of the WWSSN was initially done by the U.S. Coast and Geodetic Survey (C&GS) and later transferred from the National Oceanic and Atmospheric Administration (successor to the administrative agency for C&GS) to the U.S. Geological Survey. Network support was terminated in 1996. Some of the stations remain closed while others have been upgraded with new digital recording equipment.
 
 
 ## Stations

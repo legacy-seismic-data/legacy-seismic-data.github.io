@@ -12,12 +12,12 @@ widget1:
   title: "Organizations"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/organizations'
   image: organizations_resampled.jpg
-  text: 'Discover organizations that maintain legacy data'
+  text: 'Discover organizations that maintain legacy seismic data.'
 widget2:
   title: "Index"
   image: scrabble_resize.jpg
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/listing'
-  text: 'Locate a seismographic station by station code'
+  text: 'Locate a seismographic station by station code.'
 widget3:
   title: "References"
   url: 'http://ljhwang.github.io/Legacy-Seismic-Data/references'

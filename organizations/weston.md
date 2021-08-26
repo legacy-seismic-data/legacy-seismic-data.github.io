@@ -25,7 +25,7 @@ United States  | Weston, Massachusetts |  WES | 42.38469444  | 	-71.32208333  | 
 ## Instrumentation
 Wiechert (1909), Bosch-Omori (1930), Benioff LP SP (1936)
 
-WES was part of the WWSSN network (1961)
+WES was part of the WWSSN network (1961).
 
 ## Recording Medium
 WWSSN: thermal

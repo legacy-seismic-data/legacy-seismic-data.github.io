@@ -18,7 +18,7 @@ response to the occurrence of large damaging regional earthquakes. Currently, th
 
 The network has been well documented throughout its operational history.
 
-Data is available through the [Southern California Earthquake Center Data Center](https://scedc.caltech.edu/data/seismograms.html) Data Center.
+Data is available through the [Southern California Earthquake Center Data Center](https://scedc.caltech.edu/data/seismograms.html).
 
 [SCEC](https://www.scec.org/)
 ## Stations
@@ -30,7 +30,7 @@ See the [SCECDC](https://scedc.caltech.edu/index.html) website for a complete li
 
 
 ## Instrumentation
-Wood-Anderson (WA), Press-Ewing, Benioff, 30-90, 1-90, WWSSN
+Wood-Anderson (WA), Press-Ewing, Benioff, 30-90, 1-90, WWSSN SP & LP
 
 
 ## Recording Medium
@@ -39,7 +39,7 @@ Paper: Light sensitive (30x92cm) and ink
 ## Data Availability
 **California Department of Water Resources**
 <br>
-The original paper records, ~ 1 million, from 1928-1992 including special collections are currently housed with DWR in West Sacramento, California.
+The original paper records, ~ 1 million, from 1928-1992 including special collections are currently maintained by the California Department of Water Resources in West Sacramento, California.
 
 **IRIS DMC**
 <br>
@@ -51,9 +51,9 @@ The Special Collection was scanned in its entirety. The Special Collection conta
 <li>The Southern California Seismic Network short‐period records were scanned with highest priority going to the earliest records. Records that were deemed too brittle to run through the scan apparatus were skipped. </li>
 </ol>
 
-More information can be found on the [Seismo Archvies]( http://ds.iris.edu/seismo-archives/projects/) website.
+More information can be found on the [Seismo Archives]( http://ds.iris.edu/seismo-archives/projects/) website.
 
-Special collections and records from 1926-1938 can be downloaded from IRIS DMC [spud database](http://ds.iris.edu/seismo-archives/projects/caltech_archive/).
+Special collections and records from 1926-1938 can be downloaded from the IRIS DMC [spud database](http://ds.iris.edu/seismo-archives/projects/caltech_archive/).
 
 **no. available** | **format** | **dpi** | **color**
 | :---: | :---: | :---: | :---:
