@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Event Map"
 subheadline         : "FIND"
@@ -9,7 +9,7 @@ header:
 permalink           : "/event-map/"
 ---
 
-<iframe src="../pages/maps/20210826_event_map.html" width="750px" height="500px"></iframe>
+<iframe src="../pages/maps/20210826_event_map.html" width="1000px" height="666px"></iframe>
 
 ### Layer Key
 [**SCSN:**](../organizations/scsn) M> 3.5 earthquakes recorded by the Southern California Seismographic Network between 1963-1992.
