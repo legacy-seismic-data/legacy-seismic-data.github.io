@@ -20,11 +20,15 @@ permalink           : "/station-map/"
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
+**ERI, U. Tokyo:** Earthquake Research Institute, The University of Tokyo
+<br>
 **GNS:** GNS New Zealand
 <br>
 **IES, U. Iceland:** Institute of Earth Sciences, Univeristy of Iceland
 <br>
 **ICGC:** Institut Cartografic i Geolgoic de Catalunya
+<br>
+**JMA:** Japan Meteorological Agency
 <br>
 **LBSN:** Leo Brady Seismic Network
 <br>
