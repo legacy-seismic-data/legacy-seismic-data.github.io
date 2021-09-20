@@ -8,7 +8,7 @@ header:
    image_fullwidth  : "world2.jpg"
 permalink           : "/station-map/"
 ---
-*test station map*
+
 
 
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
