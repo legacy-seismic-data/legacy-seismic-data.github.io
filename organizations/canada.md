@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Canadian National Seismographic Network"
+title               : "Canadian National Seismograph Network"
 subheadline         : "CNSN"
 teaser              : "More information about this network"
 header:
@@ -9,8 +9,9 @@ header:
 permalink           : "/organizations/canada"
 breadcrumb          : true
 ---
-The modern network is operated by the Geological Survey of Canada.
-
+The first continuously recording photographic seismograph station in North
+America began operation in September 1897 in Toronto. By 1939, 11 stations were in operation across Canada.
+The modern network is operated by Natural Resources Canada. All but Ottawa (OTT) and Halifax (HAL) are now closed. See Stevens (1990) for more information on the history of some stations in Canada (Stevens, 1990).
 
 [Natural Resources Canada](https://earthquakescanada.nrcan.gc.ca)
 
@@ -49,13 +50,12 @@ Canada|ALE |  Alert |   | 	  |  |  6
 
 
 ## Data Availability
-35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records (see [WWSSN](../organizations/wwssn)).
+35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records (see [WWSSN](../organizations/wwssn)). Scans will be made available through IRIS DMC.
 
 Paper records have been maintained for this collection.
-
-Scans will be made avaialble through IRIS DMC.
 
 ## Contact
 For more information about this collection, please contact: \< *blank* \>
 
 ## References
+Stevens, Anne E. (1980) History of some Canadian and adjacent American seismograph stations. *Bulletin of the Seismological Society of America* 70 (4): 1381–1393. doi: https://doi.org/10.1785/BSSA0700041381
