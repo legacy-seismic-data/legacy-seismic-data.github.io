@@ -28,4 +28,7 @@ We are dedicated to providing a harassment-free environment, regardless of gende
 The data contain on this website is based on openly available data.
 
 ### Acknowledgements
-Photo credits: Event Map - [Martin Duff](https://www.flickr.com/photos/martinluff/with/5530605111/) CC BY-SA 2.0
+Photo credits:
+* Earth cracks - [Martin Duff](https://www.flickr.com/photos/martinluff/with/5530605111/) CC BY-SA 2.0
+* Fabra Observatory -  © Wikimedia Commons
+* Bicycles - Gregory Urquiaga © Regents of the University of California, Davis
