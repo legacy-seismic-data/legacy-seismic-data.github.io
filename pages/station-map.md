@@ -5,7 +5,7 @@ title               : "Station Map"
 subheadline         : "FIND"
 teaser              : "Search for stations with legacy data."
 header:
-   image_fullwidth  : "world2.jpg"
+   image_fullwidth  : "Fabra.jpeg"
 permalink           : "/station-map/"
 ---
 

@@ -26,3 +26,6 @@ We are dedicated to providing a harassment-free environment, regardless of gende
 
 ## About the data
 The data contain on this website is based on openly available data.
+
+### Acknowledgements
+Photo credits: Event Map - [Martin Duff](https://www.flickr.com/photos/martinluff/with/5530605111/) CC BY-SA 2.0

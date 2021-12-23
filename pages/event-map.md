@@ -5,7 +5,8 @@ title               : "Event Map"
 subheadline         : "FIND"
 teaser              : "Search for events with legacy data."
 header:
-   image_fullwidth  : "world2.jpg"
+#   image_fullwidth  : "world2.jpg"
+   image_fullwidth  : "crack_resize.jpg"
 permalink           : "/event-map/"
 ---
 
