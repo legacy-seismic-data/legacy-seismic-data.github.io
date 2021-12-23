@@ -20,7 +20,7 @@
   side: left
   dropdown:
   - title: "CNSN"
-    url: "/organizations/Canada"
+    url: "/organizations/canada"
   - title: "Carnegie DTM"
     url: "/organizations/carnegie"
   - title: "scsn"
