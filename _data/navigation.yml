@@ -7,27 +7,28 @@
   - title: "faq"
     url: "/faq/"
 
-- title: station map
+- title: stations
   url: "/station-map/"
   side: left
 
-- title: event map
+- title: events
   url: "/event-map/"
   side: left
 
 - title: organizations
   url: "/organizations/"
   side: left
-- title: "CNSN"
-  url: "/organizations/Canada"
-- title: "Carnegie DTM"
-  url: "/organizations/carnegie"
-- title: "weston"
-  url: "/organizations/weston"
-- title: "scsn"
-  url: "/organizations/scsn"
-- title: "WWSSN"
-  url: "/organizations/wwssn"
+  dropdown:
+  - title: "CNSN"
+    url: "/organizations/Canada"
+  - title: "Carnegie DTM"
+    url: "/organizations/carnegie"
+  - title: "scsn"
+    url: "/organizations/scsn"
+  - title: "weston"
+    url: "/organizations/weston"
+  - title: "WWSSN"
+    url: "/organizations/wwssn"
 
 - title: references
   url: "/references/"
