@@ -26,7 +26,7 @@ widget1:
   title: "Stations"
   url: "/station-map/"
   image: Fabra.jpeg
-  text: 'Discover stations with available legacy seismic data'
+  text: 'Discover stations with available e-legacy seismic data'
 #  widget3:
 #    title: "References"
 #    url: 'http://ljhwang.github.io/Legacy-Seismic-Data/references'
