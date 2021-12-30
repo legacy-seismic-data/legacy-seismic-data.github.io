@@ -1,5 +1,5 @@
 ---
-layout              : page
+layout              : page-fullwidth
 show_meta           : false
 title               : "Organizations"
 subheadline         : "FIND"
@@ -8,14 +8,7 @@ header:
    image_fullwidth  : "students_bikes.jpg"
 permalink           : "/organizations/"
 ---
-
-
-
----
-## Organizations or Networks
-
-
-
+Organizations manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request. See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 

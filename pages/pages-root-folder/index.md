@@ -14,19 +14,19 @@ widget3:
   url: "/organizations/"
 #  image: organizations_resampled.jpg
   image: students_bikes.jpg
-  text: 'Discover organizations that maintain legacy seismic data.'
+  text: 'Discover organizations that manage e-legacy seismic data.'
 widget2:
 #  title: "Index"
   title: "Events"
 #  image: scrabble_resize.jpg
   image: crack_resize.jpg
   url: "/event-map/"
-  text: 'Discover events with available legacy seismic data'
+  text: 'Discover events with available e-legacy seismic data.'
 widget1:
   title: "Stations"
   url: "/station-map/"
   image: Fabra.jpeg
-  text: 'Discover stations with available e-legacy seismic data'
+  text: 'Discover stations with available e-legacy seismic data.'
 #  widget3:
 #    title: "References"
 #    url: 'http://ljhwang.github.io/Legacy-Seismic-Data/references'
