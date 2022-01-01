@@ -50,8 +50,10 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 **Type:** Types of instruments operational during the specified date range:
   * WA: Wood Anderson
+  * HGLP: high gain long period
   * LP: long period
   * SP: short period
+  * VLP: very long period
 
 **Analog:**  Media data was originally recorded and in some cases secondary () analog media.
 <br>

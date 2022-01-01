@@ -17,7 +17,7 @@ Described below are stations with digital images in addition to those listed und
 
 Includes stations from the SRO and HGLP amongst other records.
 
-For more information, see the USGS website [ASL](https://www.usgs.gov/centers/geologic-hazards-science-center/albuquerque-seismological-laboratory).
+For more information about the Albuquerque Seismological Laboratory, see the USGS [website](https://www.usgs.gov/centers/geologic-hazards-science-center/albuquerque-seismological-laboratory).
 ## Instrumentation
 
 
@@ -41,7 +41,7 @@ Shirttail Gulch, California | SHG | 36.4138 |  -121.2537 | | 6 | 4
 Tai-chung, Taiwan | TCU | 24.1475 | 120.6759 | | 6 | 12
 Victoria, Romania | VCT | 45.725 | 24.701 | | 6 | 9
 Zongo, La Paz, Bolivia | [ZLP](https://www.fdsn.org/station_book/HG/ZLP/zlp.html) | -16.27 | -69.125| 1972-1976| 6 | 6
-Zongo, La Paz, Bolivia | ZOBO | -16.2693 | -69.125 | | 6 | 7
+Zongo, La Paz, Bolivia | [ZOBO](https://www.fdsn.org/station_book/AS/ZOBO/zobo.html) | -16.2693 | -69.125 | 1976-1993 | 6 | 7
 
 
 Scans for these stations have been sent to IRC DMC. See also [WWSSN](../organizations/wwssn)
