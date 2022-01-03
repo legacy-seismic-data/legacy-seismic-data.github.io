@@ -15,13 +15,16 @@ Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C
 
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
 
+Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf
+
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
 
 Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../organizations/scsn)
 
-
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
+
+Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last accessed: 3 January 2021.
 
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [WES](../organizations/weston)
 
