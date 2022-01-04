@@ -10,6 +10,9 @@
 - title: stations
   url: "/station-map/"
   side: left
+  dropdown:
+  - title: "Bulletins"
+    url: "/station-map/bulletins"
 
 - title: events
   url: "/event-map/"
