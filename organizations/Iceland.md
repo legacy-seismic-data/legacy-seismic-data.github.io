@@ -36,6 +36,7 @@ Smoked paper, photographic paper, 7 track-tape, and pen and ink.
 
 Image files of analog seismograms from 1910-2010 are stored on a server at the Institute of Earth Sciences, University of Iceland, and are made available to the public through their [webpage](http://seismis.hi.is/). The original seismograms are stored in the Icelandic National Archives.
 
+Begin and end dates for each station give the data range data is available.
 
 **no. available** | **format** | **dpi** | **color**
 | :---: | :---: | :---: | :---:
