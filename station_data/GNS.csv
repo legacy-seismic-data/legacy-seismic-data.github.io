@@ -1,0 +1,4 @@
+﻿organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+GNS,WEL,"Wellington, New Zealand",-41.2861,174.7683,,,,,,,
+GNS,CHE,"Christchurch, New Zealand",-43.5328,172.6267,,,,,,,
+GNS,API,"Apia, Samoa Islands",-13.8072,171.775,,,,,,,

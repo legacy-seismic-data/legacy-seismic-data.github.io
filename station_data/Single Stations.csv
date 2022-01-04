@@ -1,0 +1,11 @@
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+Boston College,WES,"Weston Observatory, Massachusetts, USA",42.3847,-71.3221,1909,,6,"Wiechert, Bosch-Omori, Benioff",,scan,
+"Indonesian Bureau of Meterology, Climatology, and Geophysics (BMKG)",DJA,"Jakarta, Indonesia",-6.1833,106.8333,1897,,,,,,
+Wiechert'sche Erdbebenwarte Göttingen,GTT,"Gottingen, Germany",51.5464,9.9642,1902,,,,,,
+National Astronomical Observatory of Japan,MIZ,"Mizusawa, Japan",39.133,141.1333,1899,,,,,,
+University of Coimbra,COI,"Coimbra, Portugal",40.2067,-8.4183,1891,,,,,,
+Instituto Geofisico,UPP,"Uppsala, Sweden",59.8583,17.6267,,,,,,,
+Royal Observatory in Cape Town,CTO,"Cape Town, South Africa",-33.95,18.45,,,,,,,
+Harvard University,HRV,"Oak Ridge Observatory, Massachusetts, USA",42.5072,-71.5625,1988,,6,"WA, Benioff, Milne-Shaw",paper,"tif, SAC",http://www.seismology.harvard.edu/hrv.html
+Australian National University,CAN,"Canberra, Australia",-35.3206,148.9986,,,,,,,
+Ohio Geological Survey,JCU,"Ohio, USA",41.49043867,-81.5293129,,,,,,,
