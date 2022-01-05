@@ -13,9 +13,9 @@ Organizations manage legacy seismic data that has been converted to digital imag
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
 ### Layer Key
-**ASL:** Albuquerque Seismological Laboratory
-<br>[
-**Carnegie:**](../organizations/carnegie) Carnegie Institution EPL
+[**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
+<br>
+[**Carnegie:**](../organizations/carnegie) Carnegie Institution EPL
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
@@ -23,9 +23,9 @@ Organizations manage legacy seismic data that has been converted to digital imag
 <br>
 **GNS:** GNS New Zealand
 <br>
-**IES, U. Iceland:** Institute of Earth Sciences, Univeristy of Iceland
+[**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
-**ICGC:** Institut Cartografic i Geolgoic de Catalunya
+**ICGC:** Institut Cartografic i Geologic de Catalunya
 <br>
 **JMA:** Japan Meteorological Agency
 <br>
@@ -38,7 +38,7 @@ Organizations manage legacy seismic data that has been converted to digital imag
 **Single Staton:** Single stations without network affiliations
   * [Weston Observatory](../organizations/weston)
 
-**UNAM:** Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
+[**UNAM:**](../organizations/unam)  Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 

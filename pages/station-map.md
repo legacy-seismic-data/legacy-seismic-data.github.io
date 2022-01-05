@@ -14,7 +14,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
 ### Layer Key
-**ASL:** Albuquerque Seismological Laboratory
+[**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
 <br>[
 **Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
 <br>
@@ -24,9 +24,9 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 **GNS:** GNS New Zealand
 <br>
-**IES, U. Iceland:** Institute of Earth Sciences, Univeristy of Iceland
+[**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
-**ICGC:** Institut Cartografic i Geolgoic de Catalunya
+**ICGC:** Institut Cartografic i Geologic de Catalunya
 <br>
 **JMA:** Japan Meteorological Agency
 <br>
@@ -38,7 +38,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 **Single Staton:** Single stations without network affiliations
 <br>
-**UNAM:** Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
+[**UNAM:**](../organizations/unam) Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
