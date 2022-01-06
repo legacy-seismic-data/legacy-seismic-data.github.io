@@ -10,9 +10,9 @@ permalink           : "/organizations/romania"
 breadcrumb          : true
 ---
 
-Geophysical research in Romania began at the end of the 19th century and grew through the initiative of dedicated researchers in the field of astronomy, geosciences, mathematics and physics.  In 1901, the Romanian Seismological Service was established and 2 stations installed in Bucharest and Timisoara in 1902. The network grew to 6 stations by 1952. Nowadays, the Romanian Seismic Network has over 200 stations both in Romania and in neighboring countries, fully equipped with digital instruments.
+Geophysical research in Romania began at the end of the 19th century and grew through the initiative of dedicated researchers in the field of astronomy, geosciences, mathematics and physics.  In 1901, the Romanian Seismological Service was established and 2 stations installed in Bucharest and Timisoara in 1902. The network grew to 6 stations by 1952 and 48 analogue stations by 1970. The digital era began in 1991 with analogue recordings phasing out by 2017. Nowadays, the Romanian Seismic Network has over 200 stations both in Romania and in neighboring countries, fully equipped with digital instruments.
 
-The modern Romanian Seismic Network is run by [National Institute of Earth Physics](http://www.infp.ro/).
+The modern Romanian Seismic Network is run by National Institute of Earth Physics ([NIEP](http://www.infp.ro/)).
 
 ## Stations
 
@@ -34,10 +34,13 @@ Vrancioaia | VRI | 45.8665 | 26.7276 | 1952 |2
 
 ## Recording Medium
 smoked paper  
-photo paper
+photo paper  
+ink
 
 ## Data Availability
-Database contains historical seismograms recorded by Romanian Seismic Stations between 1903 and 1957 .
+The archives of the NIEP contain over 1 million paper seismograms.
+
+The image database contains historical seismograms recorded by Romanian Seismic Stations between 1903 and 1957.
 
 
 **no. available** | **format** | **dpi** | **color**
@@ -45,7 +48,7 @@ Database contains historical seismograms recorded by Romanian Seismic Stations b
 5188 | jpeg| 400 |
 | tiff | 1000* |
 
-*Select partial records with observable earthquake signals maybe available at higher resolution and/or have been vectorized using Teseo2 into SAC format.
+*Select partial records with observable earthquake signals maybe available at higher resolution and/or have been vectorized using [TESEO2](http://teseo.rm.ingv.it/) into SAC format.
 
 The database is linked with the [EuroSeismos Database](http://storing.ingv.it/es_web/).
 
@@ -64,9 +67,11 @@ For more information about this collection, please contact: \< *blank* \>
 
 ## References
 
-Adina, V. and Popa, M. and Ionescu, C. and Paulescu, D. (2021). Building up a Seismic Network in the Early Days of Seismology in Romania, European Association of Geoscientists &amp; Engineers, 1, 1-5. https://doi.org/10.3997/2214-4609.202149BGS56
+Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic Network in the Early Days of Seismology in Romania, European Association of Geoscientists &amp; Engineers, 1, 1-5. https://doi.org/10.3997/2214-4609.202149BGS56
 
 Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*.
+
+Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112.
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039
 
