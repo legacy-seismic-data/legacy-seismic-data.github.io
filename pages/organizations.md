@@ -31,7 +31,7 @@ Organizations manage legacy seismic data that has been converted to digital imag
 <br>
 **LBSN:** Leo Brady Seismic Network
 <br>
-**Romania:** INFP
+[**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>
 [**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available
 <br>
