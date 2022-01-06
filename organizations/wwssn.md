@@ -5,7 +5,7 @@ title               : "World-Wide Standardized Seismographic Network "
 subheadline         : "WWSSN"
 teaser              : "More information about this network"
 header:
-   image_fullwidth  : "organizations_resampled.jpg"
+   image_fullwidth  : "wwssn.jpg"
 permalink           : "/organizations/wwssn"
 breadcrumb          : true
 ---
@@ -18,9 +18,6 @@ The World-Wide Standardized Seismographic Network (WWSSN) provided continuous da
 Over 100 stations worldwide beginning in 1961 through 1996.
 
 See Peterson and Hutt (2014) for a list of stations installed.
-
-
-
 
 ## Instrumentation
 * 3 component, Benioff short‐period sensors
@@ -68,16 +65,19 @@ For a 300 x 900 mm seismogram, 3200 ppi is approximatly 394 dpi.
 ~1,000 | tiff |  400 | bitonal
 ~ 150,000 | tiff | 3200 ppi | grayscale
 
+<br>
 
+![chips scanned](../images/PreservingHistoricEarthquakeRecords.jpg)
+Source: Alejandro  et al. (2019)
 
-See Supplement to Alejandro et al. (2018) for complete list of  M&ge;6 events and list of stations and number of scans available.
+See Supplement to Alejandro et al. (2019) for a complete list of  M&ge;6 events and list of stations with number of scans available.
 
 For some stations, original paper records maybe available.
 ## Contact
 For more information about this collection, please contact: \< *blank* \>
 
 ## References
-Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275
+Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2019). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275
 
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
