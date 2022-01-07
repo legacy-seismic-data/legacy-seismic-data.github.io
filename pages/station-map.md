@@ -30,7 +30,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 **JMA:** Japan Meteorological Agency
 <br>
-**LBSN:** Leo Brady Seismic Network
+[**LBSN:**](../organizations/leobrady) Leo Brady Seismic Network
 <br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>

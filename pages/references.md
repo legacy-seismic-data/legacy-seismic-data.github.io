@@ -38,3 +38,5 @@ Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Networ
 http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
 
 Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../organizations/carnegie)
+
+Young, B. A., and R. E. Abbott (2020). Recovery and Calibration of Legacy Underground Nuclear Test Seismic Data from the Leo Brady Seismic Network, Seismol. Res. Lett. 91, 1488–1499, doi: 10.1785/0220190341.
