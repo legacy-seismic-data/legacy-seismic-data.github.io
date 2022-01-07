@@ -30,8 +30,6 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 **JMA:** Japan Meteorological Agency
 <br>
-[**LBSN:**](../organizations/leobrady) Leo Brady Seismic Network
-<br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>
 [**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available
@@ -41,6 +39,8 @@ Stations shown have legacy seismic data that has been converted to digital image
 [**UNAM:**](../organizations/unam) Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
+#### Nuclear Monitoring
+[**LBSN:**](../organizations/leobrady) Leo Brady Seismic Network
 
 ### Pop-up Key
 
