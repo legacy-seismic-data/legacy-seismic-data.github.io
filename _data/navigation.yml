@@ -30,8 +30,7 @@
     url: "/organizations/carnegie"
   - title: "Iceland"
     url: "/organizations/iceland"
-  - title: "Leo Brady Seismic Network"
-    url: "/organizations/leobrady"
+
   - title: "romania"
     url: "/organizations/romania"
   - title: "scsn"
@@ -42,6 +41,13 @@
     url: "/organizations/weston"
   - title: "WWSSN"
     url: "/organizations/wwssn"
+
+- title: monitoring
+  url: "/monitoring/"
+  side: left
+  dropdown:
+  - title: "Leo Brady Seismic Network"
+    url: "/monitoring/leobrady"
 
 - title: references
   url: "/references/"

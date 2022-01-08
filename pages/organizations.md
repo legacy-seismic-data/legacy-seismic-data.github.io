@@ -41,7 +41,7 @@ Organizations manage legacy seismic data that has been converted to digital imag
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
 #### Nuclear Monitoring
-[**LBSN:**](../organizations/leobrady) Leo Brady Seismic Network
+[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
 
 ### Pop-up Key
 

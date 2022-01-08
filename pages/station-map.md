@@ -40,7 +40,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 #### Nuclear Monitoring
-[**LBSN:**](../organizations/leobrady) Leo Brady Seismic Network
+[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
 
 ### Pop-up Key
 
