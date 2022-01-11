@@ -24,6 +24,8 @@ Data are provided from the following:
 
 **Download:** [http://www.isc.ac.uk/printedStnBulletins/index.php](http://www.isc.ac.uk/printedStnBulletins/index.php)
 
+Instituto Geográifico Nacional (IGN) has created a new, exhaustive catalog of old seismographs operated at Spanish observatory sites. The catalog describes instruments operating in Spain up to the 1960's which recorded a graphical representation of ground motion.
+
 **Acknowledgements**  
 *an incomplete set of acknowledgements for the above resources*  
 Original bulletins of International Seismological Summary (ISS) have been obtained thanks to funding by the US National Science Foundation through grant EAR-9725140 (Villasenor et al., 1997) and have been scanned and collected by SGA Storia Geofisica Ambiente (Bologna) thanks to funding provided by the Istituto Naional di Geofisica e Vulcanologia (Rome), in the frame of the EUROSEISMOS project.  

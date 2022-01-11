@@ -30,7 +30,8 @@
     url: "/organizations/carnegie"
   - title: "Iceland"
     url: "/organizations/iceland"
-
+  - title: "icgc"
+    url: "/organizations/icgc"
   - title: "romania"
     url: "/organizations/romania"
   - title: "scsn"
