@@ -10,11 +10,13 @@ permalink           : "/organizations/icgc"
 breadcrumb          : true
 ---
 
-Instrumental seismic recording in Catalonia (NE Spain) started early in the 20th Century. The first known seismic station (EBR) started in 1905 at Ebre Observatory, founded by the Jesuits near Tortosa, in the S of Catalonia. In 1906, the Royal Academy of Sciences of Barcelona installed a second seismic station, still active, at the Fabra observatory (FBR), near Barcelona. Small observatories followed soon in Olot (1907) and Girona (1909), but they lasted only a few years and just some scarce data have been preserved.
+Catalonia has a long tradition of seismic recording starting early in the 20th Century. The first known seismic station  started in 1905 at Ebre Observatory (EBR) founded by the Jesuits near Tortosa in southern Catalonia. In 1906, the Royal Academy of Sciences of Barcelona installed a second seismic station, still active, at the Fabra Observatory (FBR), near Barcelona. Both keep their
+seismograms and a large amount of complementary information such as station notebooks, seismic bulletins, and correspondence.
+Small observatories followed soon in Olot (1907) and Girona (1909) which were operational for a few years with only some scarce data having been preserved. An improved seismic network was installed by the regional government in 1985 and a few stations from the Spanish network and academic institutions were also added.
 
-An improved seismic network was installed by the regional government in 1985 and a few stations from the Spanish network and academic institutions were also added.
 
-Institut Cartogràfic i Geològic de Catalunya [website](Institut Cartogràfic i Geològic de Catalunya)
+The Catalan seismic network is
+presently managed by the Institut Cartogràfic i Geològic de Catalunya [(ICGC)](Institut Cartogràfic i Geològic de Catalunya).
 
 ## Stations
 
@@ -49,7 +51,8 @@ A catalog card has been created for every seismograph. The information has been 
 3. Normalized magnification in poles and zeroes.
 4. Instrument status.
 
-Catalog is available in pdf from the [IGN](http://www.ign.es/web/ign/portal) web page [ [download] ](http://www.ign.es/web/resources/sismologia/publicaciones//Catalogosismografos.pdf). *Last accessed 10 January 2022*
+Catalog is available in pdf from the [IGN](http://www.ign.es/web/ign/portal) web page [ [download] ](http://www.ign.es/web/resources/sismologia/publicaciones//Catalogosismografos.pdf).  
+*Last accessed 10 January 2022*
 
 
 ## Recording Medium
@@ -64,7 +67,7 @@ Full resolution seismograms are available upon request.
 
 **no. available** | **format** | **dpi** | **color**
 | :---: | :---: | :---: | :---:
-40,000 | tiff|600 or 1200 | greyscale
+70,000 | tiff|600 or 1200 | greyscale
 
 Written documents have also been scanned at 300/400 dpi.
 
@@ -86,4 +89,9 @@ Batlló, Josep and Peter Bormann; A Catalog of Old Spanish Seismographs (2000).
 
 Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2019). Present Status of the Project for Preserving Analogue Seismograms and Other Documents at Institut Cartogràfic i Geològic de Catalunya (ICGC), IUGG2019 General Assembly, 12 July 2019, Montreal Canada, JS067-466.
 
+Batlló, Josep, Antonio Villaseñor, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2021). Digital Preservation of Analogue Seismograms and Other Documents at
+Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101.
+
 IGC website. https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Analog-seismograms. *Last accessed 10 January 2022.*
+
+Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
