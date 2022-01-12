@@ -21,12 +21,11 @@ Stations shown have legacy seismic data that has been converted to digital image
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
 **ERI, U. Tokyo:** Earthquake Research Institute, The University of Tokyo
-<br>
-**GNS:** GNS New Zealand
+<!--- **GNS:** GNS New Zealand --->
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
-**ICGC:** Institut Cartografic i Geologic de Catalunya
+[**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
 **JMA:** Japan Meteorological Agency
 <br>
@@ -34,11 +33,14 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available
 <br>
-**Single Staton:** Single stations without network affiliations
-<br>
 [**UNAM:**](../organizations/unam) Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
+
+**Single Stations:** Single stations without network affiliations
+* [Weston Observatory](../organizations/weston)
+* [Coimbra](../organizations/coimbra)
+
 #### Nuclear Monitoring
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
 

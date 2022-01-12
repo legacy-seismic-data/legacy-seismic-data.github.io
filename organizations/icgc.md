@@ -16,7 +16,7 @@ Small observatories followed soon in Olot (1907) and Girona (1909) which were op
 
 
 The Catalan seismic network is
-presently managed by the Institut Cartogràfic i Geològic de Catalunya [(ICGC)](Institut Cartogràfic i Geològic de Catalunya).
+presently managed by the Institut Cartogràfic i Geològic de Catalunya [(ICGC)](Ihttps://www.icgc.cat/).
 
 ## Stations
 
