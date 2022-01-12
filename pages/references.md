@@ -24,6 +24,8 @@ Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 A
 
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
 
+Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014
+
 Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112.
 
 Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf
