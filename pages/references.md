@@ -43,7 +43,7 @@ Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last acc
 
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [WES](../organizations/weston)
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, CGH/CTO/HER, MZW, [WES](../organizations/weston),
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039
 

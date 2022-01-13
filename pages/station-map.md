@@ -40,6 +40,11 @@ Stations shown have legacy seismic data that has been converted to digital image
 **Single Stations:** Single stations without network affiliations
 * [Weston Observatory](../organizations/weston)
 * [Coimbra](../organizations/coimbra)
+* Batavia (Jakarta), Indonesia: BAT/DJA
+* Cape Town, South Africa: CGH/CTO/HER
+* Canberra, Australia: CAN
+* Mizusawa, Japan: MZW
+
 
 #### Nuclear Monitoring
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
