@@ -25,6 +25,8 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
+**EUROSEISMOS:**
+<br>
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
 **JMA:** Japan Meteorological Agency
@@ -40,13 +42,15 @@ Stations shown have legacy seismic data that has been converted to digital image
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
 **Single Stations:** Single stations without network affiliations
-* [Weston Observatory](../organizations/weston)
-* [Coimbra](../organizations/coimbra)
-* Batavia (Jakarta), Indonesia: BAT/DJA
-* Cape Town, South Africa: CGH/CTO/HER
-* Canberra, Australia: CAN
-* Mizusawa, Japan: MZW
 
+* Batavia (Jakarta), Indonesia: BAT/DJA
+* Canberra, Australia: CAN
+* Cape Town, South Africa: CGH/CTO/HER
+* China
+* [Coimbra](../organizations/coimbra)
+* Harvard, United States: HRV
+* Mizusawa, Japan: MZW
+* [Weston Observatory](../organizations/weston)
 
 #### Nuclear Monitoring
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
