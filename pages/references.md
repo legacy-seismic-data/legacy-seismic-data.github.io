@@ -22,6 +22,9 @@ Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unam
 Batlló, Josep, Antonio Villaseñor, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2021). Digital Preservation of Analogue Seismograms and Other Documents at
 Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101.
 
+Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf
+
+
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
 
 Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014
@@ -30,9 +33,14 @@ Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oanc
 
 Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf
 
+Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
+presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA.
+
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
 
 Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../organizations/scsn)
+
+Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1.
 
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)

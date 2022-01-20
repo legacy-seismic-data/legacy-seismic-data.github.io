@@ -5,7 +5,7 @@ title               : "Coimbra"
 subheadline         : "COI"
 teaser              : "More information about this station"
 header:
-   image_fullwidth  : "coimbra.jpeg"
+   image_fullwidth  : "coimbra.jpg"
 permalink           : "/organizations/coimbra"
 breadcrumb          : true
 ---

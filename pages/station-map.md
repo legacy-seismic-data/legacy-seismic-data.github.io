@@ -47,6 +47,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 * Canberra, Australia: CAN
 * Cape Town, South Africa: CGH/CTO/HER
 * China
+* [Cleveland, Ohio:](../organizations/ohio) JCU
 * [Coimbra](../organizations/coimbra)
 * Harvard, United States: HRV
 * Mizusawa, Japan: MZW
