@@ -9,7 +9,7 @@ header:
 permalink           : "/organizations/ohio"
 breadcrumb          : true
 ---
-The first Jesuit seismic observatory was established at John Carroll University in Cleveland, Ohio by Father Frederik L. Odenbach in 1900.  He want on to create a seismic network that spanned across the United States and Canada at different Jesuit institutions. The observatory was closed in 1992 and the records were put into storage at the H.R. Collins Laboratory & Core Repository in 2000. In 1999, the Ohio Seismic Network and the Ohio Geological Survey assumed responsibility for these records.
+The first Jesuit seismic observatory was established at John Carroll University in Cleveland, Ohio by Father Frederik L. Odenbach in 1900.  He went on to create a seismic network that spanned across the United States and Canada at different Jesuit institutions. The observatory was closed in 1992 and the records were put into storage at the H.R. Collins Laboratory & Core Repository in 2000. In 1999, the Ohio Seismic Network (Ohio Geological Survey) assumed responsibility for these records.
 
 Currently maintained by the [Ohio Geological Survey](https://ohiodnr.gov/wps/portal/gov/odnr/discover-and-learn/safety-conservation/about-ODNR/geologic-survey).
 
@@ -31,11 +31,11 @@ smoked paper
 paper
 
 ## Data Availability
-Digital scanning began on select seismograms in 2019.
+Digital scanning began on select seismograms in ~2019.
 
 The entire analog collection, >100,000 seismograms, is available to interested researchers. The records are continuous from the early 1920's through 1931.
 
-Archives of JCU Department of Seismology [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default).
+Archives of John Carroll University Department of Seismology [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default).
 
 ## Contact
 For more information about this collection, please contact: \< *blank* \>
