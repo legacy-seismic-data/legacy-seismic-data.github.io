@@ -42,12 +42,21 @@ Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at
 
 Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1.
 
+Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022*
+
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
 
 IGC website. https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Analog-seismograms. *Last accessed 10 January 2022.*
 
 Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last accessed: 3 January 2021.
+
+Ishii, M., H. Ishii, B. Bernier, & E. Bulat (2015). Efforts to recover and digitize analog seismograms from Harvard-
+Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261.
+
+Lee, T. A., M. Ishii, H. Ishii & T. Morinaga (2019). The Potential of Analog Seismograms for Science and Education,
+presented at 2019 Legacy Securing Legacy Seismic Data to Enable Future Discoveries Workshop, Albuquerque,
+New Mexico, Sept 18-19, 2019.
 
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
 

@@ -6,7 +6,7 @@ subheadline         : "FIND"
 teaser              : "Resources for station bulletins."
 header:
    image_fullwidth  : "bulletin.png"
-permalink           : "/station-map/bulletins"
+permalink           : "/bulletins"
 ---
 
 Archives of scanned instrumental seismic bulletins pertaining to either a single station or network.

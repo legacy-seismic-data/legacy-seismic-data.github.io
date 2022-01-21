@@ -20,6 +20,8 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
+China:
+<br>
 **ERI, U. Tokyo:** Earthquake Research Institute, The University of Tokyo
 <!--- **GNS:** GNS New Zealand --->
 <br>
@@ -30,8 +32,6 @@ Stations shown have legacy seismic data that has been converted to digital image
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
 **JMA:** Japan Meteorological Agency
-<br>
-[**Puerto Rico:**](../organizations/puerto_rico)
 <br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>
@@ -46,11 +46,11 @@ Stations shown have legacy seismic data that has been converted to digital image
 * Batavia (Jakarta), Indonesia: BAT/DJA
 * Canberra, Australia: CAN
 * Cape Town, South Africa: CGH/CTO/HER
-* China
 * [Cleveland, Ohio:](../organizations/ohio) JCU
 * [Coimbra](../organizations/coimbra)
-* Harvard, United States: HRV
+* [Harvard, United States:](../organizations/harvard) HRV
 * Mizusawa, Japan: MZW
+* [**Puerto Rico:**](../organizations/puerto_rico) SJG, SJP, VQS
 * [Weston Observatory](../organizations/weston)
 
 #### Nuclear Monitoring

@@ -7,16 +7,26 @@
   - title: "faq"
     url: "/faq/"
 
+- title: events
+  url: "/event-map/"
+  side: left
+  
 - title: stations
   url: "/station-map/"
   side: left
   dropdown:
-  - title: "Bulletins"
-    url: "/station-map/bulletins"
-
-- title: events
-  url: "/event-map/"
-  side: left
+#  - title: "Bulletins"
+#    url: "/station-map/bulletins"
+  - title: "coimbra"
+    url: "/organizations/coimbra"
+  - title: "harvard"
+    url: "/organizations/harvard"
+  - title: "Ohio"
+    url: "/organizations/ohio"
+  - title: "Puerto Rico"
+    url: "/organizations/puerto_rico"
+  - title: "weston"
+    url: "/organizations/weston"
 
 - title: organizations
   url: "/organizations/"
@@ -28,24 +38,16 @@
     url: "/organizations/canada"
   - title: "Carnegie DTM"
     url: "/organizations/carnegie"
-  - title: "coimbra"
-    url: "/organizations/coimbra"
   - title: "Iceland"
     url: "/organizations/iceland"
   - title: "icgc"
     url: "/organizations/icgc"
-  - title: "Ohio"
-    url: "/organizations/ohio"
-  - title: "Puerto Rico"
-    url: "/organizations/puerto_rico"
   - title: "romania"
     url: "/organizations/romania"
   - title: "scsn"
     url: "/organizations/scsn"
   - title: "unam"
     url: "/organizations/unam"
-  - title: "weston"
-    url: "/organizations/weston"
   - title: "WWSSN"
     url: "/organizations/wwssn"
 
@@ -56,13 +58,17 @@
   - title: "Leo Brady Seismic Network"
     url: "/monitoring/leobrady"
 
+- title: Bulletins
+  url: "/bulletins/"
+  side: left
+
 - title: references
   url: "/references/"
   side: left
 
-- title: index
-  url: "/listing/"
-  side: left
+#- title: index
+#  url: "/listing/"
+#  side: left
 
 - title: Blog
   url: "/blog/"
