@@ -31,6 +31,8 @@ China:
 <br>
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
+[**Japan-ADEP:**](../organizations/japan-adep) A collection of Japanese universities hosted by ADEP
+<br>
 **JMA:** Japan Meteorological Agency
 <br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
@@ -47,9 +49,8 @@ China:
 * Canberra, Australia: CAN
 * Cape Town, South Africa: CGH/CTO/HER
 * [Cleveland, Ohio:](../organizations/ohio) JCU
-* [Coimbra](../organizations/coimbra)
+* [Coimbra:](../organizations/coimbra) COI
 * [Harvard, United States:](../organizations/harvard) HRV
-* Mizusawa, Japan: MZW
 * [**Puerto Rico:**](../organizations/puerto_rico) SJG, SJP, VQS
 * [Weston Observatory](../organizations/weston)
 

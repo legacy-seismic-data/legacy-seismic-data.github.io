@@ -10,7 +10,7 @@
 - title: events
   url: "/event-map/"
   side: left
-  
+
 - title: stations
   url: "/station-map/"
   side: left
@@ -21,6 +21,7 @@
     url: "/organizations/coimbra"
   - title: "harvard"
     url: "/organizations/harvard"
+
   - title: "Ohio"
     url: "/organizations/ohio"
   - title: "Puerto Rico"
@@ -42,6 +43,8 @@
     url: "/organizations/iceland"
   - title: "icgc"
     url: "/organizations/icgc"
+  - title: "japan-adep"
+    url: "/organizations/japan-adep"
   - title: "romania"
     url: "/organizations/romania"
   - title: "scsn"

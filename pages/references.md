@@ -22,27 +22,28 @@ Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unam
 Batlló, Josep, Antonio Villaseñor, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2021). Digital Preservation of Analogue Seismograms and Other Documents at
 Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101.
 
-Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf
-
+Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf [JCU](../organizations/ohio)
 
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
 
-Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014
+Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014 [COI](../organizations/coimbra)
+
+The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 20 January 2022*
 
 Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112.
 
 Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf
 
 Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
-presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA.
+presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA. [JCU](../organizations/ohio)
 
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
 
 Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../organizations/scsn)
 
-Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1.
+Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1. [JCU](../organizations/ohio)
 
-Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022*
+Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022* [HRV](../organizations/harvard)
 
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
@@ -52,21 +53,31 @@ IGC website. https://www.icgc.cat/en/Public-Administration-and-Enterprises/Servi
 Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last accessed: 3 January 2021.
 
 Ishii, M., H. Ishii, B. Bernier, & E. Bulat (2015). Efforts to recover and digitize analog seismograms from Harvard-
-Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261.
+Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261. [HRV](../organizations/harvard)
 
 Lee, T. A., M. Ishii, H. Ishii & T. Morinaga (2019). The Potential of Analog Seismograms for Science and Education,
 presented at 2019 Legacy Securing Legacy Seismic Data to Enable Future Discoveries Workshop, Albuquerque,
-New Mexico, Sept 18-19, 2019.
+New Mexico, Sept 18-19, 2019. [HRV](../organizations/harvard)
+
+Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301.
+
+McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.iris.edu/seismo-archives/stations/puerto_rico/references/seismic-recording_history_Puerto_Rico/seismic-recording_history_Puerto_Rico.pdf
+*Last accessed 14 January 2022* [SJG, SJP, VQA](../organizations/puerto_rico)
 
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, CGH/CTO/HER, MZW, [WES](../organizations/weston),
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, CGH/CTO/HER, MZW, [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
 
+Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp.
+
 Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../organizations/carnegie)
+
+Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
+*Last accessed 14 January 2022*  [SJG, SJP, VQA](../organizations/puerto_rico)
 
 Young, B. A., and R. E. Abbott (2020). Recovery and Calibration of Legacy Underground Nuclear Test Seismic Data from the Leo Brady Seismic Network, Seismol. Res. Lett. 91, 1488–1499, doi: 10.1785/0220190341.
