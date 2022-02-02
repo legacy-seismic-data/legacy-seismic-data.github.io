@@ -33,8 +33,8 @@ China:
 <br>
 [**Japan-ADEP:**](../organizations/japan-adep) A collection of Japanese universities hosted by ADEP
 <br>
-**JMA:** Japan Meteorological Agency
-<br>
+[**JMA:**](../organizations/japan-adep) Japan Meteorological Agency
+]<br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>
 [**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available

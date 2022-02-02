@@ -37,13 +37,15 @@ Einarsson, Páll (2018). A short, incomplete history of analog seismographs in I
 Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
 presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA. [JCU](../organizations/ohio)
 
-Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
+Furumura, Mitsuko; Koji Iwasa, Yasunori Suzuki, Tomotsugu Demachi, Takeo Ishibe, Ritsuko S. Matsu’ura (2020). Data Retrieval System of JMA Analog Seismograms in the Headquarters for Earthquake Research Promotion of the Japanese Government. Seismological Research Letters; 91 (3): 1403–1412. doi: https://doi.org/10.1785/0220190303
 
 Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../organizations/scsn)
 
 Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1. [JCU](../organizations/ohio)
 
 Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022* [HRV](../organizations/harvard)
+
+HERP Data Retrieval System of the JMA Analog Seismograms. 2022 [http://www.susu.adep.or.jp/](http://www.susu.adep.or.jp/). *last accessed 2 February 2022.*
 
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
 for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
@@ -55,6 +57,8 @@ Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last acc
 Ishii, M., H. Ishii, B. Bernier, & E. Bulat (2015). Efforts to recover and digitize analog seismograms from Harvard-
 Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261. [HRV](../organizations/harvard)
 
+Kitahara I., Matsu’ura R. S., and Kimura R. (2012). Nihon Rekishi Saigaishi Jiten (Encyclopedia of Historical Disasters in Japan) , Yoshikawa Kobunkan, Tokyo, Japan, 892 pp. (in Japanese).
+
 Lee, T. A., M. Ishii, H. Ishii & T. Morinaga (2019). The Potential of Analog Seismograms for Science and Education,
 presented at 2019 Legacy Securing Legacy Seismic Data to Enable Future Discoveries Workshop, Albuquerque,
 New Mexico, Sept 18-19, 2019. [HRV](../organizations/harvard)
@@ -65,6 +69,9 @@ McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.
 *Last accessed 14 January 2022* [SJG, SJP, VQA](../organizations/puerto_rico)
 
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
+
+Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
+Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
 
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, CGH/CTO/HER, MZW, [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
 
