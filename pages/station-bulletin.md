@@ -43,3 +43,7 @@ The Earthquake Research Institute (ERI) of the University of Tokyo has archived 
 * and more.
 
 Access the complete list: [http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html](http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html)
+
+**References**  
+Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
+University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
