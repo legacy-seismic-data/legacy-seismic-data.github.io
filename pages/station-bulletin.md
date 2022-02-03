@@ -11,6 +11,7 @@ permalink           : "/bulletins"
 
 Archives of scanned instrumental seismic bulletins pertaining to either a single station or network.
 
+<hr>
 ## ISC Electronic Archive of Station and Network Bulletins
 Station and network bulletins are available for download from the International Seismological Centre (ISC).  
 
@@ -32,3 +33,13 @@ Original bulletins of International Seismological Summary (ISS) have been obtain
 
 **References**  
 Domenico Di Giacomo, Daniela Olaru, Adrian Armstrong, James Harris, Dmitry A. Storchak; The ISC Electronic Archive of Printed Station and Network Bulletins. Seismological Research Letters 2021; doi: https://doi.org/10.1785/0220210262
+<hr>
+## Taiwan
+The Earthquake Research Institute (ERI) of the University of Tokyo has archived records from Taiwan along with special reports of earthquakes in Formosa (Taiwan). These include:
+* Seismic reports of the Taiwan Meteorological )bservatory (1906-1912)
+* Annual reports of meteorological data in Taiwan (1915-1927)
+* The seismic bulletin of Taiwan (1921-1928)
+* Papers and reports of the 1935 Formosa earthquake (ERI, Tokyo Imperial University)
+* and more.
+
+Access the complete list: [http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html](http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html)
