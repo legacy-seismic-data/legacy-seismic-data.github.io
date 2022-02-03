@@ -22,7 +22,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 China:
 <br>
-ERI, U. Tokyo:** Earthquake Research Institute, The University of Tokyo
+[**ERI, U. Tokyo:**](../organizations/eri) Earthquake Research Institute of the University of Tokyo
 <!--- **GNS:** GNS New Zealand --->
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland

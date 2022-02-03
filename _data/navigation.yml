@@ -39,6 +39,8 @@
     url: "/organizations/canada"
   - title: "Carnegie DTM"
     url: "/organizations/carnegie"
+  - title: "ERI"
+    url: "/organizations/eri"
   - title: "Iceland"
     url: "/organizations/iceland"
   - title: "icgc"

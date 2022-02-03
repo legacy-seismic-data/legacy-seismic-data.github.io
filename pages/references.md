@@ -70,6 +70,10 @@ McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.
 
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103.
 
+Murotani, S., K. Satake, H. Tsuruoka, H. Miyake, T. Sato, T. Hashimoto, and H. Kanamori (2020). A
+Database of Digitized and Analog Seismograms of Historical Earthquakes in
+Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190287.
+
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334.
 
@@ -83,6 +87,9 @@ http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
 Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp.
 
 Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../organizations/carnegie)
+
+Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
+University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 
 Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
 *Last accessed 14 January 2022*  [SJG, SJP, VQA](../organizations/puerto_rico)

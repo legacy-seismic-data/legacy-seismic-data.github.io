@@ -21,7 +21,7 @@ Location of Japan Meteorological Agency (JMA) stations. The JMA deployed a total
 ## Instrumentation
 
 **Class**|**Seismograph**|**Approximate Magnification**
- :---: | :---: | :---:
+ :---: | :--- | :---
 S|Bracket seismograph+, Gray–Milne–Ewing seismograph+, Omori strong‐motion seismograph, Imamura strong‐motion seismograph, mechanical strong‐motion seismograph, and so forth. |1–10
 P|Omori seismograph, Omori tremometer, portable tremometer, 54‐type mechanical seismograph, and so forth.|	20–50
 W|Wiechert seismograph, Mainka seismograph, JMA‐59‐type electromagnetic seismograph, JMA‐61‐type electromagnetic seismograph, and so forth. |100–200
