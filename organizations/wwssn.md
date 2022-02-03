@@ -38,6 +38,7 @@ Several organizations hold partial or (mostly) complete sets of photographed dat
 * Lamont–Doherty Earth Observatory: film chips (complete) *includes California Institute of Technology collection merged in 2010*
 * Northwestern University: film chips (partial)
 * British Geological Survey: film chips (unknown), microfiche from 1978-1990 (complete)
+* Earthquake Research Institute: microfilms for 167 statyions from 1963-1988 (16,100 rolls) (Satake et al., 2020)
 
 Scans of all available records were completed for 5 high quality reference stations:
 
@@ -82,3 +83,6 @@ Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218.
+
+Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
+University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.

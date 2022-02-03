@@ -22,17 +22,16 @@ Location of Japan Meteorological Agency (JMA) stations. The JMA deployed a total
 
 **Class**|**Seismograph**|**Approximate Magnification**
  :---: | :---: | :---:
-S|	Bracket seismograph+, Gray–Milne–Ewing seismograph+, Omori strong‐motion seismograph, Imamura strong‐motion seismograph, mechanical strong‐motion seismograph, and so forth.	|1–10
-P|	Omori seismograph, Omori tremometer, portable tremometer, 54‐type mechanical seismograph, and so forth.|	20–50
-W|	Wiechert seismograph, Mainka seismograph, JMA‐59‐type electromagnetic seismograph, JMA‐61‐type electromagnetic seismograph, and so forth.	|100–200
-A|	Ishimoto‐type seismographs, JMA‐56‐type seismograph, 76‐type short‐period electromagnetic seismograph, 88‐type short‐period electromagnetic seismograph, and so forth.|	300 or more
-X|	Unknown	|–
+S|Bracket seismograph+, Gray–Milne–Ewing seismograph+, Omori strong‐motion seismograph, Imamura strong‐motion seismograph, mechanical strong‐motion seismograph, and so forth. |1–10
+P|Omori seismograph, Omori tremometer, portable tremometer, 54‐type mechanical seismograph, and so forth.|	20–50
+W|Wiechert seismograph, Mainka seismograph, JMA‐59‐type electromagnetic seismograph, JMA‐61‐type electromagnetic seismograph, and so forth. |100–200
+A|Ishimoto‐type seismographs, JMA‐56‐type seismograph, 76‐type short‐period electromagnetic seismograph, 88‐type short‐period electromagnetic seismograph, and so forth. |	300 or more
+X|Unknown |–
 
 JMA, Japan Meteorological Agency.  
 +Triggered type.  
 
 *From Furumura et al., (2020)*
-
 ## Recording Medium
 Smoked paper  
 ink
@@ -63,6 +62,7 @@ For more information about this collection, please contact:
 Furumura, Mitsuko; Koji Iwasa, Yasunori Suzuki, Tomotsugu Demachi, Takeo Ishibe, Ritsuko S. Matsu’ura (2020). Data Retrieval System of JMA Analog Seismograms in the Headquarters for Earthquake Research Promotion of the Japanese Government. Seismological Research Letters; 91 (3): 1403–1412. doi: https://doi.org/10.1785/0220190303
 
 HERP Data Retrieval System of the JMA Analog Seismograms. 2022 [http://www.susu.adep.or.jp/](http://www.susu.adep.or.jp/). *last accessed 2 February 2022.*
+
 Kitahara I., Matsu’ura R. S., and Kimura R. (2012). Nihon Rekishi Saigaishi Jiten (Encyclopedia of Historical Disasters in Japan) , Yoshikawa Kobunkan, Tokyo, Japan, 892 pp. (in Japanese).
 
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
