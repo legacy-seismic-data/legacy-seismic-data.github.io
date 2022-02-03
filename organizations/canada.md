@@ -54,7 +54,7 @@ Canada|ALE |  Alert |   | 	  |  |  6
 ## Data Availability
 35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records (see [WWSSN](../organizations/wwssn)). Scans will be made available through IRIS DMC.
 
-The Earthquake Research Institute maintains ~1800 rolls of 35 mm films from 23 stations of the Canadian seismograph network between 1982-1989). Some event log sheets are also available (Satake et al., 2020).
+The Earthquake Research Institute maintains ~1800 rolls of 35 mm films from 23 stations of the Canadian seismograph network between 1982-1989. Some event log sheets are also available (Satake et al., 2020).
 
 Paper records have been maintained for this collection.
 

@@ -38,7 +38,7 @@ Several organizations hold partial or (mostly) complete sets of photographed dat
 * Lamont–Doherty Earth Observatory: film chips (complete) *includes California Institute of Technology collection merged in 2010*
 * Northwestern University: film chips (partial)
 * British Geological Survey: film chips (unknown), microfiche from 1978-1990 (complete)
-* Earthquake Research Institute: microfilms for 167 statyions from 1963-1988 (16,100 rolls) (Satake et al., 2020)
+* Earthquake Research Institute: microfilms for 167 stations from 1963-1988 (16,100 rolls) (Satake et al., 2020)
 
 Scans of all available records were completed for 5 high quality reference stations:
 
@@ -79,7 +79,6 @@ For more information about this collection, please contact: \< *blank* \>
 
 ## References
 Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2019). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275
-
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218.
