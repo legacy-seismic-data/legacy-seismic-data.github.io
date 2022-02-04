@@ -20,7 +20,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
-China:
+[**China:**](../organizations/china) China Earthquake Administration
 <br>
 [**ERI, U. Tokyo:**](../organizations/eri) Earthquake Research Institute of the University of Tokyo
 <!--- **GNS:** GNS New Zealand --->

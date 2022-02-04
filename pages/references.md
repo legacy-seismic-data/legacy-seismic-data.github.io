@@ -26,9 +26,23 @@ Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohi
 
 Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
 
+Chai, X., Q. Wang, L. Mu, H. Wang, W. Wang, F. Zhu, and W. Liu (2020). Rescue Work and Progress
+of Analog Seismograms in China, Seismol. Res. Lett. 91, 2704–2718, doi: 10.1785/0220200077.
+
 Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014 [COI](../organizations/coimbra)
 
 The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 20 January 2022*
+
+Department of Monitor and Prediction in China EarthquakeAdministration (CEA) (2005a). Album of Historical Seismograms
+Recorded in Early Chinese Seismographic Stations, Vol. 1, ShanghaiZikawei Seismographic Station (1906–1948), Earthquake Publish
+House, Beijing, China, 1–257 (in Chinese).
+
+Department of Monitor and Prediction in CEA (2005b). Album of Historical Seismograms Recorded in Early Chinese Seismographic
+Stations, Vol. 2, Dalian Seismographic Station (1918–1945),Earthquake Publish House, Beijing, China, 1–303 (in Chinese).
+
+Department of Monitor and Prediction in CEA (2005c). Album of Historical Seismograms Recorded in Early Chinese Seismographic
+Stations, Vol. 3, Qingdao City Observatory (1912–1925), Chongqing Beibei (1943–1946) and Nanjing Shijingtai Seismographic Station
+(1947–1948), Earthquake Publish House, Beijing, China, 1–228 (in Chinese).
 
 Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112.
 
@@ -93,5 +107,8 @@ University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/022019028
 
 Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
 *Last accessed 14 January 2022*  [SJG, SJP, VQA](../organizations/puerto_rico)
+
+Wang, J (2020). Conservation and Utilization of Historical Seismograms from Early Stage (A.D.
+1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268.
 
 Young, B. A., and R. E. Abbott (2020). Recovery and Calibration of Legacy Underground Nuclear Test Seismic Data from the Leo Brady Seismic Network, Seismol. Res. Lett. 91, 1488–1499, doi: 10.1785/0220190341.
