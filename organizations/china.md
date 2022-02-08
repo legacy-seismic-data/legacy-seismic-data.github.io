@@ -44,9 +44,9 @@ analog tape
 ## Data Availability
 Approximately 13.5 million analog records have been produced in China between 1904 and 2007 with about 9.7 million still in existence. During this period multiple regional agencies operated seismic networks.
 About 3.13 million of these records have been scanned (Chai et al., 2020). Scanning efforts continue by individual agencies as well as the Institute of Geophysics of the China Earthquake Administration.
-
+<br>
 <iframe src="../images/china-fig1.png" height="450px" width="690px"></iframe>
-The number of existing analog seismic and the scanned ratio of each Agency in China (by December 2019). IGCEA, Institute of Geophysics of the China Earthquake Administration. (Chai et al., 2020)
+*The number of existing analog seismic and the scanned ratio of each Agency in China (by December 2019). IGCEA, Institute of Geophysics of the China Earthquake Administration. (Chai et al., 2020)*
 <br>
 <br>
 
