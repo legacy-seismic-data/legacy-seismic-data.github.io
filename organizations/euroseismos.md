@@ -15,7 +15,7 @@ The EuroSeismos project's main objectives are to enable the reuse of historical 
 Currently 33 researchers from 29 countries are participating in the project.
 
 ## Stations
-300 seismic stations mostly in the Euro-Mediterranean region from 1895-1990.
+300 seismic stations mostly in the Euro-Mediterranean region from 1895-1990. See also the station [list](http://storing.ingv.it/es_web/).
 
 [Partner countries:](http://storing.ingv.it/es_web/)
 
@@ -48,6 +48,8 @@ Low resolution images (200 dpi) can be viewed online.
 Higher resolution images can be requested through the [Seismogram Request 2.0](http://seismogramrequest.rm.ingv.it/) system. Registration is required.
 
 Seismograms are distributed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Use may be restricted depending on the seismic station.
+
+Some station [bulletins](http://storing.ingv.it/es_web/) are also available.
 
 More information about the EuroSeismos project is available through their [website](http://storing.ingv.it/es_web/).
 

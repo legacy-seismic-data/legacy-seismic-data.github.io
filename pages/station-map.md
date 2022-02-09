@@ -15,7 +15,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 
 ### Layer Key
 [**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
-<br>[
+<br>
 [**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
@@ -27,7 +27,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
-[**EuroSeismos:**](../organizations/euroseismos)
+[**EuroSeismos:**](../organizations/euroseismos) EuroSeismos and SISMOS
 <br>
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
@@ -45,8 +45,12 @@ Stations shown have legacy seismic data that has been converted to digital image
 
 **Single Stations:** Single stations without network affiliations
 
-* Batavia (Jakarta), Indonesia: BAT/DJA
+
+<!---
 * Canberra, Australia: CAN
+--->
+
+* Batavia (Jakarta), Indonesia: BAT/DJA
 * Cape Town, South Africa: CGH/CTO/HER
 * [Cleveland, Ohio:](../organizations/ohio) JCU
 * [Coimbra:](../organizations/coimbra) COI

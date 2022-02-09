@@ -16,7 +16,7 @@ Archives of scanned instrumental seismic bulletins pertaining to either a single
 Station and network bulletins are available for download from the International Seismological Centre (ISC).  
 
 Data are provided from the following:
-* Eurosismos project: [http://storing.ingv.it/es_web/](http://storing.ingv.it/es_web/)
+* EuroSeismos project: [http://storing.ingv.it/es_web/](http://storing.ingv.it/es_web/)
 * Seismo Archives, IRIS: [https://ds.iris.edu/seismo-archives/](https://ds.iris.edu/seismo-archives/)
 * Istituto Nazionale di Geofisica e Vulcanologia (INGV): [http://storing.ingv.it/bulletins/ISC-GEM/](http://storing.ingv.it/bulletins/ISC-GEM/)
 * University of Uppsala, Sweden: [http://www.axelhamberg.se/bulletin/Engelsk.htm](http://www.axelhamberg.se/bulletin/Engelsk.htm)
