@@ -43,6 +43,8 @@
     url: "/organizations/china"
   - title: "ERI"
     url: "/organizations/eri"
+  - title: "EuroSeismos"
+    url: "/organizations/euroseismos"
   - title: "Iceland"
     url: "/organizations/iceland"
   - title: "icgc"

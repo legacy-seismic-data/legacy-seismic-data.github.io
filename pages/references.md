@@ -48,6 +48,9 @@ Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oanc
 
 Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf
 
+Ferrari, G. ,Pino, N. A. (2003). EUROSEISMOS 2002-2003 a project for saving and studying historical seismograms in the Euro-mediterranean area, EGS - AGU - EUG Joint Assembly, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....5274F
+
+
 Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
 presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA. [JCU](../organizations/ohio)
 
@@ -98,6 +101,8 @@ Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Sei
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
 
+Pintore, S., Quintiliani, M. Franceschi, D. (2005). Teseo: A vectoriser of historical seismograms, Computers & Geosciences 31, p. 1277–1285.
+
 Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp.
 
 Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../organizations/carnegie)
@@ -105,8 +110,12 @@ Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 
+Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*.
+
 Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
 *Last accessed 14 January 2022*  [SJG, SJP, VQA](../organizations/puerto_rico)
+
+SISMOS, http://sismos.rm.ingv.it/index.php. *Last accessed 9 February 2022*.
 
 Wang, J (2020). Conservation and Utilization of Historical Seismograms from Early Stage (A.D.
 1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268.

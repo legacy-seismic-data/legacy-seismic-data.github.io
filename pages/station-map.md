@@ -16,7 +16,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 ### Layer Key
 [**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
 <br>[
-**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
+[**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
@@ -27,7 +27,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
-**EUROSEISMOS:**
+[**EuroSeismos:**](../organizations/euroseismos)
 <br>
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
 <br>
