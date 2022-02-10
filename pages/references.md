@@ -59,7 +59,7 @@ Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at
 
 Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1. [JCU](../organizations/ohio)
 
-Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022* [HRV](../organizations/harvard)
+Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022.* [HRV](../organizations/harvard)
 
 HERP Data Retrieval System of the JMA Analog Seismograms. 2022 [http://www.susu.adep.or.jp/](http://www.susu.adep.or.jp/). *last accessed 2 February 2022.* [JMA](../organizations/jma)
 
@@ -93,7 +93,9 @@ Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334. [JMA](../organizations/jma)
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, CGH/CTO/HER, MZW, [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, [CGH/CTO/HER](../organizations/capetown), MZW, [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
+
+Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../organizations/capetown)
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039. [Romania](../organizations/romania)
 
@@ -108,6 +110,8 @@ Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth
 
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281. [ERI](../organizations/eri)
+
+Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203 [CGH/CTO/HER](../organizations/capetown)
 
 Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*. [EuroSeismos](../organizations/euroseismos)
 

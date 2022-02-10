@@ -17,11 +17,12 @@
   dropdown:
 #  - title: "Bulletins"
 #    url: "/station-map/bulletins"
+  - title: "Cape Town"
+    url: "/organizations/capetown"
   - title: "coimbra"
     url: "/organizations/coimbra"
   - title: "harvard"
     url: "/organizations/harvard"
-
   - title: "Ohio"
     url: "/organizations/ohio"
   - title: "Puerto Rico"

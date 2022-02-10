@@ -51,12 +51,12 @@ Stations shown have legacy seismic data that has been converted to digital image
 --->
 
 * Batavia (Jakarta), Indonesia: BAT/DJA
-* Cape Town, South Africa: CGH/CTO/HER
-* [Cleveland, Ohio:](../organizations/ohio) JCU
-* [Coimbra:](../organizations/coimbra) COI
-* [Harvard, United States:](../organizations/harvard) HRV
+* [**Cape Town, South Africa:**](../organizations/capetown) CGH/CTO/HER
+* [**Cleveland, Ohio:**](../organizations/ohio) JCU
+* [**Coimbra:**](../organizations/coimbra) COI
+* [**Harvard, United States:**](../organizations/harvard) HRV
 * [**Puerto Rico:**](../organizations/puerto_rico) SJG, SJP, VQS
-* [Weston Observatory](../organizations/weston)
+* [**Weston Observatory:**](../organizations/weston)
 
 #### Nuclear Monitoring
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
