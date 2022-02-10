@@ -84,6 +84,8 @@ Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (202
 McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.iris.edu/seismo-archives/stations/puerto_rico/references/seismic-recording_history_Puerto_Rico/seismic-recording_history_Puerto_Rico.pdf
 *Last accessed 14 January 2022* [SJG, SJP, VQA](../organizations/puerto_rico)
 
+McComb, H.E. and C.J West (1931). List of Seismological Stations of the World, Bulletin of the National Research Council, 82, National Research Council, National Academy of Sciences, Washington D.C., 119pp.
+
 Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103. [ICGC](../organizations/icgc)
 
 Murotani, S., K. Satake, H. Tsuruoka, H. Miyake, T. Sato, T. Hashimoto, and H. Kanamori (2020). A
@@ -93,7 +95,7 @@ Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
 Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334. [JMA](../organizations/jma)
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 BAT/DJA , CAN, [CGH/CTO/HER](../organizations/capetown), MZW, [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [BAT/DJA](../organizations/batavia),[CGH/CTO/HER](../organizations/capetown), [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
 
 Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../organizations/capetown)
 

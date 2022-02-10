@@ -17,6 +17,8 @@
   dropdown:
 #  - title: "Bulletins"
 #    url: "/station-map/bulletins"
+  - title: "Batavia"
+    url: "/organizations/batavia"
   - title: "Cape Town"
     url: "/organizations/capetown"
   - title: "coimbra"

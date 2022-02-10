@@ -50,7 +50,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 * Canberra, Australia: CAN
 --->
 
-* Batavia (Jakarta), Indonesia: BAT/DJA
+* [**Batavia (Jakarta), Indonesia:**](../organizations/batavia) BAT/DJA
 * [**Cape Town, South Africa:**](../organizations/capetown) CGH/CTO/HER
 * [**Cleveland, Ohio:**](../organizations/ohio) JCU
 * [**Coimbra:**](../organizations/coimbra) COI
