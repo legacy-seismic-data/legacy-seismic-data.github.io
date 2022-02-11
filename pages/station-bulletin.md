@@ -36,7 +36,7 @@ Domenico Di Giacomo, Daniela Olaru, Adrian Armstrong, James Harris, Dmitry A. St
 <hr>
 ## Taiwan
 The Earthquake Research Institute (ERI) of the University of Tokyo has archived records from Taiwan along with special reports of earthquakes in Formosa (Taiwan). These include:
-* Seismic reports of the Taiwan Meteorological )bservatory (1906-1912)
+* Seismic reports of the Taiwan Meteorological Observatory (1906-1912)
 * Annual reports of meteorological data in Taiwan (1915-1927)
 * The seismic bulletin of Taiwan (1921-1928)
 * Papers and reports of the 1935 Formosa earthquake (ERI, Tokyo Imperial University)
@@ -47,3 +47,6 @@ Access the complete list: [http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.htm
 **References**  
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
+<hr>
+## Uppsala University
+Scanned publications from Uppsala University, with data from seismological records from the years 1904-1998. Access: [http://www.axelhamberg.se/Bulletin/Engelsk.htm](http://www.axelhamberg.se/Bulletin/Engelsk.htm)

@@ -13,7 +13,13 @@ Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic
 
 Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275. [WWSSN](../organizations/wwssn)
 
+Anonymous. HVO’s Pilot Project to Archive Legacy Seismic Data, https://hilo.hawaii.edu/depts/geology/documents/SeismicArchive.pdf. *Last accessed 10 February 2022* [HVO](../organizations/hawaii)
+
 Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*. [Romania](../organizations/romania)
+
+Babb, J.L., Kauahikaua, J.P., and Tilling, R.I., 2011, The story of the Hawaiian Volcano Observatory—A remarkable
+first 100 years of tracking eruptions and earthquakes: U.S. Geological Survey General Information Product 135,
+60 p., available at http://pubs.usgs.gov/gip/135/. [HVO](../organizations/hawaii)
 
 Batlló, Josep and Peter Bormann; A Catalog of Old Spanish Seismographs (2000). Seismological Research Letters 71 (5): 570–582. doi: https://doi.org/10.1785/gssrl.71.5.570. [ICGC](../organizations/icgc)
 
