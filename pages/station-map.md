@@ -55,6 +55,7 @@ Stations shown have legacy seismic data that has been converted to digital image
 * [**Cleveland, Ohio:**](../organizations/ohio) JCU
 * [**Coimbra:**](../organizations/coimbra) COI
 * [**Harvard, United States:**](../organizations/harvard) HRV
+* [**Hawaiian Volcano Observatory, United States:**](../organizations/hawaii) HVO
 * [**Puerto Rico:**](../organizations/puerto_rico) SJG, SJP, VQS
 * [**Weston Observatory:**](../organizations/weston)
 
