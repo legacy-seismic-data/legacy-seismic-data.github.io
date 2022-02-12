@@ -9,7 +9,9 @@ header:
    image_fullwidth  : "crack_resize.jpg"
 permalink           : "/event-map/"
 ---
-Events shown have been associated with the availability of legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request. Select the corresponding organization from the **Layer Key** below for more information.
+Events shown have been associated with the availability of legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request.
+
+See the corresponding [organization](../organizations) for more information.
 
 <iframe src="../pages/maps/events.html" width="1000px" height="666px"></iframe>
 
