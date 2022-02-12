@@ -14,55 +14,23 @@ Stations shown have legacy seismic data that has been converted to digital image
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
 ### Layer Key
-[**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
-<br>
-[**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
-<br>
-[**Cascades Volcano Observatory, United States:**](../organizations/cvo) CVO
-<br>
-[**CNSN:**](../organizations/canada) Canadian Seismographic Network
-<br>
-[**China:**](../organizations/china) China Earthquake Administration
-<br>
-[**ERI, U. Tokyo:**](../organizations/eri) Earthquake Research Institute of the University of Tokyo
-<!--- **GNS:** GNS New Zealand --->
-<br>
-[**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
-<br>
-[**EuroSeismos:**](../organizations/euroseismos) EuroSeismos and SISMOS
-<br>
-[**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
-<br>
-[**Japan-ADEP:**](../organizations/japan-adep) A collection of Japanese universities hosted by ADEP
-<br>
-[**JMA:**](../organizations/jma) Japan Meteorological Agency
-<br>
-[**Romania:**](../organizations/romania) Romanian Seismological Network
-<br>
-[**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available
-<br>
-[**UNAM:**](../organizations/unam) Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
-<br>
-[**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
-
+<!---
 **Single Stations:** Single stations without network affiliations
 
 
-<!---
+
 * Canberra, Australia: CAN
 --->
 
-* [**Batavia (Jakarta), Indonesia:**](../organizations/batavia) BAT/DJA
-* [**Cape Town, South Africa:**](../organizations/capetown) CGH/CTO/HER
-* [**Cleveland, Ohio:**](../organizations/ohio) JCU
-* [**Coimbra:**](../organizations/coimbra) COI
-* [**Harvard, United States:**](../organizations/harvard) HRV
-* [**Hawaiian Volcano Observatory, United States:**](../organizations/hawaii) HVO
-* [**Puerto Rico:**](../organizations/puerto_rico) SJG, SJP, VQS
-* [**Weston Observatory:**](../organizations/weston)
+* [**Batavia (Jakarta), Indonesia:**](../stations/batavia) BAT/DJA
+* [**Cape Town, South Africa:**](../stations/capetown) CGH/CTO/HER
+* [**Cleveland, Ohio:**](../stations/ohio) JCU
+* [**Coimbra:**](../stations/coimbra) COI
+* [**Harvard, United States:**](../stations/harvard) HRV
+* [**Hawaiian Volcano Observatory, United States:**](../stations/hawaii) HVO
+* [**Puerto Rico:**](../stations/puerto_rico) SJG, SJP, VQS
+* [**Weston Observatory:**](../stations/weston)
 
-#### Nuclear Monitoring
-[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
 
 ### Pop-up Key
 

@@ -8,40 +8,42 @@ header:
    image_fullwidth  : "students_bikes.jpg"
 permalink           : "/organizations/"
 ---
-Organizations manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request. See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
+Organizations and/or networks that manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request. See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
 ### Layer Key
 [**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
 <br>
-[**Carnegie:**](../organizations/carnegie) Carnegie Institution EPL
+[**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
+<br>
+[**Cascades Volcano Observatory, United States:**](../organizations/cvo) CVO
 <br>
 [**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
-**ERI, U. Tokyo:** Earthquake Research Institute, The University of Tokyo
+[**China:**](../organizations/china) China Earthquake Administration
+<br>
+[**ERI, U. Tokyo:**](../organizations/eri) Earthquake Research Institute of the University of Tokyo
 <!--- **GNS:** GNS New Zealand --->
 <br>
 [**IES, U. Iceland:**](../organizations/iceland) Institute of Earth Sciences, University of Iceland
 <br>
+[**EuroSeismos:**](../organizations/euroseismos) EuroSeismos and SISMOS
+<br>
 [**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
-]<br>
-**JMA:** Japan Meteorological Agency
+<br>
+[**Japan-ADEP:**](../organizations/japan-adep) A collection of Japanese universities hosted by ADEP
+<br>
+[**JMA:**](../organizations/jma) Japan Meteorological Agency
 <br>
 [**Romania:**](../organizations/romania) Romanian Seismological Network
 <br>
 [**SCSN:**](../organizations/scsn) Southern California Seismographic Network stations with digital images available
 <br>
-[**UNAM:**](../organizations/unam)  Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
+[**UNAM:**](../organizations/unam) Sismoteca Nacional en Linea, Universidad Nacional Autonoma de Mexico
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
-**Single Stations:** Single stations without network affiliations
-  * [Weston Observatory](../organizations/weston)
-  * [Coimbra](../organizations/coimbra)
-
-#### Nuclear Monitoring
-[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
 
 ### Pop-up Key
 

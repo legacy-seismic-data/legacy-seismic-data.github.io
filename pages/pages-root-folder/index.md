@@ -8,14 +8,14 @@ layout: frontpage
 header:
 #  image_fullwidth: header_unsplash_12.jpg
   image_fullwidth: background16-9.jpg
-widget3:
+widget2:
   title: "Organizations"
 #  url: 'http://ljhwang.github.io/Legacy-Seismic-Data/organizations'
   url: "/organizations/"
 #  image: organizations_resampled.jpg
   image: students_bikes.jpg
   text: 'Discover organizations that manage e-legacy seismic data.'
-widget2:
+widget3:
 #  title: "Index"
   title: "Events"
 #  image: scrabble_resize.jpg
