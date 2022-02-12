@@ -6,7 +6,7 @@ subheadline         : "DJA/BAT"
 teaser              : "More information about this station"
 header:
    image_fullwidth  : "batavia.jpg"
-permalink           : "/organizations/batavia"
+permalink           : "/stations/batavia"
 breadcrumb          : true
 ---
 
@@ -34,7 +34,7 @@ smoked paper
 
 Using a high quality digital camera, approximately 500 of the fragile smoked paper records were photographed with funding from the Earth Observatory of Singapore.
 
-
+stations
 **no. available** | **format** | **dpi** | **color**|
 | :---: | :---: | :---: | :---:|
 500 | photographs |  |

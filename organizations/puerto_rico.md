@@ -6,7 +6,7 @@ subheadline         : "VQS, SJP, SJP"
 teaser              : "More information about data in this collection"
 header:
    image_fullwidth  : "puerto_rico.jpg"
-permalink           : "/organizations/puerto_rico"
+permalink           : "/stations/puerto_rico"
 breadcrumb          : true
 ---
 

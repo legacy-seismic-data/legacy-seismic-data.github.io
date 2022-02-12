@@ -6,7 +6,7 @@ subheadline         : "COI"
 teaser              : "More information about this station"
 header:
    image_fullwidth  : "coimbra.jpg"
-permalink           : "/organizations/coimbra"
+permalink           : "/stations/coimbra"
 breadcrumb          : true
 ---
  Located in Coimbra, Portugal, the seismic station COI is the oldest seismic station in Portugal and among the oldest in the world. Experimental seismic recording began in 1891 with continuous recordings beginning in 1903. The first station bulletin was published in 1910. Coimbra’s observatory maintains an over 100‐year long, well‐preserved collection of seismograms, seismographs and bulletins.

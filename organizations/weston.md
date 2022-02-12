@@ -5,8 +5,8 @@ title               : "Weston Observatory"
 subheadline         : "WES"
 teaser              : "More information about this station"
 header:
-   image_fullwidth  : "organizations_resampled.jpg"
-permalink           : "/organizations/weston"
+   image_fullwidth  : "weston.jpg"
+permalink           : "/stations/weston"
 breadcrumb          : true
 ---
 Weston Observatory is a geophysical research and science education center of the Department of Earth and Environmental Sciences at Boston College.
@@ -42,3 +42,7 @@ For more information about this collection, please contact: \< *blank* \>
 
 ## References
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007
+
+<br>
+<br>
+*Photo Credits: Weston Observatory. Modified from original. Licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.

@@ -6,7 +6,7 @@ subheadline         : "HRV"
 teaser              : "More information about this station"
 header:
    image_fullwidth  : "harvard.jpg"
-permalink           : "/organizations/harvard"
+permalink           : "/stations/harvard"
 breadcrumb          : true
 ---
 Owned and maintained by Harvard University, the Harvard seismograph station  at Oak Ridge Observatory was developed in 1933 under the direction of Prof. L. Don Leet. The station operated through 1952 and recorded intermittently to paper during the 1960s, and between 1989 to 1997. Today, the station is part of the Global Seismic Network ([HRV](https://earthquake.usgs.gov/monitoring/operations/stations/IU/HRV/)). In 2009, the station was renamed in honor of Prof. Adam Dziewonski.

@@ -6,7 +6,7 @@ subheadline         : "CGH, CTO, HER"
 teaser              : "More information about this station"
 header:
    image_fullwidth  : "capetown.jpg"
-permalink           : "/organizations/capetown"
+permalink           : "/stations/capetown"
 breadcrumb          : true
 ---
 

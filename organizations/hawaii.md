@@ -6,11 +6,11 @@ subheadline         : "HVO"
 teaser              : "More information about this station"
 header:
    image_fullwidth  : "hawaii.jpg"
-permalink           : "/organizations/hawaii"
+permalink           : "/stations/hawaii"
 breadcrumb          : true
 ---
 The U.S. Geological Survey's (USGS) Hawaiian Volcano Observatory (HVO), the first such observatory in
-the United States, was founded in 1912  By Thomas A. Jaggar. It was initially funded by the Massachusetts Institute of Technology, the Carnegie Geophysical Laboratory, and the Hawaiian Volcano research Association. HVO has been a Federal Government facility since 1919. The first seismic network in the USGS was installed on Kïlauea in the 1950s.
+the United States, was founded in 1912 by Thomas A. Jaggar. It was initially funded by the Massachusetts Institute of Technology, the Carnegie Geophysical Laboratory, and the Hawaiian Volcano research Association. HVO has been a Federal Government facility since 1919. The first seismic network in the USGS was installed on Kïlauea in the 1950s.
 
 [USGS HVO](https://www.usgs.gov/observatories/hvo)
 
