@@ -62,6 +62,9 @@ Seismograms not found in the database can also be requested by email: SSNdata@si
 
 See the SSN [website](http://www.sismoteca.unam.mx/) to download data and for more information on data availability.
 
+The project has also developed TIITBA a new portable open-source multi-platform graphical user interface (GUI)
+coded on Python3, specifically developed for the vectorization, analysis and correction of legacy smoked
+paper seismograms. The software also includes modules to produce output files for SEISAN analysis. (*add reference*)
 
 ## Contact
 

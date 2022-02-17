@@ -25,7 +25,7 @@ Data are provided from the following:
 
 **Download:** [http://www.isc.ac.uk/printedStnBulletins/index.php](http://www.isc.ac.uk/printedStnBulletins/index.php)
 
-Instituto Geográifico Nacional (IGN) has created a new, exhaustive catalog of old seismographs operated at Spanish observatory sites. The catalog describes instruments operating in Spain up to the 1960's which recorded a graphical representation of ground motion.
+In addition, Instituto Geográifico Nacional (IGN) has created a new, exhaustive catalog of old seismographs operated at Spanish observatory sites. The catalog describes instruments operating in Spain up to the 1960's which recorded a graphical representation of ground motion.
 
 **Acknowledgements**  
 *an incomplete set of acknowledgements for the above resources*  
@@ -49,4 +49,5 @@ Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram A
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 <hr>
 ## Uppsala University
-Scanned publications from Uppsala University, with data from seismological records from the years 1904-1998. Access: [http://www.axelhamberg.se/Bulletin/Engelsk.htm](http://www.axelhamberg.se/Bulletin/Engelsk.htm)
+Scanned publications from Uppsala University, with data from seismological records from the years 1904-1998.  
+Access: [http://www.axelhamberg.se/Bulletin/Engelsk.htm](http://www.axelhamberg.se/Bulletin/Engelsk.htm)

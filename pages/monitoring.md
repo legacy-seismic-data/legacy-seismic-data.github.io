@@ -3,20 +3,23 @@ layout              : page-fullwidth
 show_meta           : false
 title               : "Monitoring"
 subheadline         : "FIND"
-teaser              : "Find nuclear testing monitoring networks"
+teaser              : "Find nuclear testing monitoring data"
 header:
    image_fullwidth  : "testing.jpg"
 permalink           : "/monitoring/"
 ---
-Place holder. There are quite a few efforts centered around preserving records from nuclear testing.  These probably should be separated from the earthquake data. *Change to event map for testing.*
+ *Coming soon ... nuclear test and/or station map*
 
+<!---
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
-
+--->
 
 ### Layer Key
-
+**Central Asia:** Kyrgyzstan and Tajikistan  
+**Central & Eastern Europe:** Austria, Bulgaria, Republic of Moldova, and [Romania](../organizations/romania)  
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network  
-[**Soviet Union:**](../monitoring/soviet_union) Soviet Union
+[**Soviet Union:**](../monitoring/soviet_union) Soviet   
+
 
 ### Pop-up Key
 
