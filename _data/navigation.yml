@@ -75,6 +75,8 @@
   dropdown:
   - title: "Leo Brady Seismic Network"
     url: "/monitoring/leobrady"
+  - title: "Soviet Union"
+    url: "/monitoring/sovietunion"
 
 - title: Bulletins
   url: "/bulletins/"

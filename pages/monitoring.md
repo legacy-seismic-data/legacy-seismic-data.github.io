@@ -8,13 +8,15 @@ header:
    image_fullwidth  : "testing.jpg"
 permalink           : "/monitoring/"
 ---
-Place holder. There are quite a few efforts centered around preserving records from nuclear testing.  These probably should be separated from the earthquake data.
+Place holder. There are quite a few efforts centered around preserving records from nuclear testing.  These probably should be separated from the earthquake data. *Change to event map for testing.*
 
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
+
 ### Layer Key
 
-[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network
+[**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network  
+[**Soviet Union:**](../monitoring/soviet_union) Soviet Union
 
 ### Pop-up Key
 

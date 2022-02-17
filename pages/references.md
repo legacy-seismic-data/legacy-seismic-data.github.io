@@ -87,6 +87,8 @@ New Mexico, Sept 18-19, 2019. [HRV](../organizations/harvard)
 
 Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301. [Japan-ADEP](../organizations/japan-adep)
 
+Molovichkko, A., Y. Vinogradov, P. Butyrin, and R. Dyagiliv (2021). Preservation and Digitization of Analog Soviet Peaceful Nuclear Explosion Seismograms, IAGA-IASPEI 2021, 21-27 August 2021, virtual, SR100. [Soviet Union](../monitoring/sovietunion)
+
 McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.iris.edu/seismo-archives/stations/puerto_rico/references/seismic-recording_history_Puerto_Rico/seismic-recording_history_Puerto_Rico.pdf
 *Last accessed 14 January 2022* [SJG, SJP, VQA](../organizations/puerto_rico)
 
