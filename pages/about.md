@@ -29,6 +29,5 @@ The data contain on this website is based on openly available data.
 
 ### Acknowledgements
 Photo credits:
-* Earth cracks - [Martin Duff](https://www.flickr.com/photos/martinluff/with/5530605111/) CC BY-SA 2.0
 * Fabra Observatory -  © Wikimedia Commons
 * Bicycles - Gregory Urquiaga © Regents of the University of California, Davis

@@ -12,4 +12,4 @@ image:
 permalink           : "/faq/"
 ---
 
-*add some information here eventually*
+*none*

@@ -37,7 +37,7 @@ microfilm
 
 
 ## Data Availability
-**SJP:** Selected local events from 1930-1932 and 1943-46 is available through IRIS [Seismoarchives](http://ds.iris.edu/seismo-archives/stations/puerto_rico/).  
+**SJP:** Selected local events from 1930-1932 and 1943-46 are available through IRIS [Seismoarchives](http://ds.iris.edu/seismo-archives/stations/puerto_rico/).  
 **SJG:** 1968-1976
 
 **no. available** | **format** | **dpi** | **color**

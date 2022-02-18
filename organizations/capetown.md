@@ -14,7 +14,7 @@ breadcrumb          : true
 
 ## Stations
 
-The Cape Town, South Africa station was moved in 1934 from the Royal Observatory of the Cape of Good Hope (CGH) to the Department of Mathematics of Cape Town University (CTO, only less than 2 km away), but then again in 1950 and more significantly to Hermanus (HER), ~90 km to the East, while all records were filed at the Silverton office of the Council for Geosciences under the label ‘‘Hermanus’’. (Okal, 2015).
+The Cape Town, South Africa station was moved in 1934 from the Royal Observatory of the Cape of Good Hope (CGH) to the Department of Mathematics of Cape Town University (CTO, only less than 2 km away), but then again in 1950 and more significantly to Hermanus (HER), ~90 km to the East. All records were filed at the Silverton office of the Council for Geosciences under the label ‘‘Hermanus’’. (Okal, 2015).
 
 | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** | **Components**
 | :--- | :--- | :---: | :---: | :---: | :---: | :---:
@@ -50,6 +50,6 @@ For more information about this collection, please contact: \< *blank* \>
 
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007
 
-Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*.
+Ou, Qi (2022). Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location, https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*.
 
 Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203

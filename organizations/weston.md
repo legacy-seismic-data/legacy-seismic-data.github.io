@@ -23,7 +23,9 @@ United States  | Weston, Massachusetts |  WES | 42.38469444  | 	-71.32208333  | 
 
 
 ## Instrumentation
-Wiechert (1909), Bosch-Omori (1930), Benioff LP SP (1936)
+Wiechert (1909)  
+Bosch-Omori (1930)  
+Benioff LP SP (1936)
 
 WES was part of the WWSSN network (1961).
 
@@ -32,7 +34,7 @@ WWSSN: thermal
 
 ## Data Availability
 As part of a joint project between Boston College and the U.S.
-Geological Survey, a total of 2600 seismograms were scanned from
+Geological Survey, a total of 2,600 seismograms were scanned from
 the station at Weston Observatory, covering the years 1936–1977.
 
 Files to be deliver to the IRIS data center, as part of the SeismoArchives project.
@@ -42,7 +44,6 @@ For more information about this collection, please contact: \< *blank* \>
 
 ## References
 Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007
-
 <br>
 <br>
-*Photo Credits: Weston Observatory. Modified from original. Licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.
+**Photo Credits:** Weston Observatory. Modified from original. Licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license.

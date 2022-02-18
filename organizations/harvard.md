@@ -34,7 +34,7 @@ photographic paper  36 inches x 14 inches
 ## Data Availability
 
 Of the 16,000 surviving analogue seismograms, 15% were damaged beyond recovery.  
-Paper records not from HRV were not scanned.
+
 
 **no. available** | **years**|**format** | **dpi** - front(back)| **color** - front(back)
 | :---: || :---: | :---: | :---: | :---:
@@ -42,11 +42,11 @@ Paper records not from HRV were not scanned.
 |1938-1939 | psd | 800(400)   | color(black/white)
 |1939-1953| tif | 1200(400)   | color(grey scale)
 
-
-
-Harvard University develops and maintains the opensource code [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html) for vectorization of seismograms. Some seismograms are available in SAC format. Vectorization is ongoing.
-
 Seismograms can be downloaded from the Harvard Seismology [website.](http://www.seismology.harvard.edu/HRV/1933.html#0828)
+
+Some seismograms are available in SAC format. Vectorization is ongoing.
+
+Harvard University develops and maintains the opensource code [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html) for vectorization of seismograms.
 
 For more information on preservation efforts, see Ishii *et al.* (2015) and the [HRV Seismogram Archival Project](http://www.seismology.harvard.edu/HRV/archive.html)
 
@@ -62,5 +62,7 @@ Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261.
 Lee, T. A., M. Ishii, H. Ishii & T. Morinaga (2019). The Potential of Analog Seismograms for Science and Education,
 presented at 2019 Legacy Securing Legacy Seismic Data to Enable Future Discoveries Workshop, Albuquerque,
 New Mexico, Sept 18-19, 2019.
+<br>
+<br>
 
 **Photo Credit:** Hornandsoccer, [CC BY-SA 2.5]( https://creativecommons.org/licenses/by-sa/2.5), via Wikimedia Commons

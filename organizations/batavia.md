@@ -16,7 +16,7 @@ Historical station operated by the Royal Magnetic and Meteorological Observatory
 
 
 | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** | **Components**
-| :--- | :--- | :---: | :---: | :---: | :---: | :---:
+| :--- | :--- | :---: | :---: | :---: | :---: |
 |  Jakarta/Batavia |  DJA/BAT| -6.18 | 	106.77 | 1910|  horizontal
 
 
@@ -34,7 +34,7 @@ smoked paper
 
 Using a high quality digital camera, approximately 500 of the fragile smoked paper records were photographed with funding from the Earth Observatory of Singapore.
 
-stations
+
 **no. available** | **format** | **dpi** | **color**|
 | :---: | :---: | :---: | :---:|
 500 | photographs |  |
