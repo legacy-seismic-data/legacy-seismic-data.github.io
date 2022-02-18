@@ -101,4 +101,4 @@ Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 
-*Websites linked above last accessed  3 Feburary 2020.*
+*Website links above last accessed  3 Feburary 2020.*

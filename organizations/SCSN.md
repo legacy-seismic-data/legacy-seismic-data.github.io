@@ -30,11 +30,15 @@ See the [SCECDC](https://scedc.caltech.edu/index.html) website for a complete li
 
 
 ## Instrumentation
-Wood-Anderson (WA), Press-Ewing, Benioff, 30-90, 1-90, WWSSN SP & LP
-
-
+Wood-Anderson (WA)  
+Press-Ewing  
+Benioff  
+30-90  
+1-90  
+WWSSN SP & LP
 ## Recording Medium
-Paper: Light sensitive (30x92cm) and ink
+Light sensitive paper (30x92cm)  
+ink on paper
 
 ## Data Availability
 **California Department of Water Resources**

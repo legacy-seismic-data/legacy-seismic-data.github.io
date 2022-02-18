@@ -69,7 +69,7 @@ For a 300 x 900 mm seismogram, 3200 ppi is approximatly 394 dpi.
 <br>
 
 ![chips scanned](../images/PreservingHistoricEarthquakeRecords.jpg)
-Source: Alejandro  et al. (2019)
+*From Alejandro  et al. (2019)*.
 
 See Supplement to Alejandro et al. (2019) for a complete list of  M&ge;6 events and list of stations with number of scans available.
 

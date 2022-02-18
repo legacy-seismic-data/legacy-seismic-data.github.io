@@ -13,7 +13,7 @@ The Geophysical Survey of the Russian Academy of Sciences and Michigan State Uni
 to recover, preserve, scan, and digitize the historic seismograms of Soviet Peaceful Nuclear Explosions
 (PNEs). The Soviet Union detonated 122 PNEs from the mid-1960s through the late 1980s. The PNEs
 were conducted in a wide range of geologic settings and geographic locations, thus representing a unique
-data set for geophysical studies. T
+data set for geophysical studies.
 
 ## Stations
 

@@ -12,7 +12,7 @@ breadcrumb          : true
 
 Recording of analog seismic records in Iceland began in 1910 when the first seismograph was installed in Reykjavík. The number of seismic stations increased greatly in the 1970s and reached a maximum in the late 1980s. Digital recording began in 1990 and since 2010, all seismic recordings have been digital.
 
-A project to make historical seismograms from stations in Iceland available in digital form was initiated in 2017 by Sigurður Jakobsson and Páll Einarson, with an inital grant from Eggertssjódur.
+The project to make historical seismograms from stations in Iceland available in digital form was initiated in 2017 by Sigurður Jakobsson and Páll Einarson, with an inital grant from Eggertssjódur.
 
 [IES Seismogram Archives](http://seismis.hi.is/).
 ## Stations
@@ -24,19 +24,21 @@ A project to make historical seismograms from stations in Iceland available in d
 1958 Willmore Z  
 1973 Landsnet
 
-The last analog seimsograph was taken out of service in 2010.
+The last analog seismograph was taken out of service in 2010.
 
 See also [WWSSN](../organizations/wwssn) for station Akureyri (AKU).
 
 
 ## Recording Medium
-Smoked paper, photographic paper, 7 track-tape, and pen and ink.
+smoked paper  
+photographic paper  
+7 track-tape  
+pen and ink
 
 ## Data Availability
 
 Image files of analog seismograms from 1910-2010 are stored on a server at the Institute of Earth Sciences, University of Iceland, and are made available to the public through their [webpage](http://seismis.hi.is/). The original seismograms are stored in the Icelandic National Archives.
 
-Begin and end dates for each station give the data range data is available.
 
 **no. available** | **format** | **dpi** | **color**
 | :---: | :---: | :---: | :---:

@@ -36,7 +36,7 @@ Chihuahua | CHH | 28.637 | -106.078 | 1922 | 3
 Other stations not listed here are available online.
 
 ## Instrumentation
-Early instruments
+Early instruments:
 * Wiechert  
 * Bosch-Omori  
 * Milne  
@@ -47,7 +47,7 @@ Late 1960s:
 
 
 ## Recording Medium
-Paper
+paper
 
 ## Data Availability
 310,000 paper seismograms are stored with Biblioteca Conjunta de Ciencias de la Tierra, UNAM.

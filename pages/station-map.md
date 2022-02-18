@@ -38,11 +38,11 @@ See also [Organizations](../organizations).
 <br>
 **Type:** Types of instruments operational during the specified date range:
   * broadband: broadband
-  * WA: Wood Anderson
   * HGLP: high gain long period
   * LP: long period
   * SP: short period
   * VLP: very long period
+  * WA: Wood Anderson
 
 **Analog:**  Media data was originally recorded and in some cases, secondary () analog media.
 <br>
@@ -51,3 +51,7 @@ See also [Organizations](../organizations).
 **Organization:** Name of organization that maintains the analog records. This is not in all cases the same as the insitution that maintains the digital file.
 <br>
 **Contact:** Whom to contact for more information.
+
+---
+
+For additions, corrections, and edits, please submit an issue or pull request in the github repo.

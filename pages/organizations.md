@@ -8,18 +8,20 @@ header:
    image_fullwidth  : "students_bikes.jpg"
 permalink           : "/organizations/"
 ---
-Organizations and/or networks that manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request. See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
+Organizations and/or networks that manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloadable or available upon request.
+
+See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
-### Layer Key
+#### Layer Key
 [**ASL:**](../organizations/asl) Albuquerque Seismological Laboratory
+<br>
+[**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
 [**Carnegie:**](../organizations/carnegie) Carnegie Institution DTM
 <br>
 [**Cascades Volcano Observatory, United States:**](../organizations/cvo) CVO
-<br>
-[**CNSN:**](../organizations/canada) Canadian Seismographic Network
 <br>
 [**China:**](../organizations/china) China Earthquake Administration
 <br>
@@ -30,7 +32,7 @@ Organizations and/or networks that manage legacy seismic data that has been conv
 <br>
 [**EuroSeismos:**](../organizations/euroseismos) EuroSeismos and SISMOS
 <br>
-[**ICGC:** ](https://www.icgc.cat/) Institut Cartografic i Geologic de Catalunya
+[**ICGC:** ](../organizations/icgc) Institut Cartografic i Geologic de Catalunya
 <br>
 [**Japan-ADEP:**](../organizations/japan-adep) A collection of Japanese universities hosted by ADEP
 <br>
@@ -45,18 +47,22 @@ Organizations and/or networks that manage legacy seismic data that has been conv
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
 
-### Pop-up Key
+#### Pop-up Key
 
 **Components**: Number of components available.
 <br>
 **Date Range:** Approximate date range in which station was operational.
 <br>
 **Type:** Types of instruments operational during the specified date range:
-  * WA: Wood Anderson
+  * broadband: broadband
+  * HGLP: high gain long period
   * LP: long period
   * SP: short period
+  * VLP: very long period
+  * WA: Wood Anderson
 
-**Analog:**  Media data was originally recorded and in some cases secondary () analog media.
+
+**Analog:**  Media data was originally recorded and in some cases, secondary () analog media.
 <br>
 **Digital:** Type of digital records that exist.
 <br>

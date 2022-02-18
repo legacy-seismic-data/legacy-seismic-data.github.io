@@ -11,7 +11,7 @@ breadcrumb          : true
 ---
 The first continuously recording photographic seismograph station in North
 America began operation in September 1897 in Toronto (TNT). By 1939, 11 stations were in operation across Canada.
- All but Ottawa (OTT) and Halifax (HAL) are now closed. See Stevens (1990) for more information on the history of some stations in Canada. *(Stevens, 1990)*
+ All but Ottawa (OTT) and Halifax (HAL) are now closed. See Stevens (1990) for more information on the history of some stations in Canada.
 
 The modern network is operated by Natural Resources Canada.
 

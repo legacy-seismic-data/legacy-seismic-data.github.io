@@ -8,30 +8,35 @@ header:
    image_fullwidth  : "testing.jpg"
 permalink           : "/monitoring/"
 ---
- *Coming soon ... nuclear test and/or station map*
+ *Coming soon ...*
 
 <!---
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 --->
 
-### Layer Key
+#### Layer Key
 **Central Asia:** Kyrgyzstan and Tajikistan  
 **Central & Eastern Europe:** Austria, Bulgaria, Republic of Moldova, and [Romania](../organizations/romania)  
 [**LBSN:**](../monitoring/leobrady) Leo Brady Seismic Network  
 [**Soviet Union:**](../monitoring/soviet_union) Soviet   
 
+See also [WWSSN](../organizations/wwssn).
 
-### Pop-up Key
+#### Pop-up Key
 
 **Components**: Number of components available.
 <br>
 **Date Range:** Approximate date range in which station was operational.
 <br>
 **Type:** Types of instruments operational during the specified date range:
-  * LP: long period
-  * SP: short period
+* broadband: broadband
+* HGLP: high gain long period
+* LP: long period
+* SP: short period
+* VLP: very long period
+* WA: Wood Anderson
 
-**Analog:**  Media data was originally recorded and in some cases secondary () analog media.
+**Analog:**  Media data was originally recorded and in some cases, secondary () analog media.
 <br>
 **Digital:** Type of digital records that exist.
 <br>

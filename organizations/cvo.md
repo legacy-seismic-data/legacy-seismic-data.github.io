@@ -34,4 +34,4 @@ For more information about this collection, please contact: \< *blank* \>
 
 ## References
 
-Personal communication J. Dewey 2018
+Personal communication J. Dewey 2018.

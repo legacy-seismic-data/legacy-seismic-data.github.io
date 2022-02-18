@@ -74,7 +74,6 @@ Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*.
 Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112.
 
 Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039
-
-
-
+<br>
+<br>
 **Photo Credits:** Ștefan Jurcă, [Creative Commons](https://en.wikipedia.org/wiki/en:Creative_Commons) [Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/deed.en)

@@ -33,7 +33,7 @@ More than 146,000 high‐quality images of analog seismograms from several acade
 |Urakawa|  KMU | 42.2386  | 142.9672  | 1967-1976 |  
 
 +Location is for MTJ as reported by Poppe et al. (1978)    
-Timespan represents the time interval in which images are available and may not reflect the entire time the stations was in operation.
+Timespan represents the time interval in which images are available and may not reflect the entire time the station was in operation.
 
 ## Instrumentation
 

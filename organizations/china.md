@@ -16,7 +16,7 @@ when there were some seismographic stations that were built in Mainland China by
 foreigners. The second era started from 1930 when the stations near Beijing and in
 Nanjing were built by the Chinese. Advanced seismographic instruments were purchased
 from abroad, including Wiechert instruments with the heaviest pendulum of 17,000 kg.
-The development of Chinese seismic observation was disrupted by the Japan invasion
+The development of Chinese seismic observations was disrupted by the Japan invasion
 and war in 1937. The third era was during a time of war, from 1937 to 1948. (Wong, 2020)
 
 By the end of 1976, 29 earthquake agencies had established regional seismic networks.

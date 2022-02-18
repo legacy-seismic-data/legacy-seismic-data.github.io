@@ -10,13 +10,13 @@ permalink           : "/organizations/jma"
 breadcrumb          : true
 ---
 
-Seismograph‐based observations in Japan by government agencies began in 1884 at the Tokyo Meteorological Observatory (TMO) (Kitahara et al., 2012). The TMO was a predecessor of the Central Meteorological Observatory (CMO), which became the JMA in 1956. Apart from the CMO, meteorological observations were also conducted in each local government. All the observatories initiated by local governments were transferred to the federal government in 1938 and 1939 (Nemoto, 1957), and later became a part of the JMA. Many stations have been relocated multiple times, and some stations were renamed when they were moved to other cities (Hamada, 2000). As a result, there are a total of about 160 stations, including temporary stations. Many earthquakes were recorded at these stations using analog methods, until digital recording started in the 1990s. (Furumura et al., 2020)
+Seismograph‐based observations in Japan by government agencies began in 1884 at the Tokyo Meteorological Observatory (TMO) (Kitahara et al., 2012). The TMO was a predecessor of the Central Meteorological Observatory (CMO), which became the JMA in 1956. Apart from the CMO, meteorological observations were also conducted in each local government. All the observatories initiated by local governments were transferred to the federal government in 1938 and 1939 (Nemoto, 1957) and later became a part of the JMA. Many stations have been relocated multiple times, and some stations were renamed when they were moved to other cities (Hamada, 2000). As a result, there are a total of about 160 stations, including temporary stations. Many earthquakes were recorded at these stations using analog methods, until digital recording started in the 1990s. (Furumura et al., 2020)
 
 
 ## Stations
 
-<iframe src="../images/jma-fig1.png" height="515px" width="430px"></iframe>
-Location of Japan Meteorological Agency (JMA) stations. The JMA deployed a total of about 160 stations, and we have scanned seismograms at 113 stations so far (denoted by colored triangles). Black squares denote stations for which images of seismograms are not included in the database. Original seismograms no longer exist from 10 stations where seismic observations were stopped before 1950s.*From Furumura et al., (2020)*
+<p align="center">'<iframe src="../images/jma-fig1.png" height="515px" width="430px"></iframe></p>
+*Location of Japan Meteorological Agency (JMA) stations. The JMA deployed a total of about 160 stations, and we have scanned seismograms at 113 stations so far (denoted by colored triangles). Black squares denote stations for which images of seismograms are not included in the database. Original seismograms no longer exist from 10 stations where seismic observations were stopped before 1950s. From Furumura et al., (2020)*
 
 ## Instrumentation
 
@@ -33,7 +33,7 @@ JMA, Japan Meteorological Agency.
 
 *From Furumura et al., (2020)*
 ## Recording Medium
-Smoked paper  
+smoked paper  
 ink
 
 ## Data Availability
@@ -46,8 +46,8 @@ The original images were saved as TIFF format files with 8 bit color.
 | :---: | :---: | :---: | :---: | :---:
  |185,000 |  JPEG2000 | 400-500   |
 
-<iframe src="../images/jma-fig2.png" height="530px" width="650px"></iframe>
-The number of digital image files of scanned seismograms in 5 yr intervals. Seismographs are classified into five groups by their magnification as shown in the above table. *From Furumura et al., (2020)*
+<p align="center"><iframe src="../images/jma-fig2.png" height="530px" width="650px"></iframe></p>
+*The number of digital image files of scanned seismograms in 5 yr intervals. Seismographs are classified into five groups by their magnification as shown in the above table. From Furumura et al., (2020)*
 
 See supplement to Furumura et al., (2020) for the number of scanned images for each station per year.
 
