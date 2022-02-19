@@ -40,5 +40,6 @@ When adding new Station, Organization, or Monitoring files, the following needs 
   * *pages/organizations.md* or
   * *pages/monitoring.md*
 
+## Creating new maps
 
-If adding event data,  *TBD*
+*TBD*
