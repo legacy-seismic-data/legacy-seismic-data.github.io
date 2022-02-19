@@ -1,7 +1,7 @@
 # Legacy Seismic Data
 
 ## Background
----
+
 The Legacy Seismic Data (LSD) project is an outcome of the [2019 Securing Legacy Seismic Data to Enable Future Discoveries Workshop](https://geodynamics.org/cig/events/calendar/2019-seismic-legacy/). Participants of the workshop identified eight community needs to advance workshop goals (Hwang et al., 2020):
 * Analog Holdings Catalog. Create an inventory of analog
 seismic data holdings to identify current resources, connect
@@ -28,12 +28,12 @@ series data.
 at all career levels.
 
 ## About
----
+
 This website intends to serve as an open source community project to make progress on these goals. All contributions are welcomed.
 
 ## Installation
----
-This website is a based on freely available packages. In particular, the template for this website is [feeling-responsive[(https://phlow.github.io/feeling-responsive/)] created by PHLow. To install, please see the github documentation for creating [websites/pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
+
+This website is a based on freely available packages. In particular, the template for this website is [feeling-responsive](https://phlow.github.io/feeling-responsive/)] created by PHLow. To install, please see the github documentation for creating [websites/pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
 
 This website depends on Jekyll and uses Bundler to manage Ruby gems and dependencies.
 
@@ -42,7 +42,7 @@ Bundler 2.3.3
 leaflet
 
 ## How to Contribute
----
+
 The LSD website is intended to be a community project. We depend on contributions from community members who maintain and use collections of legacy data.
 
 We welcome all contributions including but not limited to:
@@ -59,9 +59,9 @@ The following have contributed significantly to the content for this website:
   * Denise Kwong
 
 ## References
----
+
 Lorraine J. Hwang, Tim Ahern, Cynthia J. Ebinger, William L. Ellsworth, Garrett G. Euler, Emile A. Okal, Paul G. Okubo, William R. Walter; Rescuing Legacy Seismic Data FAIR’ly. Seismological Research Letters 2020;; 91 (3): 1339–1340. doi: https://doi.org/10.1785/0220200027
 
 ## Acknowledgements
----
+
 Partial funding has been provided under National Science Foundation (NSF-1917159).
