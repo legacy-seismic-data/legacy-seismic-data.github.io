@@ -29,7 +29,7 @@ at all career levels.
 
 ## About
 
-This website intends to serve as an open source community project to make progress on these goals. All contributions are welcomed.
+This website is an open source community project to make progress on these goals. All contributions are welcomed.
 
 ## Installation
 
@@ -43,7 +43,7 @@ leaflet
 
 ## How to Contribute
 
-The LSD website is intended to be a community project. We depend on contributions from community members who maintain and use collections of legacy data.
+The LSD website is a community project. We depend on contributions from community members who maintain and use collections of legacy data.
 
 We welcome all contributions including but not limited to:
 * Corrections, updates, and addition to content
