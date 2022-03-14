@@ -20,11 +20,11 @@ widget3:
   title: "Events"
 #  image: scrabble_resize.jpg
   image: crack_resize.jpg
-  url: "/event-map/"
+  url: "/events/"
   text: 'Discover events with available e-legacy seismic data.'
 widget1:
   title: "Stations"
-  url: "/station-map/"
+  url: "/stations/"
   image: Fabra.jpeg
   text: 'Discover stations with available e-legacy seismic data.'
 #  widget3:

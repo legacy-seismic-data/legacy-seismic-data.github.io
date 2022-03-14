@@ -8,11 +8,11 @@
     url: "/faq/"
 
 - title: events
-  url: "/event-map/"
+  url: "/events/"
   side: left
 
 - title: stations
-  url: "/station-map/"
+  url: "/stations/"
   side: left
   dropdown:
 #  - title: "Bulletins"

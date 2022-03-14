@@ -43,3 +43,6 @@ When adding new Station, Organization, or Monitoring files, the following needs 
 ## Creating new maps
 
 *TBD*
+
+## License
+GPL v3 or newer

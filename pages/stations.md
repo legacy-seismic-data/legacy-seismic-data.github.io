@@ -6,7 +6,7 @@ subheadline         : "FIND"
 teaser              : "Search for stations with legacy data."
 header:
    image_fullwidth  : "Fabra.jpeg"
-permalink           : "/station-map/"
+permalink           : "/stations/"
 ---
 
 Stations shown have legacy seismic data that have been converted to digital images or in same cases digital time series. Data maybe downloadable or available upon request.  
