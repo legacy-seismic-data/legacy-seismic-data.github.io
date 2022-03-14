@@ -6,7 +6,7 @@ subheadline         : "IES"
 teaser              : "More information about this organization"
 header:
    image_fullwidth  : "iceland.jpg"
-permalink           : "/organizations/iceland"
+permalink           : "/organizations/ies-u-iceland"
 breadcrumb          : true
 ---
 
