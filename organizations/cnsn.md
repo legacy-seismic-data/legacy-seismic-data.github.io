@@ -1,88 +1,72 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Analog Data in China"
-subheadline         : "China"
-teaser              : "More information about this data"
+title               : "Canadian National Seismograph Network"
+subheadline         : "CNSN"
+teaser              : "More information about this network"
 header:
-   image_fullwidth  : "china.jpg"
-permalink           : "/organizations/china"
+   image_fullwidth  : "organizations_resampled.jpg"
+permalink           : "/organizations/CNSN"
 breadcrumb          : true
 ---
+The first continuously recording photographic seismograph station in North
+America began operation in September 1897 in Toronto (TNT). By 1939, 11 stations were in operation across Canada.
+ All but Ottawa (OTT) and Halifax (HAL) are now closed. See Stevens (1990) for more information on the history of some stations in Canada.
 
-The history of seismographic observation in the first half of the twentieth century on
-the Chinese mainland can be divided into three eras. The first era was from 1904 to 1929
-when there were some seismographic stations that were built in Mainland China by
-foreigners. The second era started from 1930 when the stations near Beijing and in
-Nanjing were built by the Chinese. Advanced seismographic instruments were purchased
-from abroad, including Wiechert instruments with the heaviest pendulum of 17,000 kg.
-The development of Chinese seismic observations was disrupted by the Japan invasion
-and war in 1937. The third era was during a time of war, from 1937 to 1948. (Wong, 2020)
+The modern network is operated by Natural Resources Canada.
 
-By the end of 1976, 29 earthquake agencies had established regional seismic networks.
-After 1985, 17 telemetered networks were added. (Chai et al, 2020)
-
+[Natural Resources Canada](https://earthquakescanada.nrcan.gc.ca)
 
 ## Stations
-About 400 stations nationwide.
+A single set (rarely more) of LP and SP scans are available for the stations below.
+
+**Region** | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** | **Components**
+| :--- | :--- | :---: | :---: | :---: | :---: | :---:
+Canada|ALE |  Alert |   | 	  |  |  6
+| EDM | Edmonton|   | 	  |   | 6
+| FBC| Frobisher Bay |   | 	  | |  6
+| FFC| Flin Flon|   | 	  |   | 6
+| FSB| Fort St. James|   | 	    ||  6
+| GWC| Great Whale River|   | 	  |  |  6
+| HAL| Halifax|   | 	  |  |  6
+| LDN| London|   | 	  |  |  6
+| MBC| Mould Bay|   | 	|    |  6
+| MNT| Montreal|   | 	 |   |  6
+| MUM| Musselwhite Mine|   | 	|    |  6
+| OTT| Ottawa|   | 	  |  |  6
+| PHC| Port Hardy|   | 	  |  |  6
+| PNT| Penticton|   | 	  |  |  6
+| RES|Resolute|   | 	|    |  6
+| SCB| Scarborough|   | 	  |  |  6
+| SCH| Schefferville|    	|  |  |  6
+| SES| Suffield|   | 	 |   |  6
+| SFA| St. Ferreol les Neiges|   |	|   |  6
+| SJNN| St Johns|   | 	|   |  6
+| YKA|Yellowknife|   | 	|    |  6
 
 
 ## Instrumentation
-Wiechert  
-Galitzin  
-Galitzin-Wilip  
-Omori  
-DD-1, VGK (short period)  
-763, DK-1 (intermediate long-period)  
-and tiltmeters, fluid meters, strain meters, and geomagnetic and magnetometers.
+
 
 ## Recording Medium
-paper  
-photosensitive film  
-analog tape
+
 
 ## Data Availability
-Approximately 13.5 million analog records have been produced in China between 1904 and 2007 with about 9.7 million still in existence. During this period multiple regional agencies operated seismic networks.
-About 3.13 million of these records have been scanned (Chai et al., 2020). Scanning efforts continue by individual agencies as well as the Institute of Geophysics of the China Earthquake Administration.
-<br>
-<iframe src="../images/china-fig1.png" height="450px" width="690px"></iframe>
-*The number of existing analog seismic and the scanned ratio of each Agency in China (by December 2019). IGCEA, Institute of Geophysics of the China Earthquake Administration. (Chai et al., 2020)*
-<br>
-<br>
+35 mm films of seismograms of the CNSN for 1962-1986 were initially sent to the National Earthquake Center in Golden, Colorado. The films are now part of the collection stored at the Albuquerque Seismological Laboratory. Some of these stations were included in the efforts to scan WWSSN records (see [WWSSN](../organizations/wwssn)). Scans will be made available through IRIS DMC.
 
-**no. available** (10<sup>4)</sup> | **format** | **dpi** | **color**
-| :---: | :---: | :---: | :---:
- 110, 15| jpg, png-8| 200  |
- 60 | png | 300  |
- 26, 95| jpg, png | 600  |
+The Earthquake Research Institute maintains ~1800 rolls of 35 mm films from 23 stations of the Canadian seismograph network between 1982-1989. Some event log sheets are also available (Satake et al., 2020).
 
- Efforts are underway to digitize (vectorize) records from intermediate long-period (400,00 records) e.g. DK1 and SK,
- and long-period instruments for M≥5.0 earthquakes in China and M≥6.0 worldwide. These are stored in SEED and SAC formats.
-
-See also Department of Monitor and Prediction in CEA (2005a, b,c) for a CD ROM of selected seismograms, ~540, from Xujiahui, Dalian, Qingdao, Chongqing and Nanjing stations for the time period from 1906 to 1948.
-
-The data of China Analog Seismic Record Rescue Project are currently
-archived at the data center of The Second Monitoring and Application
-Center (SMAC), and use is constrained by the privacy policy of SMAC
-(see http://113.200.69.215:8080/). *unverified*
+Paper records have been maintained for this collection.
 
 ## Contact
-For more information about this collection, please contact:
+For more information about this collection, please contact: \< *blank* \>
 
 ## References
-Chai, X., Q. Wang, L. Mu, H. Wang, W. Wang, F. Zhu, and W. Liu (2020). Rescue Work and Progress
-of Analog Seismograms in China, Seismol. Res. Lett. 91, 2704–2718, doi: 10.1785/0220200077.
+Satake, K.,
+H. Tsuruoka, S. Murotani, and K. Tsumura
+(2020). Analog Seismogram Archives at
+the Earthquake Research Institute, the
+University of Tokyo, Seismol. Res. Lett. 91,
+1384–1393, doi: 10.1785/0220190281.
 
-Department of Monitor and Prediction in China EarthquakeAdministration (CEA) (2005a). Album of Historical Seismograms
-Recorded in Early Chinese Seismographic Stations, Vol. 1, ShanghaiZikawei Seismographic Station (1906–1948), Earthquake Publish
-House, Beijing, China, 1–257 (in Chinese).
-
-Department of Monitor and Prediction in CEA (2005b). Album of Historical Seismograms Recorded in Early Chinese Seismographic
-Stations, Vol. 2, Dalian Seismographic Station (1918–1945),Earthquake Publish House, Beijing, China, 1–303 (in Chinese).
-
-Department of Monitor and Prediction in CEA (2005c). Album of Historical Seismograms Recorded in Early Chinese Seismographic
-Stations, Vol. 3, Qingdao City Observatory (1912–1925), Chongqing Beibei (1943–1946) and Nanjing Shijingtai Seismographic Station
-(1947–1948), Earthquake Publish House, Beijing, China, 1–228 (in Chinese).
-
-Wang, J (2020). Conservation and Utilization of Historical Seismograms from Early Stage (A.D.
-1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268.
+Stevens, Anne E. (1980) History of some Canadian and adjacent American seismograph stations. *Bulletin of the Seismological Society of America* 70 (4): 1381–1393. doi: https://doi.org/10.1785/BSSA0700041381

@@ -6,7 +6,7 @@ subheadline         : "LBSN"
 teaser              : "More information about this network"
 header:
    image_fullwidth  : "leobrady.jpg"
-permalink           : "/monitoring/leobrady"
+permalink           : "/monitoring/lbsn"
 breadcrumb          : true
 ---
 
