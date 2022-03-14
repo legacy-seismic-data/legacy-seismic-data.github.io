@@ -41,15 +41,15 @@
   - title: "ASL"
     url: "/organizations/asl"
   - title: "CNSN"
-    url: "/organizations/canada"
+    url: "/organizations/cnsn"
   - title: "Carnegie DTM"
     url: "/organizations/carnegie"
   - title: "Cascades Volcano Observatory"
     url: "/organizations/cvo"
   - title: "China"
     url: "/organizations/china"
-  - title: "ERI"
-    url: "/organizations/eri"
+  - title: "ERI, U. Tokyo"
+    url: "/organizations/eri-u-tokyo"
   - title: "EuroSeismos"
     url: "/organizations/euroseismos"
   - title: "Iceland"
@@ -74,7 +74,7 @@
   side: left
   dropdown:
   - title: "Leo Brady Seismic Network"
-    url: "/monitoring/leobrady"
+    url: "/monitoring/lbsn"
   - title: "Soviet Union"
     url: "/monitoring/sovietunion"
 
