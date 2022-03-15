@@ -6,7 +6,7 @@ subheadline         : "CNSN"
 teaser              : "More information about this network"
 header:
    image_fullwidth  : "organizations_resampled.jpg"
-permalink           : "/organizations/CNSN"
+permalink           : "/organizations/cnsn"
 breadcrumb          : true
 ---
 The first continuously recording photographic seismograph station in North
