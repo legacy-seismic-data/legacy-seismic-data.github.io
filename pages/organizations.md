@@ -8,7 +8,8 @@ header:
    image_fullwidth  : "students_bikes.jpg"
 permalink           : "/organizations/"
 ---
-Organizations and/or networks that manage legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloadable or available upon request.
+Organizations and/or networks that manage legacy seismic data that has been converted to digital images or in same cases digital time series.
+Data maybe downloadable or available upon request.
 
 See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
@@ -53,7 +54,7 @@ See *More Info* for each station or select the corresponding organization from t
 <br>
 **Date Range:** Approximate date range in which station was operational.
 <br>
-**Type:** Types of instruments operational during the specified date range:
+**Type:** Types or names of instruments operational during the specified date range:
   * broadband: broadband
   * HGLP: high gain long period
   * LP: long period
@@ -66,15 +67,12 @@ See *More Info* for each station or select the corresponding organization from t
 <br>
 **Digital:** Type of digital records that exist.
 <br>
-**Organization:** Name of organization that maintains the analog records. This is not in all cases the same as the insitution that maintains the digital file.
+**Organization:** Name of organization that maintains the analog records. This is not in all cases the same as the institution that maintains the digital file.
+
+
+
 <br>
-**Contact:** Whom to contact for more information.
-
-
-<br>
-
-
 
 ---
 
-For additions, corrections, and edits, please submit an issue or pull request in the github repo.
+For additions, corrections, and edits, please submit an issue or pull request in the GitHub repo.
