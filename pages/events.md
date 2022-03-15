@@ -30,8 +30,8 @@ See [monitoring](../monitoring) for events related to nuclear testing.
 ### EuroSeismos
 Also see the [Earthquake Catalogue](http://storing.rm.ingv.it/es_web/Data/Es_map.html) from the EuroSeismos project with a list of 629 earthquakes from the Euro-Mediterranean region from 1895-1990.
 <p align="center">
-# <iframe src="http://storing.rm.ingv.it/es_web/Data/Map.jpg" width="800px" height="580px"></iframe><br>
-<link href="http://storing.rm.ingv.it/es_web/Data/Map.jpg" rel="import"/>
+<!--- <iframe src="http://storing.rm.ingv.it/es_web/Data/Map.jpg" width="800px" height="580px"></iframe><br> --->
+<img src="http://storing.rm.ingv.it/es_web/Data/Map.jpg" /><br>
 <em>Reproduced from the EuroSeismos website http://storing.ingv.it/es_web/.</em></p>
 <br>
 <hr>
