@@ -79,7 +79,7 @@
     url: "/monitoring/sovietunion"
 
 - title: Bulletins
-  url: "/bulletins/"
+  url: "/bulletins"
   side: left
 
 - title: references
