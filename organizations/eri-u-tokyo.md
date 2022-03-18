@@ -6,7 +6,7 @@ subheadline         : "ERI"
 teaser              : "More information about this organization"
 header:
    image_fullwidth  : "eri.jpg"
-permalink           : "/organizations/eri"
+permalink           : "/organizations/eri-u-tokyo"
 breadcrumb          : true
 ---
 The Earthquake Research Institute (ERI) of the University of Tokyo has archived analog seismograms recorded on mechanical seismographs operated by ERI and its predecessors between 1881 and 1993. The first observation started in 1880 by J. A. Ewing at
