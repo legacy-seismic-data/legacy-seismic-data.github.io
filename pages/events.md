@@ -9,10 +9,18 @@ header:
    image_fullwidth  : "crack_resize.jpg"
 permalink           : "/events/"
 ---
-Events shown have been associated with the availability of legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request.
+
 
 
 <iframe src="../events/events.html" width="1000px" height="666px"></iframe>
+<hr>
+### Description
+
+Events shown have been associated with the availability of legacy seismic data that has been converted to digital images or in same cases digital time series. Data maybe downloaded or available upon request.
+
+See the corresponding [organization](../organizations) for more information.
+
+See [monitoring](../monitoring) for events related to nuclear testing.
 
 #### Layer Key
 [**SCSN:**](../organizations/scsn) M> 3.5 earthquakes recorded by the Southern California Seismographic Network between 1963-1992.
@@ -21,10 +29,7 @@ Events shown have been associated with the availability of legacy seismic data t
 <br>
 [**WWSSN:**](../organizations/wwssn) M&ge;6 earthquakes recorded by the Worldwide Standardized Seismographic Network.
 <br>
-<br>
-See the corresponding [organization](../organizations) for more information.
 
-See [monitoring](../monitoring) for events related to nuclear testing.
 
 <hr>
 ### EuroSeismos
