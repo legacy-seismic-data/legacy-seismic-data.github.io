@@ -1,0 +1,17 @@
+symbol_color
+#57318c
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+ASL,ABQ,"Albuquerque, New Mexico, USA",34.9425,-106.4575,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,AMP,"Anbar, Pakistan",34.055,72.415,19740901,19890828,3,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,ANMO-SR,"Albuquerque, New Mexico, USA",34.9462,-106.4567,,,3,"SP, LP, VLP",,tif,http://ds.iris.edu/spud/filmchip
+ASL,AUQ,"Augustine Qik'rtamen, Augustine Volcano, Alaska",59.3549,-153.4143,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,BES,"Besancon, France",47.2497,5.9875,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,CRM,"Caravelle, Martinique",14.7537,-60.9155,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,CTAO,"Charter Towers, Australia",-20.0883,146.2544,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,DBN,"de Bilt, Netherlands",52.1017,5.1767,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,MNM,"Minneapolis, Minnesota, USA",44.974,-93.2381,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,SHG,"Shirttail Gulch, California, USA",36.4138,-121.2537,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,TCU,"Tai-chung, Taiwan",24.1475,120.6759,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,VCT,"Victoria, Romania",45.725,24.701,,,6,,,tif,http://ds.iris.edu/spud/filmchip
+ASL,ZLP,"Zongo, La Paz, Bolivia",-16.27,-69.125,19721104,19760819,6,HGLP,,tif,http://ds.iris.edu/spud/filmchip
+ASL,ZOBO,"Zongo, La Paz, Bolivia",-16.2693,-68.125,19760910,19930930,6,"SPZ, LP",,tif,http://ds.iris.edu/spud/filmchip

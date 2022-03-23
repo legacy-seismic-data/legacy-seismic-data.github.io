@@ -1,0 +1,13 @@
+symbol_color
+#b9db62
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+SCSN,BAR,"Barrett Dam, California",32.68005,-116.67215,1932,2001,4,"WA, 1-90","paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,HAI,"Haiwee, California",36.13664,-117.94753,1932,1974,3,,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,GSC,"Goldstone, California",35.30177,-116.80574,1961,2002,6,WWSSN LP,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,LJC,"La Jolla, California",32.8634,-117.25414,1932,1952,3,,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,MWC,"Mount Wilson Observatory, California",34.22362,-118.05832,1932,2008,3,,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,PAS,"Pasadena, California",34.14844,-118.17117,1932,2001,6,"WA, 1-90, 30-90","paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,RVR,"Riverside, California",33.99351,-117.37545,1932,2001,5,"WA, 1-90","paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,SND,"Sand Canyon, California",35.14264,-118.30286,1933,2002,3,,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,SBC,"Santa Barbara, California",33.99351,-117.37545,1932,2001,3,,"paper, microfiche","jpg, tif",../organizations/scsn
+SCSN,TIN,"Tinemaha, California",37.05422,-118.23009,1932,1992,5,"WA, 1-90","paper, microfiche","jpg, tif",../organizations/scsn

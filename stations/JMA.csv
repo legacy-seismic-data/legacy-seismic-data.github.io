@@ -1,0 +1,451 @@
+symbol_color
+#2891ce
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+JMA,ABJ2,Abashiri2 ,43.84416667,143.866,,20000317,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAK ,Akkeshi ,42.99866667,144.6925,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAB ,Ashibetsu ,43.507,142.2193333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAR ,Tokachiashoro ,43.29933333,143.7656667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIAM,Iburiatsuma ,42.62266667,141.9205,20121102,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JBT2,Biratori ,42.78083333,142.3598333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JCH ,Tokachichurui ,42.61683333,143.3585,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JEW ,Eniwa ,42.84266667,141.4461667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JEM ,Erimo ,42.0185,143.1535,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFR ,Minamifurano ,43.166,142.5896667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,HAKJ,Hakodate2 ,41.83666667,140.775,,19980228,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKHN,Kushirohamanaka ,43.08283333,145.1608333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHY ,Hiyamakaminokuni ,41.68016667,140.0538333,,19980205,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHR ,Sorachihokuryu ,43.74533333,141.721,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,ASAJ,Kamikawaasahi ,44.11883333,142.593,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKK2,Kamikawa2 ,43.87516667,142.7441667,19971202,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKK ,Kamikawa ,43.814,142.8433333,,19971201,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKB ,Oshimaminamikayabe ,41.89016667,141.0288333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kiyosatokiyoizumi ,43.6945,144.5346667,20040514,20041124,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMP ,Maruseppu ,44.00933333,143.3558333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNK ,Nakashibetsu ,43.58783333,144.715,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NEM2,Nemuro2 ,43.37,145.74,,19990329,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNB ,Noboribetsu ,42.47116667,141.0346667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNBK,Urakawanobuka ,42.2825,142.7488333,20020320,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOR ,Okushirito ,42.06916667,139.4415,,20001114,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOSM,Okushirimatsue ,42.08516667,139.4716667,20001114,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOMM,Oshimamatsumae ,41.52483333,140.0068333,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOB ,Onbetsu ,42.90583333,143.8308333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JRA ,Rausu ,43.94033333,145.118,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JRBN,Rebuntou ,45.42333333,141.065,20130702,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JRR ,Rishirito ,45.14,141.3073333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHST,Hiyamasetana ,42.4225,139.8766667,20120703,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSK ,Shiribeshishakotan ,43.35483333,140.472,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Sharifuji ,43.838,144.7331667,20040514,20041124,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNSB,Nemuroshibetsu ,43.7755,145.0045,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSH ,Shiribeshishimamaki ,42.6455,140.0413333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JISS,Ishikarishippu ,43.27533333,141.4175,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSR ,Oshimashiriuchi ,41.53216667,140.4143333,19980206,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSS ,Shosanbetsu ,44.402,141.8491667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSHD,Hidakashinhidaka ,42.40983333,142.4666667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSE ,Soyaesashi ,44.96116667,142.5803333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTHR,Tokachihiroo ,42.29133333,143.2988333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTKR,Abashiritokoro ,43.97316667,143.9041667,20000317,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NEM2,Nemurotoyosato ,43.3675,145.7388333,19990330,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,URA3,Urakawa3 ,42.24533333,142.6635,,20020320,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Atosanupuri-atosanobori2 ,43.6185,144.4501667,20101002,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Esan-kashiwano ,41.79,141.1498333,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hokkaidokomagatake-nashinokisawa,42.10916667,140.6815,20101004,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Usukansokusho ,42.55933333,140.842,20000329,20000401,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kuttara-kaminoboribetsuonsen ,42.49166667,141.128,20101008,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Meakandake-akubetsugawajoryu ,43.35166667,144.0448333,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Tarumaesan-nanseisanroku ,42.671,141.3343333,20101005,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Taisetsuzan-asahidakesugatamihigashi,43.661,142.827,20101005,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Tokachidake-bogakudai ,43.44866667,142.6501667,20101007,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Tokachidake-okinaonsen ,43.41966667,142.6305,20101002,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Tokachidake-kamihoro ,43.40716667,142.6748333,20101002,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Usuzan-showashinzannanroku ,42.53666667,140.8715,20101004,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Usuzan ,42.52833333,140.8361667,20000404,20010212,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWK2,Wakkanaikeihoku ,45.31833333,141.8936667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYG ,Yagishirito ,44.42916667,141.4226667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYM2,Oshimayakumo2 ,42.11966667,140.3665,19980204,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYM ,Oshimayakumo ,42.20366667,140.2498333,,19980203,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAHD,Aomorihigashidori ,41.26533333,141.3373333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYAR,Yonezawaarcadia ,37.91266667,140.1436667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKEN,Kujiedanarisawa ,40.20566667,141.7098333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOFO,Osakifurukawaosaki ,38.60216667,140.9111667,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFFD,Fukushimafurudono ,37.09083333,140.5611667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAH ,Akitahinai ,40.19133333,140.6323333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHHS,Hirosakihyakuzawa ,40.65183333,140.359,20120702,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMK ,Ichinosekimaikawa ,38.95466667,141.2163333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,ONAJ,Iwakimizuishiyama ,37.10483333,140.7983333,20020328,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIW ,Aomoriiwasaki ,40.5955,140.0035,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFK ,Fukushimakawauchi ,37.3695,140.8711667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Akitakisakata ,39.14666667,139.8953333,19990325,19990726,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIKH,Ishinomakikobuchihama ,38.31066667,141.4655,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKZ ,Iwatekuzumaki ,39.98733333,141.3263333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMM ,Miyagimarumori ,37.869,140.7896667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MIYJ,Miyako2 ,39.57666667,141.8183333,,20050926,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MIYJ,Miyakonagasawa ,39.57666667,141.8196667,20050928,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MRKJ,Morioka2 ,39.60166667,141.3203333,,19980228,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKMT,Kesennumamotoyoshi ,38.81083333,141.4738333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMST,Minamisoumatochikubo ,37.7245,140.8873333,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JANG,Aomorinango ,40.37616667,141.5116667,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,OFUJ,Oofunatoikawa ,39.083,141.6655,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOG2,Oga ,39.91666667,139.7893333,,20120328,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOG3,Oga ,39.91966667,139.807,20120411,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOM ,Iwateoohasama ,39.47583333,141.2888333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOT ,Aomorioohata ,41.38466667,141.0446667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOU ,Sendaiookura ,38.3685,140.6605,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,ONAJ,Onahama2 ,37.105,140.795,,20020318,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFT ,Fukushimaootama ,37.52116667,140.3333333,,20160914,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOTO,Ootamaooyama ,37.55983333,140.3336667,20161012,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIO ,Ishinomakioouri ,38.45733333,141.3453333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JARK,Aomorirokkasho ,41.00733333,141.3663333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JRG ,Akitarokugo ,39.39916667,140.6303333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYS ,Yamagatashirataka ,38.224,140.0621667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSI2,Aomorishiura ,41.06016667,140.4076667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSZI,Iwateshizukuishi ,39.7415,140.9526667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTH ,Iwatetanohata ,39.9415,141.86,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTM ,Aomoritenmabayashi ,40.7895,141.0646667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTB ,Tobishima ,39.19816667,139.554,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNTW,Noshirotokiwa ,40.27183333,140.1613333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwateuenosawa ,39.72266667,140.9028333,19980909,19990728,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Adatarayama-numajiriyamakou ,37.6215,140.228,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Adatarayama-shiozawa ,37.64633333,140.3321667,20070506,20111118,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Akitakomagatake-hachigomechushajo,39.768,140.8068333,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Akitayakeyama-bunasawa ,39.94516667,140.7195,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Azumayama-jododaira ,37.72433333,140.256,20110202,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Azumayama-azumakofujihigashi ,37.72233333,140.2755,20070506,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Bandai-bannan ,37.584,140.0798333,20010130,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Bandaisan-urabandaikogen ,37.6335,140.07,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Chokaisan-kannonmori ,39.12916667,139.9393333,20101003,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwakisan-matsudaishirasawa ,40.66866667,140.2355,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwate-inukurayama ,39.84133333,140.9456667,19990811,20040927,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwate-yakkirizawa ,39.8775,140.9591667,20060430,20120420,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kurikomaoyasu ,39.01133333,140.6591667,20080924,20100918,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kurikomakoei ,38.94133333,140.82,20081224,20101018,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kurikomayama-numakurakoei ,38.94083333,140.818,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Bandai-nagasaka ,37.61033333,140.1183333,20010130,20050727,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Bandai-nagasaka2 ,37.614,140.1155,20060501,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwatesan-umagaeshi ,39.83233333,141.0408333,20110201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwate-takinoueonsen ,39.82633333,140.8716667,19990812,20141006,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iwate-takinoueonsen ,39.8255,140.8726667,20141030,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Bandai-yudairayama ,37.64316667,140.0515,20010130,20100331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Zaozan-bodaira ,38.12216667,140.3948333,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFY ,Fukushimayanaizu ,37.40983333,139.7015,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYA ,Yamagataatsumi ,38.59583333,139.7105,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYYZ,Yamagatayuza ,39.01616667,139.9305,20120702,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYK ,Yamagatakaneyama ,38.92066667,140.3556667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Yamagatamidoricho ,38.25633333,140.3458333,19971030,19980630,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Yamagatamurakizawa ,38.24866667,140.2443333,19971030,19980630,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYW ,Akitayuwa ,39.54316667,140.205,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,AJI ,Ajiro ,35.04666667,139.0933333,,20041001,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,AJI ,Ajiro2 ,35.045,139.0918333,20041019,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAOM,Aogashimamukaizawa ,32.46366667,139.7638333,20120703,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAG ,Ashikaga ,36.4285,139.4508333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAA ,Aichiatsumi ,34.63483333,137.1398333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAW ,Awashima ,38.459,139.2453333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Naganoazumi ,36.18683333,137.803,20041018,20060321,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,BSO1,Boso1 ,34.65683333,140.9746667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,BSO2,Boso2 ,34.75466667,140.7511667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,BSO3,Boso3 ,34.805,140.507,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,BSO4,Boso4 ,34.99333333,140.3346667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JCAJ,Choshiashikajima ,35.721,140.8576667,20190704,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,CBIJ,Chichijima-mikazukiyama ,27.09566667,142.1845,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JCCN,Chibachonan ,35.38416667,140.2355,20190704,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,CHOJ,Choshi2 ,35.705,140.855,,20010118,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hachijo-eigoutenboudai ,33.15383333,139.7476667,20020816,20031005,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFNN,Fujinakano ,35.194,138.6851667,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHJ2,Hachijojimamitsune ,33.11533333,139.8138333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHCJ,Hachijojimakashitate ,33.07233333,139.7976667,20090402,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHHJ,Hahajimanakanotaira ,26.63383333,142.1748333,20000421,20130325,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHH2,Hahajimanakanotaira2 ,26.63283333,142.1756667,20130403,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJH ,Hakui ,36.92716667,136.7793333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHMK,Hamakita ,34.818,137.7553333,20020115,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,HMMJ,Hamamatsu2 ,34.85916667,137.7185,,20010307,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHU ,Hanno ,35.8555,139.279,,20181002,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Haruno ,35.032,137.9808333,,19980223,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHTM,Izuhatsuma ,34.95883333,139.0086667,20121102,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHG ,Hegurajima ,37.8505,136.9173333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHK ,Niigatahirokami ,37.25133333,139.0138333,,20150120,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHO ,Hitachiota ,36.614,140.5653333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hotaka ,36.31366667,137.8071667,20040511,20060319,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JICN,Ichinomiyachiaki ,35.302,136.843,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIE ,Ise ,34.3945,136.7035,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIHU,Itakohorinouchi ,35.96583333,140.5258333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Itoarai ,34.96416667,139.1191667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYT ,Ibarakiyasato ,36.23083333,140.1906667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIZZ,Niigataizumozaki ,37.53466667,138.7063333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIZS,Shimoda ,34.72116667,138.875,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKG ,Kaga ,36.28083333,136.3281667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKKG,Kakegawa ,34.78883333,137.9713333,19980526,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,KTJJ,Kamata2 ,34.9285,139.0608333,,20120619,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,KTJ3,Kamata3 ,34.93383333,139.0708333,20120703,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kamikochi ,36.24866667,137.6348333,19980814,19981109,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,KAN2,Kanazawa2 ,36.52833333,136.7733333,,19980228,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TSUJ,Tsukatadayakuoji ,34.713,136.4165,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKT ,Gunmakatashina ,36.76983333,139.2456667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,KTR ,Katsuura ,35.15116667,140.312,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kawane ,34.96033333,138.0481667,,19981113,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKN2,Miekihoku ,34.239,136.2736667,20050323,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKN ,Kiinagashima ,34.24833333,136.2633333,,20040928,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Chichijimakitafukurosawa ,27.05983333,142.2061667,20000421,20101013,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKO ,Kozushima ,34.19,139.1338333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kusatsushirane-A ,36.648,138.5455,,20020420,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGK ,Gunmakuni ,36.56516667,138.6365,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGF ,Gifukurokawa ,35.604,137.3541667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,SHZ3,Shizuokakuromata ,35.06916667,138.207,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Chichijimakuwanokiyama ,27.07966667,142.2156667,20000421,20100531,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Matsumotonakayama ,36.19866667,138.0121667,20030513,20060331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MAT ,Matsushiro ,36.54583333,138.2038333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFM ,Fukuimihama ,35.53166667,135.981,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMKN,Mikurajimanishikawa ,33.89233333,139.5906667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Niijimamikonohana ,34.36266667,139.2588333,20000922,20100918,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyakejima-A ,34.098,139.5326667,,20000926,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGM ,Gifumiyama ,35.7025,136.7151667,,20111207,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMY ,Miyakejimaako ,34.06933333,139.5135,,20040513,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMY ,Miyakejima3 ,34.0715,139.5126667,20040513,20111123,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMYK,Miyakejimatsubota ,34.0605,139.5476667,20160930,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TATJ,Chibamiyoshi ,35.035,139.887,20040401,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMMH,Miemihama ,33.81916667,136.0253333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,AHMH,Azuminohotakamaki ,36.31366667,137.8071667,20060326,20060331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MAZH,Matsumotoazumi ,36.18683333,137.803,20060326,20060331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,SNBH,Shinsyushinnobushina ,36.55333333,137.9415,20060325,20060331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JCN ,Chibanagara ,35.42166667,140.1983333,,20190314,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Nakakawane ,35.06916667,138.0775,,19980224,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJN ,Joetsunakanomata ,37.106,138.1598333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Nakanoyu ,36.20583333,137.6006667,19980821,19981109,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hachijo-nakanogoushougakkou ,33.06683333,139.814,20020818,20021214,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NJJJ,Niijima2 ,34.40533333,139.2798333,,20080406,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNIO,Niijimaoohara ,34.356,139.2741667,20100121,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGN ,Gifunyukawa ,36.22633333,137.3123333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNG ,Naganosakai ,36.40983333,138.0975,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Naganoshiga ,36.31266667,138.0166667,20030513,20060331,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAO ,Aichiobara ,35.26883333,137.2535,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOD2,Odawara ,35.2665,139.085,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,OMA ,Omaezaki ,34.605,138.2133333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Oosaki ,35.008,139.098,,20010531,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuooshima-C ,34.758,139.3713333,,20020423,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIM2,Izuooshima-sashikiji ,34.72083333,139.428,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Owasenanyou ,34.07,136.1921667,20041009,20050322,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JRY ,Saitamaryokami ,36.02016667,138.8978333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSD ,Sadogashimaginzan ,38.04,138.2571667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSGW,Sagamihirawakayanagi ,35.60183333,139.2085,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSG ,Shizuokasagara ,34.67766667,138.183,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Sakuma ,35.0845,137.844,,19981113,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNS ,Niigatasasakami ,37.82133333,139.3138333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYN ,Yamanashishimobe ,35.50083333,138.5411667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Shinshushinmachi ,36.55333333,137.9415,20041008,20060320,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKKS,Kakegawashinonba ,34.751,137.9856667,20121103,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSB ,Tochigishiobara ,36.9715,139.9165,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSKK,Shikinejimakita ,34.33466667,139.2106667,20120703,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSMT,Sanmumatsuo ,35.64266667,140.4483333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSSY,Shinshiroyabe ,34.91416667,137.5073333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSZ ,Suzu ,37.45033333,137.3586667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNT ,Naganotakato ,35.87666667,138.1311667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,HMMJ,Hamamatsutakisawa ,34.85916667,137.7185,20010330,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYTA,Yamagatataniai ,35.59366667,136.7355,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TATJ,Tateyama2 ,35.03666667,139.8866667,,20040219,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,CHOJ,Choshitennodai ,35.706,140.8553333,20010329,20170822,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TK01,Tokai1 ,33.76833333,137.5866667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TK02,Tokai2 ,33.95,137.7533333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TK03,Tokai3 ,34.16833333,137.9616667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TK04,Tokai4 ,34.38833333,137.8716667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TOK ,Tokyo ,35.689,139.7558333,,20100418,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TOK ,Tokyo ,35.689,139.7558333,20100418,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTHY,Toshimahigashiyama ,34.52366667,139.2883333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TTO1,Tonankai1 ,33.62216667,136.7846667,20081001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TTO2,Tonankai2 ,33.73466667,137.0271667,20081001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TTO3,Tonankai3 ,33.863,137.3976667,20081001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TTO4,Tonankai4 ,34.008,137.5381667,20081001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,TTO5,Tonankai5 ,34.25216667,137.7163333,20081001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTT ,Toyamatateyama ,36.60816667,137.3303333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKUC,Kamogawauchiura ,35.15966667,140.1991667,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JUON,Niigatauonuma ,37.2085,139.0565,20160520,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Itousami ,35.00016667,139.066,,20020423,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-akochu ,34.07566667,139.48,20001215,20040513,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Aogashima-matsuyamagadaira ,32.467,139.7606667,20101007,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Asamayama-shionosan ,36.37183333,138.5055,20110308,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Asamayama-sekison ,36.3895,138.5188333,20080417,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Fujisan-tarobo ,35.33316667,138.8046667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Fujisancho ,35.36066667,138.7273333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Fujisan-K ,35.36066667,138.7273333,20020827,20020831,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hachijojima-nishiyamanantosanroku,33.122,139.7795,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hakoneyama-ninotaira ,35.246,139.0501667,20110303,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hakusanmidagahara ,36.14633333,136.7643333,20051205,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hakusannakahanba ,36.12866667,136.7528333,20111117,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Ioto-chidori ,24.76866667,141.3071667,20120116,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izutobu-shishiyama ,34.97133333,139.0841667,20101003,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izutobu-osaki ,35.00766667,139.0976667,20010430,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kusatsushiranesan-aobayamanishi,36.63466667,138.5553333,20110311,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kozuseoizaki ,34.21933333,139.1338333,20010603,20010603,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kusatsushiranesan-mizugamahokuto,36.648,138.5455,20020425,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kozushima-tenjosannishi ,34.22066667,139.1485,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-oyamanansei ,34.073,139.5143333,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-oyamahokuto ,34.09883333,139.5325,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-kamitsuki ,34.12416667,139.522,20001128,20040513,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-tsubota ,34.07366667,139.5585,20000918,20040512,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-sanchokakominami ,34.0795,139.5226667,20131129,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-kotekura ,34.07166667,139.4871667,20061129,20120512,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-sanshichiyama ,34.09383333,139.5615,20090703,20100217,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Miyake-yaema ,34.06,139.5363333,,20120627,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Nasudake-itamuronumappara ,37.10683333,139.9315,20110301,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Niijima-setoyamaminami ,34.36266667,139.2486667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Niijimakuko ,34.37033333,139.2693333,20000716,20010321,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Norikuradake-azuminosanbondaki,36.11416667,137.5968333,20110301,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Nasudake-takao ,37.10633333,139.9906667,20011220,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Nikkoshiranesan-yumotogoshikizawa,36.80366667,139.4076667,20110301,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Niigatayakeyama-oodairakarasawa,36.95583333,138.0381667,20110303,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Ontakesan-tanoharaue ,35.87683333,137.4955,20031027,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Ontakesan-tanohara ,35.87316667,137.5035,20110301,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuoshima-futagoyamahokusei ,34.7155,139.4121667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuoshima-kitanoyama ,34.7785,139.361,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuoshima-miharayamahokusei ,34.736,139.3868333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuoshima-oshimizu ,34.758,139.3713333,20020423,20110516,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuoshima-itonashi ,34.77466667,139.4106667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Shikinetenbodai ,34.32566667,139.225,,20120627,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Izuusami ,35.00016667,139.066,20020425,20040229,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Yakedake-nakao2 ,36.25783333,137.5741667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHYU,Hitachinakayamanoue ,36.3405,140.5868333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNY ,Naganoyasuoka ,35.36266667,137.8593333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYO ,Yokosuka ,35.22716667,139.6621667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYZW,Shizuokayoshizawa ,34.99866667,137.7306667,19990803,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAD ,Okayamaaida ,34.9435,134.1653333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAI ,Tokushimaaioi ,33.79566667,134.4488333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Mikataakioka ,35.422,134.5231667,20010125,20030728,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAWN,Awajishimanagasawa ,34.48533333,134.9023333,20140320,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Doitenma ,33.98233333,133.4171667,19991122,20000731,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JEG ,Shigaeigenji ,35.1385,136.3876667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGT ,Gotsu ,35.03183333,132.3318333,19971218,20110301,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JGT2,Shimanemisato ,35.0635,132.507,20110303,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHGM,Hagimishima ,34.78266667,131.1413333,20130702,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHE ,Naraheguri ,34.65516667,135.6825,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHIK,Shimanehikimi ,34.5345,131.9266667,19971216,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,UWA2,Ehimehiromi ,33.217,132.622,19990330,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kagawaibukijima ,34.12666667,133.5346667,19991103,20000731,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNM ,Matsuenishiikuma ,35.499,133.027,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJG ,Hiroshimajoge ,34.64433333,133.1516667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKS ,Kasai ,34.98583333,134.8415,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKSM,Hyogokasumi ,35.59066667,134.661,19971217,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kawanoeshiroyama ,34.01383333,133.5678333,19991104,20000731,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKHR,Kouchiharuno ,33.51,133.4988333,20121104,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MRT2,Murotokiragawa ,33.38966667,134.1405,20000322,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWY ,Wakayamakoya ,34.22233333,135.5896667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWZ ,Wakayamakozagawa ,33.53383333,135.712,,20120822,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKU ,Kochikubokawa ,33.31283333,133.0608333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKD ,Kudamatsu ,34.05733333,131.8713333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHM ,Hiroshimakurahashi ,34.14283333,132.5268333,,20180910,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKR ,Kurayoshi ,35.3815,133.8171667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWKM,Wakayamakushimoto ,33.44983333,135.7573333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MZH2,Maizuru2 ,35.405,135.39,,20000229,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMD ,Masuda ,34.635,131.8916667,,19971215,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMT ,Hyogomikata ,35.44666667,134.5316667,,19971216,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMIK,Miki ,34.81016667,135.051,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMAF,Mimaanabuki ,34.04333333,134.1516667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWM ,Wakayamaminabegawa ,33.8525,135.3518333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kyotomineyama ,35.57233333,135.0491667,19971205,20051205,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMN ,Kochimonobe ,33.7315,133.8763333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,MRT2,Murotomisaki2 ,33.39,134.14,,20000321,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNA ,Ehimenagahama ,33.5605,132.4761667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJO ,Ooda ,35.17166667,132.5016667,,19971217,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,SAI ,Okidogo ,36.20483333,133.3336667,,20101130,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOI ,Okidogo2 ,36.29083333,133.2481667,20101222,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHS ,Hiroshimasaijo ,35.00183333,133.1136667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJS ,Sakaide ,34.377,133.928,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JISK,Izumosakaura ,35.5005,132.8486667,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTNC,Tanabenakahechi ,33.8185,135.6108333,20121101,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JET ,Ehimetanbara ,33.78216667,133.0461667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNTK,Naratenkawa ,34.27016667,135.884,20120702,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTO ,Tosashimizu ,32.86316667,132.7996667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHT ,Hiroshimatoyohira ,34.66566667,132.4185,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAJ2,Awajishimatsuna ,34.4225,134.8821667,,20140318,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,UWA2,Uwajima2 ,33.21666667,132.6233333,,19990330,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JWT ,Kyotowachi ,35.28566667,135.3986667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKY ,Kyotoyasaka ,35.63166667,135.1011667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTY ,Yamaguchitoyota ,34.26583333,131.0621667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFA ,Fukuokaakaike ,33.71533333,130.7928333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAM ,Amamiooshima-tatsugo ,28.41516667,129.603,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAMN,Amaminishikomi ,28.24283333,129.1753333,20090325,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JBEP,Beppuamama ,33.33633333,131.4071667,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFU ,Fukuejimatomie ,32.65883333,128.7473333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHHC,Hyugahichiya ,32.44316667,131.6368333,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JHD ,Hondo ,32.46833333,130.1345,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JII ,Iki ,33.79883333,129.7296667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JFI ,Fukuokaitaya ,33.4305,130.386,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,IZU2,Izuhara2 ,34.2305,129.271,,20010228,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JZK ,Kikaijima ,28.31833333,129.9698333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKIT,Miyazakikitakata ,32.62783333,131.4511667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSJ ,Shimokoshikijima ,31.6815,129.7136667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKC ,Kuchinoerabujima ,30.46566667,130.1935,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIU2,Kumamotoizumi ,32.54866667,130.8121667,,20120709,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIU3,Kumamotoizumi3 ,32.549,130.8126667,20130403,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKI ,Ooitakunimi ,33.63566667,131.5665,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJK ,Kushima ,31.4835,131.2823333,,19980601,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kumamotomifune ,32.72716667,130.8081667,19991119,20000328,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMTN,Minamitane ,30.39733333,130.9005,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTSM,Tsushimamitsuhima ,34.3385,129.3848333,20130704,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NGSJ,Nagasaki2 ,32.63266667,129.7986667,,20050902,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNN ,Nakanoshima ,29.84483333,129.8725,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNU ,Ooitanakatsue ,33.125,130.8766667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNAR,Kushimanaru ,31.53,131.2693333,20000302,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNKG,Nichinankitagou ,31.662,131.376,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NGSJ,Nagasakinomozaki ,32.63266667,129.7986667,20050909,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,OIT2,Ooita2 ,33.2815,131.4495,,20000229,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,OIT2,Beppu ,33.2815,131.4495,20000301,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOKE,Okinoerabujima ,27.36116667,128.5708333,20091229,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JZO ,Ookuchi ,32.1435,130.5961667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSKE,Saikikamae ,32.79816667,131.9011667,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JSU ,Kagoshimasuzuyama ,31.50933333,130.4526667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTAJ,Takarajima ,29.15316667,129.203,20100125,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTZ ,Miyazakitakazaki ,31.90466667,131.0856667,19971001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTA ,Tamana ,32.967,130.5305,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTN ,Tanegashima-nishinoomote ,30.658,130.9773333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTSR,Kagoshimatashiro ,31.16983333,130.9193333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTK ,Tokunoshima ,27.7895,128.9485,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTSN,Miyazakitsuno ,32.249,131.5021667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTU ,Tsushimakamiagata ,34.5275,129.3963333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JUR ,Sagaureshino ,33.0965,129.9466667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JUS ,Usuki ,33.069,131.7481667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Asosan-furubochu2 ,32.8805,131.0733333,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kirishimayama-takachihogawara ,31.8865,130.897,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kirishimayama-shinmoedakenansei,31.9,130.8711667,20020801,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kujusan-hosshosankitasanpuku2 ,33.10333333,131.2296667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Kujusan-hosshosankitasanpuku ,33.103,131.229,20010601,20100930,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Satsumaiojima-monokusa ,30.78866667,130.2936667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Sakurajima-seto2 ,31.5705,130.7075,20101002,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Satsumaiojima-tenbodaihigashi ,30.78766667,130.302,20020801,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Suwanosejima-tongamanansei ,29.62883333,129.7045,20020615,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Suwanosejima-nabetao ,29.6255,129.7016667,20101001,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Tsurumidake-yuyama ,33.3255,131.4511667,20101004,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Unzendake-torikabutoyamakitasanpuku,32.79433333,130.2731667,20150828,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Unzendake-kunimidakekitasanpuku,32.77183333,130.2885,20110303,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Unzendake-torikabutoyamakitasanpuku,32.79333333,130.2725,20010601,20150419,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Unzendake-karakokita ,32.80833333,130.1311667,20010601,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYAK,Yakushimahirauchi ,30.23783333,130.5096667,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYRO,Yoronjima ,27.02466667,128.4505,20120701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JAGN,Agunijima ,26.59266667,127.2403333,20000630,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,HATJ,Haterumashitabaru ,24.06083333,123.8035,20000623,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,HATJ,Haterumajima ,24.06166667,123.8033333,,20000621,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Hatomajima ,24.4685,123.8223333,20001212,20090302,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIH ,Iheyajima ,27.03866667,127.9653333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Ikemarinji ,24.92333333,125.248,20011001,20100205,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIKM,Ikemajima ,24.92366667,125.2476667,20091222,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIRB,Irabujima ,24.82816667,125.1728333,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,IRI ,Iriomotejima2 ,24.387,123.7496667,,20000621,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,IRIF,Iriomotefunauki ,24.339,123.7285,20040304,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,IRI ,Iriomotejimahigashisonai ,24.38983333,123.7478333,20000623,20030307,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,IRI ,Iriomotejima ,24.38966667,123.7478333,19980506,19980522,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Iriomotesonai ,24.38816667,123.747,20030307,20040304,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JIJ ,Ishigakijima-arakawa ,24.369,124.1431667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JISG,Ishigakijimahirakubo ,24.587,124.3106667,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKDJ,Kitadaitoujima ,25.9495,131.2968333,20130701,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKE ,Kumejimanakazato ,26.32983333,126.7841667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOW ,Okinawakunigami ,26.836,128.2725,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JKRS,Okinawakuroshima ,24.24166667,124.0076667,20000630,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMZ ,Minamidaitojima-ikenosawa ,25.81983333,131.2236667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMJ ,Miyakojima-nishinakasone ,24.81833333,125.2925,,20130315,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JMJ2,Miyakojimaueno ,24.74083333,125.3276667,20130501,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JNTH,Nagotoyohara ,26.5185,128.0221667,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,NAH1,Naha ,26.20666667,127.6883333,,20090302,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JOGS,Okinawagusukube ,24.76366667,125.4053333,20000630,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJT2,Okinawatamagusuku ,26.14233333,127.7468333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JJT3,Okinawatamagusuku ,26.14366667,127.7836667,20120326,18991230,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JTJ ,Taramajima ,24.6425,124.7051667,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,,Okinawayomitan ,26.3955,127.7451667,19971204,19980428,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYNG,Yonagunijimakubura ,24.45116667,122.9451667,20100201,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,YOJ ,Yonagunijima ,24.46716667,123.0113333,19990319,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
+JMA,JYJ ,Yonagunijimakubura ,24.45566667,122.9441667,,19990316,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
