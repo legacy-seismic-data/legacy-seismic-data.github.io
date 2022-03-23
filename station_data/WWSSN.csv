@@ -1,3 +1,5 @@
+symbol_color
+#a085c6
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 USGS,AAE,"Addis Ababa, Ethiopia",9.02917,38.76556,19620611,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
 USGS,AAM,"Ann Arbor, Michigan",42.3012,-83.6567,19621008,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip

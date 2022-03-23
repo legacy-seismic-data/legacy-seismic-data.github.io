@@ -1,3 +1,5 @@
+symbol_color
+#7b5ba9
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type
 Carnegie Institution DTM,CUS,"Cusco, Peru",-13.563,-71.877,1966,1986,3,broadband,tape,timeseries
 Carnegie Institution DTM,TCC,"Toconce, Chile",-22.275,-68.172,1965,1971,3,broadband,tape,timeseries
