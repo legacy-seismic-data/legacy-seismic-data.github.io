@@ -13,6 +13,8 @@ Data maybe downloadable or available upon request.
 
 See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
+
+<!--- <iframe src="../stations/time_map.html" width="1000px" height="666px"></iframe> --->
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 
 #### Layer Key
