@@ -1,0 +1,6 @@
+symbol_color
+#6bb6e3
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+,VQS,"Vieques, Puerto Rico",18.147,-65.447,1903,1924,2,,"smoked paper, microfilm",,https://ds.iris.edu/seismo-archives/stations/puerto_rico/
+,SJP,"San Juan, Puerto Rico",18.3815,-66.1179,1926,1963,3,,"photographic paper, microfilm",tiff,https://ds.iris.edu/seismo-archives/stations/puerto_rico/
+,SJG,"San Juan, Puerto Rico",18.116,-65.15,1963,,6,"SP, LP","photographic paper, microfilm",tiff,https://ds.iris.edu/seismo-archives/stations/puerto_rico/

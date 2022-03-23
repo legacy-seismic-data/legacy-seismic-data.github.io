@@ -1,0 +1,12 @@
+symbol_color
+#7b5ba9
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type
+Carnegie Institution DTM,CUS,"Cusco, Peru",-13.563,-71.877,1966,1986,3,broadband,tape,timeseries
+Carnegie Institution DTM,TCC,"Toconce, Chile",-22.275,-68.172,1965,1971,3,broadband,tape,timeseries
+Carnegie Institution DTM,TRU,"Trujilo, Peru",-8.078,-78.861,1967,1996,1,broadband,tape,timeseries
+Carnegie Institution DTM,KMU,"Kamikineusu, Japan",42.238,142.967,1967,1996,3,broadband,tape,timeseries
+Carnegie Institution DTM,MAT,"Matsushiro, Japan",36.543,138.207,1967,1984,3,broadband,tape,timeseries
+Carnegie Institution DTM,SWU,"Sawauch, Japan",39.49,140.79,1984,1996,3,broadband,tape,timeseries
+Carnegie Institution DTM,AKU,"Akureyi, Iceland",65.986,-18.099,1972,2003,3,broadband,tape,timeseries
+Carnegie Institution DTM,PMG,"Port Moresby, Papua New Guinea",-9.406,147.159,1966,1992,1,broadband,tape,timeseries
+Carnegie Institution DTM,DTM,"Washington D.C., USA",38.959,-77.063,1966,1994,3,broadband,tape,timeseries

@@ -1,0 +1,130 @@
+symbol_color
+#a085c6
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+USGS,AAE,"Addis Ababa, Ethiopia",9.02917,38.76556,19620611,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,AAM,"Ann Arbor, Michigan",42.3012,-83.6567,19621008,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ADE,"Adelaide, Australia",-34.9669,138.70889,19620524,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,AFI,"Afiamalu, Samoa Island",-13.9094,-171.777,19621101,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,AKU,"Akureyri, Iceland",65.6867,-18.1067,19640731,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ALQ,"Albuquerque, New Mexico",34.9425,-106.4575,19611117,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ANP,"Anpu, Taiwan",25.1865,121.52,19630314,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ANT,"Antofagasta,Chile",-23.705,-70.4153,19621228,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,AQU,"L'Aquila, Italy",42.35389,13.40194,19620511,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ARE,"Arequipa, Peru",-16.4621,-71.4913,19620323,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ATL,"Atlanta, Georgia",33.4333,-84.3375,19630621,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ATH,"Athens, Greece",37.9722,23.7167,19620402,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BAG,"Baguio City, Phillippines",16.4108,120.58,19620331,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BDF,"Brasilia, Brazil",-15.6638,-47.9033,197101?,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BEC,Bermuda,32.37944,-64.68111,19611228,1984,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BHP,"Balboa Heights, Panama",8.96083,-79.5581,19620116,197703,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BKS,"Berkeley, California",37.87622,-122.23558,19620608,19911001,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BLA,"Blacksburg, Virginia",37.2113,-80.42049,19620904,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BOG,"Bogota, Columbia",4.62306,-74.065,19620504,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BOZ,"Bozeman, Montana",45.597,-111.6297,19630303,196803,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,BUL,"Bulawayo, Zimbabwe",-20.1433,28.6133,19630110,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,CAR,"Caracas, Venezuela",10.507,-66.928,19620524,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,CCG,"Camp Century, Greenland",77.1667,-61.1333,19621130,19630225,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,CHG,"Chiang Mai, Thailand",18.81381,98.94381,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,CMC,"Coppermine, Canada",67.83333,-115.08333,19630422,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,COL,"College Outpost, Alaska",64.9,-147.79333,196401,198201,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,COP,"Copenhagen, Denmark",55.68531,12.4325,19620216,19991231,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,COR,"Corvallis, Oregon",44.5857,-123.303,19620801,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,CTA,"Charters Towers, Australia",-20.0883,146.254,19630322,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,DAG,"Danmarkshavn, Greenland",76.7714,-18.6547,19720901,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,DAL,"Dallas, Texas",32.8461,-96.7839,19611130,mid 1970's,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,DAV,"Davao, Phillippines",7.07,125.579,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,DUG,"Dugway, Utah",40.195,-112.8133,19620509,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,EIL,"Eilat, Israel",29.66989,34.95119,19690101,19790102,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,EPT,"El Paso, Texas",31.7717,-106.506,19770606,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,ESK,"Eskdalemuir, Scotland",55.3167,-3.205,19640319,19951010,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,FLO,"Florissant, Missouri",38.8017,-90.37,19611202,19710831,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,FVM,"French Village, Missouri",37.984,-90.426,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GDH,"Godhavn, Greenland",60.25,-53.5333,19621102,19820826?,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GEO,"Georgetown, D.C.",38.9,-77.0667,19611207,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GIE,Galapagos Islands,-0.73333,-90.3,19640428,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GOL,"Golden, Colorado",39.70028,-105.37111,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GRM,"Grahamstown, South Africa",-33.31333,26.50831,19671103,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GSC,"Goldstone, California",35.30177,-116.80574,19630225,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,GUA,"Guam, Mariana Islands",13.53972,144.91408,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,HKC,"Hong Kong, China",22.302,114.1743,19630508,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,HLW,"Helwan, Egypt",29.8583,31.3417,19620618,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,HNR,"Honiara, Solomon Islands",-9.43164,159.947,19620207,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,HOW,"Howrah, India",22.41667,88.30917,19631104,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,IST,"Istanbul, Turkey",41.04556,28.99583,19620220,19890102,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,JCT,"Junction City, Texas",30.47944,-99.80222,19650301,before1995,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,JER,"Jerusalem, Israel",31.7719,35.1972,19640801,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KBL,"Kabul, Afghanistan",34.5408,69.0432,19680608,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KBS,"Kingsbay, Spitsbergen",78.92561,11.94169,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KEV,"Kevo, Finland",69.7553,27.0067,19620907,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KIP,"Kipapa, Hawaii",21.4233,-158.014,19621109,19820815,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KOD,"Kodaikanal, India",10.2333,77.4667,19641027,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KON,"Kongsberg, Norway",59.6491,9.59822,19620628,19831227,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KRK,"Kirkenes, Norway",69.7242,30.0625,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,KTG,"Kap Tobin, Greenland",70.4167,-21.9833,196307,19800831,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LAH,"Lahore, Pakistan",31.55,74.3333,19620904,19681231,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LEM,"Lembang, Indonesia",-6.82661,107.6175,19641028,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LON,"Longmire, Washington",46.75,-121.81,19620822,19801001,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LOR,"Lormes, France",47.2683,3.85889,1963,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LPA,"La Plata, Argentina",-34.9089,-57.9319,19620323,1996,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LPB,"La Paz, Bolivia",-16.5327,-68.0984,19620407,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LPS,"La Palma, El Salvador",14.29222,-89.16194,19620702,199911,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,LUB,"Lubbock, Texas",33.5833,-101.867,19611212,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MAL,"Malaga, Spain",36.7275,-4.41111,19620426,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MAN,"Manila, Philippines",14.66,121.078,19620714,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MAT,"Matsushiro, Japan",36.54267,138.207,19650801,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MDS,"Madison, Wisconsin",43.3722,-89.76,19620116,19680610,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MHI,"Mashhad, Iran",36.3088,59.4703,19751014,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MNN,"Minneapolis, Minnesota",44.9144,-93.19,19620727,19620727,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MSH,"Mashhad, Iran",36.3111,59.5878,19650917,19750905,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MSO,"Missoula, Montana",46.8292,-113.9406,197311,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,MUN,"Mundaring, Australia",-31.9783,116.208,19620628,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NAI,"Nairobi, Kenya",-1.27394,36.8037,19630614,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NAT,"Natal, Brazil",-5.86781,-35.2845,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NDI,"New Delhi, India",28.6833,77.2167,19630415,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NHA,"Nhatrang, Viet Nam",12.21,109.212,19620613,19710831,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NIL,"Nilore, Pakistan",33.65,73.2517,19690601,198705,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NNA,"Nana, Peru",-11.98731,-76.84219,19620717,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NOR,"Nord, Greenland",81.6,-16.6833,19631113,19720422,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,NUR,"Nurmijarvi, Finland",60.509,24.649,19620731,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,OGD,"Ogdensburg, New Jersey",41.0875,-74.5958,19611212,1981,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,OXF,"Oxford, Mississippi",34.5118,-89.4092,1963,197605,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PDA,"Ponta Delgada, Azores",37.7467,-25.6633,19620302,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PEL,"Peldehue, Chile",-33.1436,-70.6853,19640315,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PLM,"Palomar, California",33.3534,-116.862,19611118,19630128,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PMG,"Port Moresby, Papua",-9.40617,147.159,19620720,1993,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,POO,"Poona, India",18.5295,73.84917,19641005,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PRE,"Pretoria, South Africa",-25.75333,28.19,19621013,19810623,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,PTO,"Porto, Portugal",41.13861,-8.60222,19630330,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,QUE,"Quetta, Pakistan",30.1883,66.95,19620731,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,QUI,"Quito, Ecuador",-0.20014,-78.5005,19630301,19780101,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,RAB,"Rabaul, New Britain",-4.19267,152.163,19620310,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,RAR,"Rarotonga, Cook Island",-21.2125,-159.773,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,RCD,"Rapid City, South Dakota",44.075,-103.208,19611215,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,RIV,"Riverview, Australia",-33.8294,151.158,19621221,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SBA,"Scott Base, Antarctica",-77.8503,166.756,19630311,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SCP,"State College, Pennsylvania",40.795,-77.865,19620126,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SDB,"Sa Da Banderia, Angola",-14.9258,13.5719,19641029,1975,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SEO,"Seoul, South Korea",37.5667,126.967,19630328,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SHA,"Spring Hill, Alabama",30.6944,-88.1428,19620416,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SHI,"Shiraz, Iran",29.64181,52.51331,19630510,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SHK,"Shiraki, Japan",34.5322,132.678,19651222,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SHL,"Shillong, India",25.5667,91.8833,19630429,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SJG,"San Juan, Puerto Rico",18.11167,-66.15,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SNA,"Sanae, Antarctica",-70.315,-2.325,196402151,before 199612?,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SNG,"Songkhla, Thailand",7.177,100.617,196511,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SOM,"Sombrero, Chile",-52.7808,-69.2422,19641222,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,SPA,"South Pole, Antarctica",-89.9954,115,19630216,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,STU,"Stuttgart, Germany",48.7719,9.195,19620220,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TAB,"Tabriz, Iran",38.0675,46.3267,19650810,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TAU,"Tasmania University, Tasmania",-42.9099,147.32,19620531,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TOL,"Toledo, Spain",39.8814,-4.04861,19620427,1991,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TPM,"Tepoztland, Mexico",18.9833,-99.0617,,inactive,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TRI,"Trieste, Italy",45.70889,13.76417,19630729,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TRN,Trinidad,10.648,-61.403,19620227,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,TUC,"Tucson, Arizona",32.3098,-110.7847,19621217,19811231,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,UME,"Umea, Sweden",63.815,20.2367,19620125,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,UNM,"Mexico City, Mexico",19.329,-99.178,196706,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,VAL,"Valentia, Ireland",51.9394,-10.2442,19621023,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,WEL,"Wellington, New Zealand",-41.28403,174.7682,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,WES,"Weston, Massachusetts",42.3847,-71.3221,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip
+USGS,WIN,"Windhoek, Namibia",-22.5667,17.1,,,6,,microfiche,tif,https://ds.iris.edu/spud/filmchip

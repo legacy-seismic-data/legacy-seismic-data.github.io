@@ -1,0 +1,14 @@
+symbol_color
+#1480bf
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+National Astronomical Observatory of Japan,MIZ,"Mizusawa, Japan",39.133,141.1333,1901,1970,"NS, EW, V","Omori, Nasu","smoked paper",tiff,http://www.univsusu.adep.or.jp/
+Tohoku University,SEN,"Mukaiyama and Yagiyama, Japan",38.26,140.9,1913,1943,"V, NS, EW","Wiechelt, Mainka, Imamura, Nakamura",smoked,tiff,http://www.univsusu.adep.or.jp/
+Kyoto University,KMM,"Kamigamo, Japan",35.0333,135.7,1910,1930,,,smoked,tiff,http://www.univsusu.adep.or.jp/
+Kyoto University,,"Hadano, Japan",,,1924,,H,"simple Omori?",smoked,tiff,http://www.univsusu.adep.or.jp/
+Kyoto University,ABU,"Abuyama, Japan",34.8603,135.5739,1931,1963,"V, NS, EW","Wiechelt, Sassa Strong",smoked (from film),tiff,http://www.univsusu.adep.or.jp/
+Kyoto University,ASO,"Aso, Japan",32.8833,131.0167,1933,1940,"V, NS, EW","Wiechelt, Simple Omori?",smoked,tiff,http://www.univsusu.adep.or.jp/
+University of Tokyo,TMJ,"Tsukuba, Japan",36.2108,140.11,1958,1972,"V, NS, EW",HES,film,tiff,http://www.univsusu.adep.or.jp/
+Hokkaido University,KMU,"Kamikineusu, Japan",42.2386,142.9672,1967,1976,"V, NS, EW",HES JMA Version,film,tiff,http://www.univsusu.adep.or.jp/
+Hokkaido University,,"Akkeshi, Japan",,,1973,,V,electromagnetic,ink,tiff,http://www.univsusu.adep.or.jp/
+Hokkaido University,,"Konbumori, Japan",,,1973,,V,short period,ink,tiff,http://www.univsusu.adep.or.jp/
+Hokkaido University,,"Anebetsu, Japan",,,1973,,V,velocity,ink,tiff,http://www.univsusu.adep.or.jp/

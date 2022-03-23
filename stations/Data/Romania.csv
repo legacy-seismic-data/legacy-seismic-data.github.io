@@ -1,0 +1,9 @@
+symbol_color
+#8cc9ed
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+,BAC,Bacau,46.5669,26.9124,1943,,,,,,http://archive.infp.ro/
+,BUC,Bucharest,44.4136,26.0967,1902,,,,,,http://archive.infp.ro/
+,CMP,Campulung Muscel,45.2683,25.0383,1943,,,,,,http://archive.infp.ro/
+,FOC,Focsani,45.695,27.1833,1942,,,,,,http://archive.infp.ro/
+,IAS,Iasi,47.1933,27.5617,1952,,,,,,http://archive.infp.ro/
+,VRI,Vrancioaia,45.8665,26.7276,1952,,,,,,http://archive.infp.ro/

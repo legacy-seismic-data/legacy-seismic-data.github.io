@@ -1,0 +1,14 @@
+symbol_color
+#bfe7ff
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+UNAM,TAC,Tacubaya,19.405,-99.194,1910,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,MAZ,Mazatlán,23.188,-106.406,1910,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,OAX,Oaxaca,17.021,-96.763,1911,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,MER,Mérida,20.948,-89.616,1912,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,ZACM,Zacatecas,22.776,-102.549,1912,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,GUM,Guadalajara,20.679,-103.341,1920,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,COLM,Colima,18.196,-103.704,1920,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,PUE,Puebla,19.042,-98.197,1920,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,VCM,Veracruz,19.201,-96.138,1920,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,MNZ,Manzanillo,19.054,-104.331,1920,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/
+UNAM,CHH,Chihuahua,28.637,-106.078,1922,,3,,paper,"pdf, jpg",http://www.sismoteca.unam.mx/

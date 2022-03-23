@@ -1,0 +1,14 @@
+symbol_color
+#a4c74c
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+LBSN,BCN,"Boulder City, Nevada",35.980833,-114.833889,1960,1963,,,FM tape,digital,
+LBSN,DAC,"Darwin, California",36.276944,-117.593611,1960,present,,,FM tape,digital,
+LBSN,PIO,"Pioche, Nevada",38.1075,-117.621944,1960,1963,,,FM tape,digital,
+LBSN,SVP,"Silver Peak, Nevada",37.793889,-117.692222,1960,1962,,,FM tape,digital,
+LBSN,TNP,"Tonopah, Nevada",38.075,-117.2225,1962,present,,,FM tape,digital,
+LBSN,NEL,"Nelson, Nevada",35.712222,-114.843333,1963,present,,,FM tape,digital,
+LBSN,QVOL,"St. George, Utah",37.243056,-113.376667,1963,1981,,,FM tape,digital,
+LBSN,BMN,"Battle Mountain, Nevada",40.431389,-117.221667,1963,present,,,FM tape,digital,
+LBSN,ELY,"Ely, Nevada",39.131667,-114.892222,1963,1973,,,FM tape,digital,
+LBSN,LEE,"Leeds, Utah",37.2425,-113.351389,1981,1998,,,FM tape,digital,
+LBSN,MSU,"Marysvale, Utah",38.503611,-112.212222,1998,present,,,FM tape,digital,
