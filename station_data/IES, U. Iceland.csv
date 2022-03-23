@@ -1,3 +1,5 @@
+symbol_color
+#006eaf
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 "IES, U. Iceland",,Adalbol,65.019,-15.582,1977,1993,,,paper,jpg,https://seismis.hi.is/
 "IES, U. Iceland",AKU,Akureyri,65.687,-18.107,1935,2001,,,paper,jpg,https://seismis.hi.is/

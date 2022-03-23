@@ -1,4 +1,6 @@
-﻿organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+symbol_color
+#00619b
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 "ERI, U. Tokyo",,Akadama ,37.99583333,138.533,,,,,"microfilm, paper","tiff, pdf",http://wwweic.eri.u-tokyo.ac.jp/susu/index_en.html
 "ERI, U. Tokyo",,Koishi ,37.26283333,136.8315,20070405,20071220,,,"microfilm, paper","tiff, pdf",http://wwweic.eri.u-tokyo.ac.jp/susu/index_en.html
 "ERI, U. Tokyo",,Akiyama ,35.57433333,139.0583333,,,,,"microfilm, paper","tiff, pdf",http://wwweic.eri.u-tokyo.ac.jp/susu/index_en.html

@@ -1,4 +1,6 @@
-﻿organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+symbol_color
+#005080
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 CNSN (USGS),ALE,Alert,82.5033,-62.35,1990,present,,,paper (microfiche),tif,
 CNSN (USGS),EDM,Edmonton,53.223,-113.3497,1992,present,,,paper (microfiche),tif,
 CNSN (USGS),FBC,Frobisher Bay,63.7333,-68.4667,,,,,paper (microfiche),tif,

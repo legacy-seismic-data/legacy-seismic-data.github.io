@@ -1,4 +1,6 @@
-﻿organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
+symbol_color
+#2891ce
+organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 JMA,ABJ2,Abashiri2 ,43.84416667,143.866,,20000317,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
 JMA,JAK ,Akkeshi ,42.99866667,144.6925,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/
 JMA,JAB ,Ashibetsu ,43.507,142.2193333,,,,,"microfilm, paper","jpeg, tiff",http://www.susu.adep.or.jp/

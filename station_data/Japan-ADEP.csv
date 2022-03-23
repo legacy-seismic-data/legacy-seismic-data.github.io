@@ -1,3 +1,5 @@
+symbol_color
+#1480bf
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 National Astronomical Observatory of Japan,MIZ,"Mizusawa, Japan",39.133,141.1333,1901,1970,"NS, EW, V","Omori, Nasu","smoked paper",tiff,http://www.univsusu.adep.or.jp/
 Tohoku University,SEN,"Mukaiyama and Yagiyama, Japan",38.26,140.9,1913,1943,"V, NS, EW","Wiechelt, Mainka, Imamura, Nakamura",smoked,tiff,http://www.univsusu.adep.or.jp/
