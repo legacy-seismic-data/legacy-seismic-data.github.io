@@ -3,8 +3,8 @@ symbol_color
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url,summary
 Boston College,WES,"Weston Observatory, Massachusetts, USA",42.3847,-71.3221,1909,,6,"Wiechert, Bosch-Omori, Benioff",,scan,,weston
 "Indonesian Bureau of Meterology, Climatology, and Geophysics (BMKG)",DJA,"Jakarta, Indonesia",-6.1833,106.8333,1897,,,,,,,batavia
-University of Coimbra,COI,"Coimbra, Portugal",40.2067,-8.4183,1891,,6,"SP, LP" ,paper,scan,http://storing.ingv.it/es_web/,coimbra
+University of Coimbra,COI,"Coimbra, Portugal",40.2067,-8.4183,1891,,6,"SP, LP ",paper,scan,http://storing.ingv.it/es_web/,coimbra
 Council of Geosciences,CTO,"Cape Town, South Africa",-33.95,18.45,,,,,,,,capetown
 Harvard University,HRV,"Oak Ridge Observatory, Massachusetts, USA",42.5072,-71.5625,1988,,6,"WA, Benioff, Milne-Shaw",paper,"tif, SAC",http://www.seismology.harvard.edu/hrv.html,harvard
-US Geological Survey, "HVO,KIP","Kipapa, Hawaii",21.4233,-158.0150,,,,,,,,hawaii
-Ohio Geological Survey, JCU, "Cleveland, Ohio",  41.4856, -81.7056, 1900, 1992, 3, "LP,SP",paper,,,ohio
+US Geological Survey,"HVO,KIP","Kipapa, Hawaii",21.4233,-158.0150,,,,,,,,hawaii
+Ohio Geological Survey,JCU,"Cleveland, Ohio",41.4856,-81.7056,1900,1992,3,"LP,SP",,paper,,ohio
