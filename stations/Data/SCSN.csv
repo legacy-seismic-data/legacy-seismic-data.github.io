@@ -1,5 +1,5 @@
 symbol_color
-#b9db62
+ #d4ec95
 organization,station,location,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 SCSN,BAR,"Barrett Dam, California",32.68005,-116.67215,1932,2001,4,"WA, 1-90","paper, microfiche","jpg, tif",../organizations/scsn
 SCSN,HAI,"Haiwee, California",36.13664,-117.94753,1932,1974,3,,"paper, microfiche","jpg, tif",../organizations/scsn

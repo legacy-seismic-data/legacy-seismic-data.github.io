@@ -40,9 +40,9 @@ When adding new data, please select from an unused color and update this file.
  #97ba42
  #a4c74c  LBSN
  #add056
- #b9db62  SCSN
+ #b9db62
  #c2e075
- #d4ec95
+ #d4ec95  SCSN
  #e5f7b4
  #f0ffc7
  ```
