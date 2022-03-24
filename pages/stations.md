@@ -22,7 +22,7 @@ See *More Info* for each station or select the corresponding organization from t
 * [**Batavia (Jakarta), Indonesia:**](../stations/batavia) BAT/DJA
 * [**Cape Town, South Africa:**](../stations/capetown) CGH/CTO/HER
 * [**Cleveland, Ohio, United States:**](../stations/ohio) JCU
-* [**Coimbra:**](../stations/coimbra) COI
+* [**Coimbra, Portugal:**](../stations/coimbra) COI
 * [**Harvard, Massachusetts, United States:**](../stations/harvard) HRV
 * [**Hawaiian Volcano Observatory, Hawaii, United States:**](../stations/hawaii) HVO
 * [**Puerto Rico:**](../stations/puerto_rico) SJG, SJP, VQS
