@@ -59,3 +59,11 @@ When adding new data, please select from an unused color and update this file.
  #fed9ad
  #ffe6c7
  ```
+
+# leaflet.timeline
+Copyright (c) 2015, Jonathan Skeate
+* leaflet.timeline is used under an ISC license
+
+# BeautifyMarker
+Copyright (c) 2016 Muhammad Arslan Sajid
+* leaflet.timeline is used under the MIT license
