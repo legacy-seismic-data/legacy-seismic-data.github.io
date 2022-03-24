@@ -31,3 +31,7 @@ The data contain on this website is based on openly available data.
 Photo credits:
 * Fabra Observatory -  © Wikimedia Commons
 * Bicycles - Gregory Urquiaga © Regents of the University of California, Davis
+
+Code:
+* leaflet.timeline: Copyright (c) 2015, Jonathan Skeate
+* beautifyMarker: Copyright (c) 2016 Muhammad Arslan Sajid
