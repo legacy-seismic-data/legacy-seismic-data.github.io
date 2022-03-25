@@ -27,7 +27,7 @@ When adding new data, please select from an unused color and update this file.
  #1480bf  Japan ADEP
  #2891ce  JMA
  #49a4d8  
- #6bb6e3  Puerto Rico
+ #6bb6e3  
  #8cc9ed  Romania
  #a6d8f6
  #bfe7ff  UNAM

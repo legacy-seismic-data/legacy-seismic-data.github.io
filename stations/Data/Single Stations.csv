@@ -8,3 +8,6 @@ Council of Geosciences,CTO,"Cape Town, South Africa",-33.95,18.45,,,,,,,,capetow
 Harvard University,HRV,"Oak Ridge Observatory, Massachusetts, USA",42.5072,-71.5625,1988,,6,"WA, Benioff, Milne-Shaw",paper,"tif, SAC",http://www.seismology.harvard.edu/hrv.html,harvard
 US Geological Survey,"HVO,KIP","Kipapa, Hawaii",21.4233,-158.0150,,,,,,,,hawaii
 Ohio Geological Survey,JCU,"Cleveland, Ohio",41.4856,-81.7056,1900,1992,3,"LP,SP",,paper,,ohio
+US Geological Survey,VQS,"Vieques, Puerto Rico",18.1467,-65.448,1903,1924,2,,"smoked paper, microfilm",,https://ds.iris.edu/seismo-archives/stations/puerto_rico/,puerto_rico
+US Geological Survey,SJP,"San Juan, Puerto Rico",18.3812,-66.1179,1926,1964,3,,"photographic paper, microfilm",tiff,https://ds.iris.edu/seismo-archives/stations/puerto_rico/,puerto_rico
+US Geological Survey,SJG,"San Juan, Puerto Rico",18.1167,-66.15,1964,,6,"SP, LP","photographic paper, microfilm",tiff,https://ds.iris.edu/seismo-archives/stations/puerto_rico/,puerto_rico
