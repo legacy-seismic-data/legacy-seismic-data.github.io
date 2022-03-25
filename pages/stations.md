@@ -12,8 +12,10 @@ permalink           : "/stations/"
 Stations shown have legacy seismic data that have been converted to digital images or in same cases digital time series. Data maybe downloadable or available upon request.  
 See *More Info* for each station or select the corresponding organization from the **Layer Key** below.
 
+<!---
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
-
+--->
+<iframe src="../stations/single_stations.html" width="1000px" height="666px"></iframe>
 #### Layer Key
 <!---
 * Canberra, Australia: CAN
