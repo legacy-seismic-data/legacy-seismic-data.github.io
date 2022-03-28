@@ -15,7 +15,7 @@ See *More Info* for each station or select the corresponding organization from t
 <!---
 <iframe src="../pages/maps/station_map.html" width="1000px" height="666px"></iframe>
 --->
-<iframe src="../stations/single_stations.html" width="1000px" height="666px"></iframe>
+<iframe src="../stations/single_stations.html" width="100%" height="618px"></iframe>
 #### Layer Key
 <!---
 * Canberra, Australia: CAN
