@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 show_meta           : false
-title               : "Event Map"
+title               : "Events"
 subheadline         : "FIND"
 teaser              : "Search for events with legacy data."
 header:
