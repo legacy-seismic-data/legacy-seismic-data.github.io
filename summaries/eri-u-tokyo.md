@@ -38,6 +38,10 @@ Iinan |UD |1964 | 1970 |
 UD, up–down.
 
 ## Instrumentation
+### Wakayama Microearthquake Network
+electromagnetic high-gain (short period)
+
+### Other
 Ewing circular, vertical  
 Hagiwara  
 Imamura (strong motion)  
@@ -49,7 +53,10 @@ Wiechert horizontal, vertical
 Wood-Anderson  
 
 ## Recording Medium
+### Wakayama Microearthquake Network
 ink on paper  
+### Other
+ink on paper
 photographic film  
 photographic paper  
 smoked paper  
@@ -65,9 +72,9 @@ Additional information about the microfilmed seismogram archives at the ERI can 
 
 **Foreign Seismograms**  
 Access the list (station and date) of foreign seismograms available for:
-  * [Taiwan](http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html). Includes station reports, meteorological data, seismic bulletins, an earthquake reports.
-  * [Canada](http://wwweic.eri.u-tokyo.ac.jp/canadaseis/canada.html) *availability unconfirmed*. See also [Canada](../organizations/canada).
-  * [WWSSN](http://wwweic.eri.u-tokyo.ac.jp/wwssn/filmlist.html). See also [WWSSN](../organizations/wwssn)
+  * [Taiwan](http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.html). Includes station reports, meteorological data, seismic bulletins, and earthquake reports. Seismograms (pdf) of select Taiwan earthquakes recorded in Japan.
+  * [Canada](http://wwweic.eri.u-tokyo.ac.jp/canadaseis/canada.html). The Earthquake Research Institute maintains ~1800 rolls of 35 mm films from 23 stations of the Canadian seismograph network between 1982-1989 *availability unconfirmed*. See also [Canada](../organizations/canada).
+  * [WWSSN](http://wwweic.eri.u-tokyo.ac.jp/wwssn/filmlist.html). WWSSN microfilms of 167 stations between 1963-1988. See also [WWSSN](../organizations/wwssn)
 
 **Mareograms**  
  * [Mareogram data](http://wwweic.eri.u-tokyo.ac.jp/tsunamidb/index.html)

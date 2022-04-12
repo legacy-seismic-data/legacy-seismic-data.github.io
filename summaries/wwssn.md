@@ -38,7 +38,7 @@ Several organizations hold partial or (mostly) complete sets of photographed dat
 * Lamont–Doherty Earth Observatory: film chips (complete) *includes California Institute of Technology collection merged in 2010*
 * Northwestern University: film chips (partial)
 * British Geological Survey: film chips (unknown), microfiche from 1978-1990 (complete)
-* Earthquake Research Institute: microfilms for 167 stations from 1963-1988 (16,100 rolls) (Satake et al., 2020)
+* [Earthquake Research Institute](http://wwweic.eri.u-tokyo.ac.jp/wwssn/filmlist.html): microfilms for 167 stations from 1963-1988 (16,100 rolls) (Satake et al., 2020)
 
 Scans of all available records were completed for 5 high quality reference stations:
 
