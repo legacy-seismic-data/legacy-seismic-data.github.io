@@ -20,12 +20,12 @@ More than 146,000 high‐quality images of analog seismograms from several acade
 | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---:
 |Abuyama|  ABU | 34.8603  | 135.5739  | 1929-1963 |
-|Akkeshi|  |   |   | 1973 |
+|Akkeshi| AKK | 43.0171 |  144.8423 | 1973 |
 |Anebetsu|  |   |   | 1973 |
 |Aso   |  ASO | 32.8833  | 131.0167  | 1933-1940 |
 |Hadano|  |   |   | 1924 |
 |Kamigamo| KMM |  35.0333 | 135.7000  | 1910-1930 |
-|Kamikineusu|  |   |   | 1967-1976 |
+|Kamikineusu| KMU  |  42.2386 | 142.9672  | 1967-1976 |
 |Konbumori|  |   |   | 1973 |
 |Mizusawa |  MIZ | 39.217  |  141.217 | 1901-1970 |  
 |Mikaiyama and Yagiyama*| SEN  | 38.2600  |  140.9000 | 1913-1943 |
