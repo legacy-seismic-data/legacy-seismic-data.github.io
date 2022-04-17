@@ -25,8 +25,8 @@ When adding new data, please select from an unused color and update this file.
  #00619b  ERI
  #006eaf  IES
  #1480bf  Japan ADEP
- #2891ce  JMA
- #49a4d8  
+ #2891ce  
+ #49a4d8  JMA
  #6bb6e3  
  #8cc9ed  Romania
  #a6d8f6

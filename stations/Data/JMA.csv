@@ -1,3 +1,5 @@
+symbol_color
+#49a4d8 
 ﻿organization,station,location,,,latitude,longitude,begin,end,components,type,analog_type,digital_type,url
 JMA,SAP,Sapporo,Hokkkaido,Japan,43.0583,141.3317,19220122,19550121,,,,tiff,http://www.susu.adep.or.jp
 JMA,SUT,Suttsu,Hokkkaido,Japan,42.79,140.24,19430504,19550121,,,,tiff,http://www.susu.adep.or.jp

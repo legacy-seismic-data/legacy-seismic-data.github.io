@@ -127,21 +127,51 @@
                                 /* if the dates are not formatted so the year can be extracted, set as unknown
                                    else extract the year from the date if month and day included */
 
-                                if ((data[j].begin)[0] != "1" && (data[j].begin)[0] != "2")
+                                if ((data[j].begin)[0] != "1" && (data[j].begin)[0] != "2") {
                                     data[j].begin = "";
-
-                                if (data[j].begin.length > 4) {
-                                    date = (data[j].begin)[0] + (data[j].begin)[1] + (data[j].begin)[2] + (data[j].begin)[3];
-                                    data[j].begin = date;
+                                    data[j].full_begin = "";
                                 }
 
-                                if ((data[j].end)[0] != "1" && (data[j].end)[0] != "2")
+                                if (data[j].begin.length >= 4) {
+                                    data[j].full_begin = data[j].begin;
+                                    if (data[j].begin.length == 4) {
+                                        data[j].begin += "-01-01";
+                                    } else if (data[j].begin.length > 4 && data[j].begin.length < 8) {
+                                        date = (data[j].begin)[0] + (data[j].begin)[1] + (data[j].begin)[2] + (data[j].begin)[3] + "-01-01";
+                                        data[j].begin = date;
+                                    } else {
+                                        date = (data[j].begin)[0] + (data[j].begin)[1] + (data[j].begin)[2] + (data[j].begin)[3] + "-" + (data[j].begin)[4] +
+                                            (data[j].begin)[5] + "-" + (data[j].begin)[6] + (data[j].begin)[7];
+                                        data[j].begin = date;
+                                    }
+
+                                }
+
+                                if ((data[j].end)[0] != "1" && (data[j].end)[0] != "2") {
                                     data[j].end = "";
-
-                                if (data[j].end.length > 4) {
-                                    date = (data[j].end)[0] + (data[j].end)[1] + (data[j].end)[2] + (data[j].end)[3];
-                                    data[j].end = date;
+                                    data[j].full_end = "";
                                 }
+
+                                if (data[j].end.length >= 4) {
+                                    data[j].full_end = data[j].end;
+                                    if (data[j].end.length == 4) {
+                                        data[j].end += "-01-01";
+                                    } else if (data[j].end.length > 4 && data[j].end.length < 8) {
+                                        date = (data[j].end)[0] + (data[j].end)[1] + (data[j].end)[2] + (data[j].end)[3] + "-01-01";
+                                        data[j].end = date;
+                                    } else {
+                                        date = (data[j].end)[0] + (data[j].end)[1] + (data[j].end)[2] + (data[j].end)[3] + "-" + (data[j].end)[4] +
+                                            (data[j].end)[5] + "-" + (data[j].end)[6] + (data[j].end)[7];
+                                        data[j].end = date;
+                                    }
+                                }
+
+                                if (data[j].full_begin == undefined)
+                                    data[j].full_begin = "";
+
+                                if (data[j].full_end == undefined)
+                                    data[j].full_end = "";
+
 
                                 var url = "";
                                 var fname = "";
@@ -162,6 +192,8 @@
                                     "properties": {
                                         "begin": data[j].begin,
                                         "end": data[j].end,
+                                        "full_begin": data[j].full_begin,
+                                        "full_end": data[j].full_end,
                                         "location": data[j].location,
                                         "organization": data[j].organization,
                                         "station": data[j].station,
@@ -290,11 +322,11 @@
                         borderWidth: points.properties.border,
                     };
 
-                    if (points.properties.begin == "") {
-                        points.properties.begin = "?";
+                    if (points.properties.full_begin == "") {
+                        points.properties.full_begin = "?";
                     }
-                    if (points.properties.end == "") {
-                        points.properties.end = "?";
+                    if (points.properties.full_end == "") {
+                        points.properties.full_end = "?";
                     }
 
                     if (points.properties.organization == "") {
@@ -308,7 +340,7 @@
                         '<strong>' + points.properties.location + '</strong><br><br>' +
                         '<strong>Latitude: </strong>' + points.properties.latitude + '<br>' +
                         '<strong>Longitude: </strong>' + points.properties.longitude + '<br>' +
-                        '<strong>Date Range: </strong>' + points.properties.begin + '-' + points.properties.end + '<br>' +
+                        '<strong>Date Range: </strong>' + points.properties.full_begin + '-' + points.properties.full_end + '<br>' +
                         '<strong>Location: </strong>' + points.properties.location + '<br>';
 
                     if (points.properties.components != "")
