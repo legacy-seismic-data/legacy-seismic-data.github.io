@@ -57,7 +57,7 @@ It has been estimated that over 400 events were capture on these scans with:
 * 156 nuclear events
 
 
-A total of 189,180 scans have been sent to IRC DMC. Table below shows approximate number of scans available and format.
+A total of 189,180 scans have been sent to IRC DMC and are also available by request through the ASL. Table below shows approximate number of scans available and format.
 For a 300 x 900 mm seismogram, 3200 ppi is approximatly 394 dpi.
 
 **no. available** | **format** | **dpi** | **color**
@@ -75,13 +75,15 @@ See Supplement to Alejandro et al. (2019) for a complete list of  M&ge;6 events 
 
 For some stations, original paper records maybe available.
 ## Contact
-For more information about this collection, please contact: \< *blank* \>
+For more information about this collection, please contact: *Alexis Alejandro aalejandro@contractor.usgs.gov* or *Adam Ringler aringler@usgs.gov* 
 
 ## References
 Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2019). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
 http://dx.doi.org/10.3133/ofr20141218.
+
+Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201
 
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
