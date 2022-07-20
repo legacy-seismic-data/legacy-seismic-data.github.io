@@ -22,10 +22,12 @@ The station is currently operated by the [Albuquerque Seismological Laboratory](
 
 
 ## Instrumentation
-Benioff  2 (LP, SP)  
-Wood-Anderson 2  
-Milne-Shaw 2  
-
+Benioff Vertical Seismogram; Galvanometer 1; Tg=0.2, 0.3; To=1 <br>
+Benioff Vertical Seismogram; Galvanometer 2; Tg=13, 13.5, 14; To=1<br>
+Wood-Anderson Horizontal Torsion Seismograph No.1; EW<br>
+Wood-Anderson Horizontal Torsion Seismograph No.2; NS<br>
+Milne-Shaw Horizontal Pendulum Seismograph No.43; NW-SE; To=12sec; v=25degrees<br>
+Milne-Shaw Horizontal Pendulum Seismograph No.44; NE-SW; To=12sec; v=25degrees<br>
 
 ## Recording Medium
 photographic paper  36 inches x 14 inches
@@ -33,14 +35,13 @@ photographic paper  36 inches x 14 inches
 
 ## Data Availability
 
-Of the 16,000 surviving analogue seismograms, 15% were damaged beyond recovery.  
+Of the 16,000 surviving analogue seismograms, 15% were damaged beyond recovery.<br>
+Paper records from 1989-1997 no longer exist.
 
 
 **no. available** | **years**|**format** | **dpi** - front(back)| **color** - front(back)
 | :---: || :---: | :---: | :---: | :---:
-~10,200 | | |   |
-|1938-1939 | psd | 800(400)   | color(black/white)
-|1939-1953| tif | 1200(400)   | color(grey scale)
+~10,200 |1933-1953| tif, jpg | 1200(400)   | color(grey scale)
 
 Seismograms can be downloaded from the Harvard Seismology [website.](http://www.seismology.harvard.edu/HRV/1933.html#0828)
 
@@ -51,7 +52,7 @@ Harvard University develops and maintains the opensource code [DigitSeis](http:/
 For more information on preservation efforts, see Ishii *et al.* (2015) and the [HRV Seismogram Archival Project](http://www.seismology.harvard.edu/HRV/archive.html)
 
 ## Contact
-For more information about this collection, please contact: \< *blank* \>
+For more information about this collection, please contact: [Thomas Lee](mailto:talee@fas.harvard.edu)
 
 ## References
 Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022*
