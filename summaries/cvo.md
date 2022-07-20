@@ -1,7 +1,7 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Cascade sVolcano Observatory, United States "
+title               : "Cascades Volcano Observatory, United States "
 subheadline         : "CVO"
 teaser              : "More information about this station"
 header:

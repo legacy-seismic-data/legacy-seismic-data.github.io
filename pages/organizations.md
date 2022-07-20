@@ -51,6 +51,7 @@ See *More Info* for each station or select the corresponding organization from t
 <br>
 [**WWSSN:**](../organizations/wwssn) Worldwide Standardized Seismographic Network
 
+For [EuroSeismos](../organizations/euroseismos), see their website for a station [list](http://storing.ingv.it/es_web/).
 
 #### Pop-up Key
 
