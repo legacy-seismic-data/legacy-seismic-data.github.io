@@ -54,6 +54,8 @@ Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oanc
 
 Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf. [Iceland](../organizations/iceland)
 
+Einarsson, Páll  and Jakobsson, Sigurður(2020). The analog seismgoram archives of Iceland: Scanning and the preservation of future research, JÖKULL 70, 72. doi: 0.33799/jokull2020.70.057. [Iceland](../organizations/iceland)
+
 Ferrari, G. ,Pino, N. A. (2003). EUROSEISMOS 2002-2003 a project for saving and studying historical seismograms in the Euro-mediterranean area, EGS - AGU - EUG Joint Assembly, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....5274F. [EuroSeismos](../organizations/euroseismos)
 
 Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
