@@ -17,7 +17,9 @@ Currently maintained by the [Ohio Geological Survey](https://ohiodnr.gov/wps/por
 
 | **Location** | **Code** | **Latitude** | **Longitude** | **Timespan** | **Components**
 | :--- | :--- | :---: | :---: | :---: | :---: | :---:
-| Cleveland, Ohio |  JCU | 41.4856 | -81.7056  | 1900-1992 |  3
+| Cleveland, Ohio |  JCU | 41.4856 | -81.7056  | |  3
+| | |  41.1911 | -81.5312 | 1946-1968
+| | | 41.4888 | -81.5321 | 1968-?
 
 Station was relocated after 1931.
 
@@ -31,14 +33,19 @@ smoked paper
 paper
 
 ## Data Availability
-Digital scanning began on select seismograms in ~2019.
+Digital scanning has not begun.
 
 The entire analog collection, >100,000 seismograms, is available to interested researchers. The records are continuous from the early 1920's through 1931.
 
-Archives of John Carroll University Department of Seismology [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default).
+A small subset of global earthquakes are available upon request. These 64 records are 50-100MB tif files. See also [special collection](https://o90014.eos-intl.net/O90014/OPAC/Details/Record.aspx?BibCode=3130132).
+
+Archives of John Carroll University Department of Seismology contain notebooks and earthquake bulletins. These include travel-time tables from the 1930s from James Macelwane. [[more info]](http://ead.ohiolink.edu/xtf-ead/view?docId=ead/OClJC0008.xml;query=;brand=default)
 
 ## Contact
-For more information about this collection, please contact: \< *blank* \>
+For more information about this collection, please contact:
+ * [Jeff Fox](mailto:Jeffrey.fox@dnr.ohio.gov), OhioSeis Seismologist
+ * [Lisa Long](mailto:Lisa.long@dnr.ohio.gov), Library Administrator
+
 
 ## References
 Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf
