@@ -82,9 +82,16 @@
   url: "/bulletins"
   side: left
 
-- title: references
-  url: "/references/"
+- title: resources
+  url: "/resources/"
   side: left
+  dropdown:
+  - title: references
+    url: "/resources/references/"
+  - title: software
+    url: "/resources/software/"
+  - title: "web resources"
+    url: "/resources/webresources/"
 
 #- title: index
 #  url: "/listing/"

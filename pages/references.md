@@ -6,7 +6,7 @@ subheadline         : "FIND"
 teaser              : "A list of all references used here."
 header:
    image_fullwidth  : "organizations2.jpg"
-permalink           : "/references/"
+permalink           : "/resources/references/"
 ---
 
 Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic Network in the Early Days of Seismology in Romania, European Association of Geoscientists &amp; Engineers, 1, 1-5. https://doi.org/10.3997/2214-4609.202149BGS56. [Romania](../organizations/romania)
