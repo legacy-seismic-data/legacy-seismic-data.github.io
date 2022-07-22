@@ -6,7 +6,7 @@ subheadline         : "websites of interests"
 teaser              : "Additional resources for historical seismic data"
 header:
    image_fullwidth  : "seismogram.jpg"
-permalink           : "/resources/webresources"
+permalink           : "/resources/webresources/"
 ---
 
 

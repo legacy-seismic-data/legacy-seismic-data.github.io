@@ -6,7 +6,7 @@ subheadline         : "Vectorize"
 teaser              : "Software packages for vectorization"
 header:
    image_fullwidth  : "scrabble.jpg"
-permalink           : "/resources/software"
+permalink           : "/resources/software/"
 ---
 
 The following is a list of freely available software available to the community for the vectorization of seismograms from an image.
@@ -16,7 +16,7 @@ DigitSeis is a software written in MATLAB that converts digital, raster images o
  [[website](http://www.seismology.harvard.edu/research/DigitSeis.html)]
 
 ### SKATE
-  SKATE (Seismogram Kit for Automatic Trace Extraction). SKATE is a web‐based image‐processing program that is hosted on a remote Amazon Web Services (AWS) platform. Its use requires users only to navigate a browser to our user interface (see Data and Resources) to begin running the program. No software installation nor purchasing of software is required, and client computer requirements are minimal because all computationally intensive processing is done on the remote server. *Retriever Technology* <br>
+SKATE (Seismogram Kit for Automatic Trace Extraction). SKATE is a web‐based image‐processing program that is hosted on a remote Amazon Web Services (AWS) platform. Its use requires users only to navigate a browser to our user interface (see Data and Resources) to begin running the program. No software installation nor purchasing of software is required, and client computer requirements are minimal because all computationally intensive processing is done on the remote server. *Retriever Technology* <br>
  [[more info](https://doi.org/10.1785/0220180006)][[portal](http://seismo.redfish.com/)][[github](https://github.com/retrievertech)]
 
 ### Teseo
