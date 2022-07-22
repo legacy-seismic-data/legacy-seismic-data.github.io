@@ -5,7 +5,7 @@ title               : "Web Resources"
 subheadline         : "websites of interests"
 teaser              : "Additional resources for historical seismic data"
 header:
-   image_fullwidth  : "references.jpg"
+   image_fullwidth  : "seismogam.tif"
 permalink           : "/resources/webresources"
 ---
 

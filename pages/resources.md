@@ -5,7 +5,7 @@ title               : "Resources"
 subheadline         : "some useful things"
 teaser              : "Additional resources for working with historical seismograms."
 header:
-   image_fullwidth  : "writing.jpg"
+   image_fullwidth  : "organizations2.jpg"
 permalink           : "/resources/"
 ---
 
