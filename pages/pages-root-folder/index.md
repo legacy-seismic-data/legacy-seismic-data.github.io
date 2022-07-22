@@ -14,19 +14,20 @@ widget2:
   url: "/organizations/"
 #  image: organizations_resampled.jpg
   image: students_bikes.jpg
-  text: 'Discover organizations that manage e-legacy seismic data.'
+#  text: 'Discover organizations.'
 widget3:
 #  title: "Index"
   title: "Events"
 #  image: scrabble_resize.jpg
   image: crack_resize.jpg
   url: "/events/"
-  text: 'Discover events with available e-legacy seismic data.'
+  button: "test"
+#  text: 'Discover events.'
 widget1:
   title: "Stations"
   url: "/stations/"
   image: Fabra.jpeg
-  text: 'Discover stations with available e-legacy seismic data.'
+#  text: 'Discover stations.'
 #  widget3:
 #    title: "References"
 #    url: 'http://ljhwang.github.io/Legacy-Seismic-Data/references'
@@ -43,7 +44,7 @@ widget1:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /references/
+  url: /resources/references/
   text: references ›
   style: alert
 permalink: /index.html
