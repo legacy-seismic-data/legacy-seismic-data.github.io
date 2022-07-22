@@ -11,6 +11,8 @@ permalink           : "/bulletins"
 
 Archives of scanned instrumental seismic bulletins pertaining to either a single station or network.
 
+For more useful links see the ESC Legacy Seismograms <a href="https://www.legacy-seismograms.eu/useful-links/">website.</a>
+
 <hr>
 ## ISC Electronic Archive of Station and Network Bulletins
 Station and network bulletins are available for download from the International Seismological Centre (ISC).  
@@ -48,6 +50,3 @@ Access the complete list: [http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.htm
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 <hr>
-## Uppsala University
-Scanned publications from Uppsala University, with data from seismological records from the years 1904-1998.  
-Access: [http://www.axelhamberg.se/Bulletin/Engelsk.htm](http://www.axelhamberg.se/Bulletin/Engelsk.htm)
