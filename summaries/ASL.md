@@ -52,7 +52,7 @@ See Supplement to Alejandro et al. (2018) for complete list of  M&ge;6 events an
 For some stations, original paper records maybe available.
 
 ## Contact
-For more information about this collection, please contact:  *Alexis Alejandro aalejandro@contractor.usgs.gov* or *Adam Ringler aringler@usgs.gov* 
+For more information about this collection, please contact:  *Alexis Alejandro aalejandro@contractor.usgs.gov* or *Adam Ringler aringler@usgs.gov*
 
 ## References
 Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275
