@@ -39,8 +39,8 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 
-urlimg: 'images/'
-#urlimg: 'https://legacy-seismic-data.io/legacy-seismic-data.io/images/'
+#urlimg: 'images/'
+urlimg: 'https://legacy-seismic-data.github.io/images/'
 
 
 # Logo size is 600x80 pixels
