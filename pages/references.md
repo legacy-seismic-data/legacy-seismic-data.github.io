@@ -9,132 +9,132 @@ header:
 permalink           : "/resources/references/"
 ---
 
-Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic Network in the Early Days of Seismology in Romania, European Association of Geoscientists &amp; Engineers, 1, 1-5. https://doi.org/10.3997/2214-4609.202149BGS56. [Romania](../organizations/romania)
+Adina, V., Popa, M., Ionescu, C., and Paulescu, D. (2021). Building up a Seismic Network in the Early Days of Seismology in Romania, European Association of Geoscientists &amp; Engineers, 1, 1-5. https://doi.org/10.3997/2214-4609.202149BGS56. [Romania](../../organizations/romania)
 
-Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275. [WWSSN](../organizations/wwssn)
+Alejandro, A. C. B., C. R. Hutt, A. T. Ringler, S. V. Moore, R. E. Anthony, D. C. Wilson (2018). The Albuquerque Seismological Lab WWSSN Film Chip Preservation Project. *Seismological Research Letters* 90 (1): 401–408. doi: https://doi.org/10.1785/0220180275. [WWSSN](../../organizations/wwssn)
 
-Anonymous. HVO’s Pilot Project to Archive Legacy Seismic Data, https://hilo.hawaii.edu/depts/geology/documents/SeismicArchive.pdf. *Last accessed 10 February 2022* [HVO](../organizations/hawaii)
+Anonymous. HVO’s Pilot Project to Archive Legacy Seismic Data, https://hilo.hawaii.edu/depts/geology/documents/SeismicArchive.pdf. *Last accessed 10 February 2022* [HVO](../../organizations/hawaii)
 
-Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*. [Romania](../organizations/romania)
+Archive INFP. http://archive.infp.ro/. *Last accessed 5 January 2022*. [Romania](../../organizations/romania)
 
 Babb, J.L., Kauahikaua, J.P., and Tilling, R.I., 2011, The story of the Hawaiian Volcano Observatory—A remarkable
 first 100 years of tracking eruptions and earthquakes: U.S. Geological Survey General Information Product 135,
-60 p., available at http://pubs.usgs.gov/gip/135/. [HVO](../organizations/hawaii)
+60 p., available at http://pubs.usgs.gov/gip/135/. [HVO](../../organizations/hawaii)
 
-Batlló, Josep and Peter Bormann; A Catalog of Old Spanish Seismographs (2000). Seismological Research Letters 71 (5): 570–582. doi: https://doi.org/10.1785/gssrl.71.5.570. [ICGC](../organizations/icgc)
+Batlló, Josep and Peter Bormann; A Catalog of Old Spanish Seismographs (2000). Seismological Research Letters 71 (5): 570–582. doi: https://doi.org/10.1785/gssrl.71.5.570. [ICGC](../../organizations/icgc)
 
-Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2019). Present Status of the Project for Preserving Analogue Seismograms and Other Documents at Institut Cartogràfic i Geològic de Catalunya (ICGC), IUGG2019 General Assembly, 12 July 2019, Montreal Canada, JS067-466. [ICGC](../organizations/icgc)
+Batlló, Josep, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2019). Present Status of the Project for Preserving Analogue Seismograms and Other Documents at Institut Cartogràfic i Geològic de Catalunya (ICGC), IUGG2019 General Assembly, 12 July 2019, Montreal Canada, JS067-466. [ICGC](../../organizations/icgc)
 
 Batlló, Josep, Antonio Villaseñor, Jose Antonio Jara, Maite Merino, Germán Solé, and Judith Unamuno (2021). Digital Preservation of Analogue Seismograms and Other Documents at
-Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101. [ICGC](../organizations/icgc)
+Institut Cartogràfic i Geològic de Catalunya (ICGC), IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 101. [ICGC](../../organizations/icgc)
 
-Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf [JCU](../organizations/ohio)
+Birkenhauser, H.F. Chapter IX John Carroll University Observatory Cleveland, Ohio. http://www.eas.slu.edu/eqc/eqc_history/JSA25/JSA_chpt09.pdf [JCU](../../organizations/ohio)
 
-Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../organizations/scsn)
+Brodsky, E. & Kanamori, H. (2011). Scans of the Caltech Archives. http://ds.iris.edu/seismoarchives/projects/Caltech_Seismograms.htm (last accessed 26 April 2020). [SCSN](../../organizations/scsn)
 
 Chai, X., Q. Wang, L. Mu, H. Wang, W. Wang, F. Zhu, and W. Liu (2020). Rescue Work and Progress
-of Analog Seismograms in China, Seismol. Res. Lett. 91, 2704–2718, doi: 10.1785/0220200077. [China](../organizations/china)
+of Analog Seismograms in China, Seismol. Res. Lett. 91, 2704–2718, doi: 10.1785/0220200077. [China](../../organizations/china)
 
-Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014 [COI](../organizations/coimbra)
+Custódio, Susana, Josep Batlló, Décio Martins, Fábio Antunes, João Narciso, Sara Carvalho, Vânia Lima, Fernando C. Lopes, Paulo Ribeiro, Reinoud Sleeman, E. Ivo Alves, Celeste R. Gomes; Station COI: Dusting Off an Old Seismic Station. Seismological Research Letters 2012;; 83 (5): 863–869. doi: https://doi.org/10.1785/0220120014 [COI](../../organizations/coimbra)
 
-The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 20 January 2022* [Japan-ADEP](../organizations/japan-adep)
+The Data Retrieval System of Analog Seismograms of some Japanese Academies. [http://www.univsusu.adep.or.jp/](http://www.univsusu.adep.or.jp/) *last accessed 20 January 2022* [Japan-ADEP](../../organizations/japan-adep)
 
 Department of Monitor and Prediction in China EarthquakeAdministration (CEA) (2005a). Album of Historical Seismograms
 Recorded in Early Chinese Seismographic Stations, Vol. 1, ShanghaiZikawei Seismographic Station (1906–1948), Earthquake Publish
-House, Beijing, China, 1–257 (in Chinese). [China](../organizations/china)
+House, Beijing, China, 1–257 (in Chinese). [China](../../organizations/china)
 
 Department of Monitor and Prediction in CEA (2005b). Album of Historical Seismograms Recorded in Early Chinese Seismographic
-Stations, Vol. 2, Dalian Seismographic Station (1918–1945),Earthquake Publish House, Beijing, China, 1–303 (in Chinese). [China](../organizations/china)
+Stations, Vol. 2, Dalian Seismographic Station (1918–1945),Earthquake Publish House, Beijing, China, 1–303 (in Chinese). [China](../../organizations/china)
 
 Department of Monitor and Prediction in CEA (2005c). Album of Historical Seismograms Recorded in Early Chinese Seismographic
 Stations, Vol. 3, Qingdao City Observatory (1912–1925), Chongqing Beibei (1943–1946) and Nanjing Shijingtai Seismographic Station
-(1947–1948), Earthquake Publish House, Beijing, China, 1–228 (in Chinese). [China](../organizations/china)
+(1947–1948), Earthquake Publish House, Beijing, China, 1–228 (in Chinese). [China](../../organizations/china)
 
-Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112. [Romania](../organizations/romania)
+Dinescu, R., Popa, M., Paulescu, D., Chircea, A., Neagoe, C., Rau, A.V. and Oancea, V. (2021). Collecting and preserving historical seismic data in Romania, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 112. [Romania](../../organizations/romania)
 
-Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf. [Iceland](../organizations/iceland)
+Einarsson, Páll (2018). A short, incomplete history of analog seismographs in Iceland, http://seismis.hi.is/includes/History%20of%20seismographs180608.pdf. [Iceland](../../organizations/iceland)
 
-Einarsson, Páll  and Jakobsson, Sigurður(2020). The analog seismgoram archives of Iceland: Scanning and the preservation of future research, JÖKULL 70, 72. doi: 0.33799/jokull2020.70.057. [Iceland](../organizations/iceland)
+Einarsson, Páll  and Jakobsson, Sigurður(2020). The analog seismgoram archives of Iceland: Scanning and the preservation of future research, JÖKULL 70, 72. doi: 0.33799/jokull2020.70.057. [Iceland](../../organizations/iceland)
 
-Ferrari, G. ,Pino, N. A. (2003). EUROSEISMOS 2002-2003 a project for saving and studying historical seismograms in the Euro-mediterranean area, EGS - AGU - EUG Joint Assembly, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....5274F. [EuroSeismos](../organizations/euroseismos)
+Ferrari, G. ,Pino, N. A. (2003). EUROSEISMOS 2002-2003 a project for saving and studying historical seismograms in the Euro-mediterranean area, EGS - AGU - EUG Joint Assembly, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....5274F. [EuroSeismos](../../organizations/euroseismos)
 
 Fox, J. (2019). Preserving Ohio’s Historic Seismogram Collection: 83 Years of Global Seismology: 1909 – 1992
-presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA. [JCU](../organizations/ohio)
+presented at the 2019 Seismological Society of America Annual Meeting, April 23-26, 2019 Seattle, WA. [JCU](../../organizations/ohio)
 
-Furumura, Mitsuko; Koji Iwasa, Yasunori Suzuki, Tomotsugu Demachi, Takeo Ishibe, Ritsuko S. Matsu’ura (2020). Data Retrieval System of JMA Analog Seismograms in the Headquarters for Earthquake Research Promotion of the Japanese Government. Seismological Research Letters; 91 (3): 1403–1412. doi: https://doi.org/10.1785/0220190303. [JMA](../organizations/jma)
+Furumura, Mitsuko; Koji Iwasa, Yasunori Suzuki, Tomotsugu Demachi, Takeo Ishibe, Ritsuko S. Matsu’ura (2020). Data Retrieval System of JMA Analog Seismograms in the Headquarters for Earthquake Research Promotion of the Japanese Government. Seismological Research Letters; 91 (3): 1403–1412. doi: https://doi.org/10.1785/0220190303. [JMA](../../organizations/jma)
 
-Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../organizations/scsn)
+Goldstein, J. & Roberts, P. (1985). Filming seismograms and related materials at the California Institute of Technology, EOS 66, 737-739.  [SCSN](../../organizations/scsn)
 
-Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1. [JCU](../organizations/ohio)
+Hansen, M.C. (2000). OhioSeis - The Ohio Seismic Network, Ohio Geology, 1. [JCU](../../organizations/ohio)
 
-Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022.* [HRV](../organizations/harvard)
+Harvard Seismology. http://www.seismology.harvard.edu/HRV/status.html *Last accessed 20 January 2022.* [HRV](../../organizations/harvard)
 
-HERP Data Retrieval System of the JMA Analog Seismograms. 2022 [http://www.susu.adep.or.jp/](http://www.susu.adep.or.jp/). *last accessed 2 February 2022.* [JMA](../organizations/jma)
+HERP Data Retrieval System of the JMA Analog Seismograms. 2022 [http://www.susu.adep.or.jp/](http://www.susu.adep.or.jp/). *last accessed 2 February 2022.* [JMA](../../organizations/jma)
 
 Hutton, K., Woessner, J., & Hauksson, E. (2020). Earthquake Monitoring in Southern California
-for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../organizations/scsn)
+for Seventy-Seven Years (1932-2008), Bull. Seismol. Soc. Am. 100, 423-446, doi:10.1785/0120090130. [SCSN](../../organizations/scsn)
 
-ICGC website. https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Analog-seismograms. *Last accessed 10 January 2022.* [ICGC](../organizations/icgc)
+ICGC website. https://www.icgc.cat/en/Public-Administration-and-Enterprises/Services/Recorded-earthquakes-and-seismic-information/Seismic-information-and-maps-collections/Analog-seismograms. *Last accessed 10 January 2022.* [ICGC](../../organizations/icgc)
 
-Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last accessed: 3 January 2021. [Iceland](../organizations/iceland)
+Institute of Earth Sciences, University of Iceland, Seismogram Archive. Last accessed: 3 January 2021. [Iceland](../../organizations/iceland)
 
 Ishii, M., H. Ishii, B. Bernier, & E. Bulat (2015). Efforts to recover and digitize analog seismograms from Harvard-
-Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261. [HRV](../organizations/harvard)
+Adam Dziewonski observatory. Seismol. Res. Lett., 86(1):255-261. [HRV](../../organizations/harvard)
 
-Kitahara I., Matsu’ura R. S., and Kimura R. (2012). Nihon Rekishi Saigaishi Jiten (Encyclopedia of Historical Disasters in Japan) , Yoshikawa Kobunkan, Tokyo, Japan, 892 pp. (in Japanese). [JMA](../organizations/jma)
+Kitahara I., Matsu’ura R. S., and Kimura R. (2012). Nihon Rekishi Saigaishi Jiten (Encyclopedia of Historical Disasters in Japan) , Yoshikawa Kobunkan, Tokyo, Japan, 892 pp. (in Japanese). [JMA](../../organizations/jma)
 
 Lee, T. A., M. Ishii, H. Ishii & T. Morinaga (2019). The Potential of Analog Seismograms for Science and Education,
 presented at 2019 Legacy Securing Legacy Seismic Data to Enable Future Discoveries Workshop, Albuquerque,
-New Mexico, Sept 18-19, 2019. [HRV](../organizations/harvard)
+New Mexico, Sept 18-19, 2019. [HRV](../../organizations/harvard)
 
-Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301. [Japan-ADEP](../organizations/japan-adep)
+Matsu’ura, R. S., N. Umino, Y. Tamura, Y. Iio, M. Kasahara, and T. Ohkura (2020). The Achievement of Archiving Analog Seismograms in Japanese Institutes for 15 Yr, Seismol. Res. Lett., doi: 10.1785/0220190301. [Japan-ADEP](../../organizations/japan-adep)
 
 Molovichkko, A., Y. Vinogradov, P. Butyrin, and R. Dyagiliv (2021). Preservation and Digitization of Analog Soviet Peaceful Nuclear Explosion Seismograms, IAGA-IASPEI 2021, 21-27 August 2021, virtual, SR100. [Soviet Union](../monitoring/sovietunion)
 
 McCann, William R. Brief History of Seismic Recording in Puerto Rico. http://ds.iris.edu/seismo-archives/stations/puerto_rico/references/seismic-recording_history_Puerto_Rico/seismic-recording_history_Puerto_Rico.pdf
-*Last accessed 14 January 2022* [SJG, SJP, VQA](../organizations/puerto_rico)
+*Last accessed 14 January 2022* [SJG, SJP, VQA](../../organizations/puerto_rico)
 
 McComb, H.E. and C.J West (1931). List of Seismological Stations of the World, Bulletin of the National Research Council, 82, National Research Council, National Academy of Sciences, Washington D.C., 119pp.
 
-Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103. [ICGC](../organizations/icgc)
+Merino, Maria Teresa, Batlló, Josep, Jose Antonio Jara, Antonio Villaseñor,and Judith Unamuno (2021). Observatori Fabra available data and documentation, IAGA-IASPEI 2021, 21-27 August 2021, Hyderabad, India, 103. [ICGC](../../organizations/icgc)
 
 Murotani, S., K. Satake, H. Tsuruoka, H. Miyake, T. Sato, T. Hashimoto, and H. Kanamori (2020). A
 Database of Digitized and Analog Seismograms of Historical Earthquakes in
-Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190287. [ERI](../organizations/eri)
+Japan, Seismol. Res. Lett. 91, 1459–1468, doi: https://doi.org/10.1785/0220190287. [ERI](../../organizations/eri)
 
 Nemoto J. (1957). Brief history of Meteorological Society of Japan in the wartime, in Short History of the Meteorological Society of Japan in Commemoration of the 75th Anniversary , Meteorological Society of Japan, Tokyo, Japan, 69 pp. (in Japanese).
-Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334. [JMA](../organizations/jma)
+Golden, S., L. S. Wagner, B. Schleigh, D. Power, D. C. Roman, S. I. Sacks, and H. Janiszewski (2020). Digitization of the Carnegie Analog Broadband Instruments Tape Records (1965–1996), *Seismol. Res. Lett.* 91, 1441–1451, doi: 10.1785/0220190334. [JMA](../../organizations/jma)
 
-Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [BAT/DJA](../organizations/batavia),[CGH/CTO/HER](../organizations/capetown), [WES](../organizations/weston), [MIZ](../organizations/mizusawa)
+Okal, E. A. (2015). Historical seismograms: Preserving an endangered species. GeoResJ, 6, 53–64. doi: 10.1016/j.grj.2015.01.007 [BAT/DJA](../../organizations/batavia),[CGH/CTO/HER](../../organizations/capetown), [WES](../../organizations/weston), [MIZ](../../organizations/mizusawa)
 
-Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../organizations/capetown)
+Ou, Qi.Scanned_Seismogram_Holdings_from_CapeTown_Hermanus_end_dates_changed_location,https://docs.google.com/spreadsheets/d/1pUyHyQMMIXvhO0XkS13FqvfHveVoEC_c/edit#gid=1991604385. *Last accessed 2022 February 10*. [CGH/CTO/HER](../../organizations/capetown)
 
-Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039. [Romania](../organizations/romania)
+Paulescu, D., Rogozea, M., Popa, M. et al. (2016). Digitized Database of Old Seismograms Recorder in Romania. Acta Geophys. 64, 963–977. https://doi.org/10.1515/acgeo-2016-0039. [Romania](../../organizations/romania)
 
 Peterson, Jon, and Hutt, C.R. (2014). World-Wide Standardized Seismograph Network—A data users guide: U.S. Geological Survey Open-File Report 2014–1218, 74 p.,  
-http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../organizations/wwssn)
+http://dx.doi.org/10.3133/ofr20141218. [WWSSN](../../organizations/wwssn)
 
-Pintore, S., Quintiliani, M. Franceschi, D. (2005). Teseo: A vectoriser of historical seismograms, Computers & Geosciences 31, p. 1277–1285. [EuroSeismos](../organizations/euroseismos)
+Pintore, S., Quintiliani, M. Franceschi, D. (2005). Teseo: A vectoriser of historical seismograms, Computers & Geosciences 31, p. 1277–1285. [EuroSeismos](../../organizations/euroseismos)
 
-Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp. [Japan-ADEP](../organizations/japan-adep)
+Poppe, B. B., D. A. Naab, and J.S. Deer (1978). Seismographic Station Codes and Characteristics. US Geological Survey Circular 791, 171 pp. [Japan-ADEP](../../organizations/japan-adep)
 
-Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201 [WWSSN](../organizations/wwssn)
+Ringler, A. T., D. C. Wilson, E. Wolin, T. Storm, and L. Sandoval (2020). Calibration Analysis and Noise Estimates of WWSSN Station ALQ (Albuquerque, New Mexico). *Seismological Research Letters* 91 (3): 1359–1366. doi: https://doi.org/10.1785/0220190201 [WWSSN](../../organizations/wwssn)
 
-Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../organizations/carnegie)
+Sacks, I. S. (1966). A Broad-band large dynamic range seismograph, in *The Earth beneath the Continents,* J. S. Steinhart and T. J. Smith (Editors), Geophysical Monograph, Vol. 10, American Geophysical Union, Washington, D.C., 543–553, doi: 10.1029/GM010p0543. [Carnegie](../../organizations/carnegie)
 
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
-University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281. [ERI](../organizations/eri)
+University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281. [ERI](../../organizations/eri)
 
-Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203 [CGH/CTO/HER](../organizations/capetown)
+Saunders, Ian, Martin Brandt, Johan Steyn, Dale Roblin, Andrzej Kijko (2008). The South African National Seismograph Network. Seismological Research Letters; 79 (2): 203–210. doi: https://doi.org/10.1785/gssrl.79.2.203 [CGH/CTO/HER](../../organizations/capetown)
 
-Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*. [EuroSeismos](../organizations/euroseismos)
+Saving and Studying the Seismograms of the Strongest Euro-Mediterranean Earthquakes, http://storing.ingv.it/es_web/. *Last accessed 8 February 2022*. [EuroSeismos](../../organizations/euroseismos)
 
 Seismo Archives. https://ds.iris.edu/seismo-archives/stations/puerto_rico/
-*Last accessed 14 January 2022*  [SJG, SJP, VQA](../organizations/puerto_rico)
+*Last accessed 14 January 2022*  [SJG, SJP, VQA](../../organizations/puerto_rico)
 
-SISMOS, http://sismos.rm.ingv.it/index.php. *Last accessed 9 February 2022*. [EuroSeismos](../organizations/euroseismos)
+SISMOS, http://sismos.rm.ingv.it/index.php. *Last accessed 9 February 2022*. [EuroSeismos](../../organizations/euroseismos)
 
 Wang, J (2020). Conservation and Utilization of Historical Seismograms from Early Stage (A.D.
-1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268. [China](../organizations/china)
+1904–1948), Mainland China, Seismol. Res. Lett. 91, 1394–1402, doi: 10.1785/0220190268. [China](../../organizations/china)
 
-Young, B. A., and R. E. Abbott (2020). Recovery and Calibration of Legacy Underground Nuclear Test Seismic Data from the Leo Brady Seismic Network, Seismol. Res. Lett. 91, 1488–1499, doi: 10.1785/0220190341. [LBSN](../organizations/leobrady)
+Young, B. A., and R. E. Abbott (2020). Recovery and Calibration of Legacy Underground Nuclear Test Seismic Data from the Leo Brady Seismic Network, Seismol. Res. Lett. 91, 1488–1499, doi: 10.1785/0220190341. [LBSN](../../organizations/leobrady)
