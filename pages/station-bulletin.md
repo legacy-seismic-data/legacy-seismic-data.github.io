@@ -50,3 +50,22 @@ Access the complete list: [http://wwweic.eri.u-tokyo.ac.jp/record-W/taiwan-e.htm
 Satake, K., H. Tsuruoka, S. Murotani, and K. Tsumura (2020). Analog Seismogram Archives at the Earthquake Research Institute, the
 University of Tokyo, Seismol. Res. Lett. 91, 1384–1393, doi: 10.1785/0220190281.
 <hr>
+### Hathi Trust Digital Library
+The [Hathi Trust Digital Library](https://www.hathitrust.org/) provides access to a number of station bulletins worldwide.  This includes:
+
+* U.S. Coast and Geodetic Survey. Seismological bulletin. Washington, D.C.: U.S. Dept. of Commerce, Coast and Geodetic Survey. [[access](https://catalog.hathitrust.org/Record/006188480/Home)]
+* John Carroll University. Seismological Observatory. Seismological bulletin. Cleveland, Ohio: The Observatory.[[access](https://catalog.hathitrust.org/Record/011197864)]
+* Environmental Research Laboratories (U.S.)., National Ocean Survey., U.S. Coast and Geodetic Survey. Antarctic seismological bulletin. Washington: The Survey. [[access](https://catalog.hathitrust.org/Record/006188481)]
+* Dominion Observatory (Canada). Seismological bulletin. Ottawa.[[acess](https://catalog.hathitrust.org/Record/000058948)]
+* Mitchell, B. J. (Brian James)., University of Minnesota. Seismic Station. Seismological bulletin. Minneapolis: The Station.[[access](https://catalog.hathitrust.org/Record/100840729)]
+* Lembaga Meteorologi dan Geofisika., Indonesia. Departemen Perhubungan., Indonesia. Djawatan Meteorologi dan Geofisik. Seismological bulletin. Djakarta: Meteorological & Geophysical Service. [[access](https://catalog.hathitrust.org/Record/006188480/Home)]
+* Makhon le-meḥḳere nefṭ ṿe-geʼofisiḳah. Agaf saismologyah. (1983). Seismological bulletin. Holon, Israel: The Institute.[[access](https://catalog.hathitrust.org/Record/010846148)]
+* India. Meteorological Department. Division of Seismology., India. Meteorological Department. Seismological bulletin. [New Delhi]: Govt. of India, Meteorological Dept.. [[access](https://catalog.hathitrust.org/Record/010846174/Cite)]
+* Institute of Geological Sciences (Great Britain). Seismological bulletin. London: Her Majesty's Stationery Office. [[access](https://catalog.hathitrust.org/Record/000542673)]
+* Canada. Earth Physics Branch., Dominion Observatory (Canada)., Ottawa. Dominion Observatory. Seismological bulletin. Ottawa: Dept. of Energy, Mines and Resources, Earth Physics Branch.[[access](https://catalog.hathitrust.org/Record/000057709)]
+* University of Washington. Geology Dept. Seismological bulletin. Seattle. [[access](https://catalog.hathitrust.org/Record/000060347)]
+* Zhong yang di zhi diao cha suo (China). Chiufeng Seismic Station., Guo li Beiping yan jiu yuan. Di zhi xue yan jiu suo. Seismological bulletin ... Peiping: Published by the Geological survey of China (under the Ministry of industries) and the Section of geology of the National academy of Peiping. [[access](https://catalog.hathitrust.org/Record/000053077)]
+*Philippines (Commonwealth). Weather Bureau., Manila Observatory., Philippines. Weather Bureau. Seismological bulletin. Manila. [[access](https://catalog.hathitrust.org/Record/000639562)]
+
+This list is not exhaustive and may not list other resources in Europe, Asia, and the Americas.
+<hr>

@@ -17,3 +17,6 @@ The WG fosters collaboration and coordination for the Preservation, Disseminatio
 
 ### St. Louis University Earthquake Center
 Saint Louis University has a long history of monitoring earthquakes and using the science of seismology to study earthquakes and the Earth. The first seismograph was installed in 1909 and its recordings have been preserved in our archive of seismograms. The scientific study of earthquakes really was initiated by Fr. James B. Macelwane, SJ, who founded the first university department of geophysics in the western Hemisphere in 1925. Today's Saint Louis University Earthquake Center continues a century long tradition of monitoring earthquakes, promoting science and public safety. [[website](https://www.eas.slu.edu/eqc/eqc.html)]
+
+### Seismic Instrumentation
+Kissligner, Carl (1967). Lecture Notes on Seismological Instrumentation. International Institute of Seismology and Earthquake Engineering, 111pp. [[pdf](https://www.eas.slu.edu/eqc/eqc_history/CKisslinger/kisslinger_instrumentation.pdf)]
